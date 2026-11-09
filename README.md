@@ -6,6 +6,9 @@ Interactive prototype of a lead desk: auto-assignment instead of cherry-picking,
 - Light and dark theme, Montserrat font
 - Responsive from 320 px phones to 4K screens, touch-friendly controls
 - Product metrics: budget waiting, pipeline by source/industry/segment, KPI against a target, AI spam precision from your own review decisions, data quality, and a list of metrics that need more data
+- Lead details window with editable status, priority and owner, your own notes and a timeline (events before your actions are derived from the demo fields; your actions are recorded with the real time)
+- Drag and drop between board columns (mouse, or the ⠿ handle on touch screens), with a keyboard-friendly “Move to” menu in the lead window
+- Toast notifications with Undo, skeleton loaders and designed empty states
 - Plain HTML, CSS and JavaScript. No build step, no dependencies, no server.
 
 ## Files
@@ -33,7 +36,7 @@ The page also works by opening `index.html` directly in a browser.
 GitHub Pages serves static files only, so there is no server database. Data lives in two places:
 
 - **In the repository:** `js/data.js` (demo data) and `data/*.csv`. Edit or replace these to change what visitors see first.
-- **In each visitor's browser:** IndexedDB, a real database built into the browser. It keeps imported CSV data, spam review decisions, "done" marks and added or removed agents. Language and theme use local storage. Data from an earlier local-storage version is migrated automatically. If IndexedDB is unavailable, the page falls back to local storage.
+- **In each visitor's browser:** IndexedDB, a real database built into the browser. It keeps imported CSV data, spam review decisions, "done" marks, added or removed agents, and your moves, edits and notes on leads (the **Undo all moves and edits** button clears them). Language and theme use local storage. Data from an earlier local-storage version is migrated automatically. If IndexedDB is unavailable, the page falls back to local storage.
 
 Data saved this way is private to one browser on one device. To share data between people or devices you need a server database such as Supabase, Firebase or your own API. The storage layer is a small object named `db` near the top of `js/app.js` with `open()`, `get(key)` and `set(key, value)`, so it can be swapped for a server-backed version without touching the rest of the code.
 
@@ -55,4 +58,3 @@ Files never leave the browser. The **Back to demo data** button clears imported 
 
 - Montserrat loads from Google Fonts. Without internet the page falls back to the system sans-serif font.
 - Lead names, budgets and statistics are generated for the demo.
-- Link - https://annatsygichko-fe.github.io/leaddesk/

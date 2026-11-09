@@ -1,218 +1,351 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="light">
+
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>MarketerPro Lead Desk</title>
-<script>try{var th=localStorage.getItem('mp.theme');if(th!=='dark'&&th!=='light')th=(window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches)?'dark':'light';document.documentElement.setAttribute('data-theme',th);}catch(e){}</script>
-<meta name="description" content="Interactive prototype of a lead desk: auto-assignment, spam review, priorities and team metrics.">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%8A%3C/text%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/styles.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>MarketerPro Lead Desk</title>
+  <script>try { var th = localStorage.getItem('mp.theme'); if (th !== 'dark' && th !== 'light') th = (window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light'; document.documentElement.setAttribute('data-theme', th); } catch (e) { }</script>
+  <meta name="description"
+    content="Interactive prototype of a lead desk: auto-assignment, spam review, priorities and team metrics.">
+  <link rel="icon"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%8A%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&amp;display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
 </head>
+
 <body>
-<header class="top">
-  <div class="wrap">
-    <a class="brand" href="#top"><i>M</i><span data-i18n="brand">MarketerPro Lead Desk</span></a>
-    <nav class="nav" aria-label="Sections">
-      <a href="#board" data-i18n="nav_board">Pipeline</a>
-      <a href="#spam" data-i18n="nav_spam">Spam review</a>
-      <a href="#agents" data-i18n="nav_agents">Team</a>
-      <a href="#metrics" data-i18n="nav_metrics">Metrics</a>
-      <a href="#workspace" data-i18n="nav_ws">My day</a>
-    </nav>
-    <div class="ctl">
-      <select class="sel" id="lang" aria-label="Language">
-        <option value="en">English</option>
-        <option value="uk">Українська</option>
-        <option value="de">Deutsch</option>
-        <option value="fr">Français</option>
-      </select>
-      <button class="btn" id="theme" type="button"></button>
+  <header class="top">
+    <div class="wrap">
+      <a class="brand" href="#top"><i>M</i><span data-i18n="brand">MarketerPro Lead Desk</span></a>
+      <nav class="nav" aria-label="Sections">
+        <a href="#board" data-i18n="nav_board">Pipeline</a>
+        <a href="#spam" data-i18n="nav_spam">Spam review</a>
+        <a href="#agents" data-i18n="nav_agents">Team</a>
+        <a href="#metrics" data-i18n="nav_metrics">Metrics</a>
+        <a href="#workspace" data-i18n="nav_ws">My day</a>
+      </nav>
+      <div class="ctl">
+        <select class="sel" id="lang" aria-label="Language">
+          <option value="en">English</option>
+          <option value="uk">Українська</option>
+          <option value="de">Deutsch</option>
+          <option value="fr">Français</option>
+        </select>
+        <button class="btn" id="theme" type="button"></button>
+      </div>
+    </div>
+  </header>
+
+  <div id="top"></div>
+  <main>
+    <div class="hero">
+      <div class="wrap">
+        <h1 data-i18n="hero_title">Stop leads from getting lost in the backlog</h1>
+        <p class="sub" data-i18n="hero_sub"></p>
+        <div class="cta">
+          <a class="btn primary" href="#board" data-i18n="hero_cta">Explore the board</a>
+          <a class="btn" href="#spam" data-i18n="hero_cta2">Review the spam queue</a>
+        </div>
+        <p class="take" id="take"></p>
+        <p class="demo" data-i18n="demo_note"></p>
+        <div class="tiles" id="herotiles"></div>
+      </div>
+    </div>
+
+    <div class="wrap">
+      <section class="sec" id="board">
+        <h2 class="sec-h" data-i18n="board_title"></h2>
+        <p class="sec-d" data-i18n="board_desc"></p>
+        <p class="subt" data-i18n="dd_hint" style="margin-top:-10px"></p>
+        <div class="filters">
+          <label class="f"><span data-i18n="f_agent"></span><select class="sel" id="f-agent"></select></label>
+          <label class="f"><span data-i18n="f_pri"></span><select class="sel" id="f-pri"></select></label>
+          <label class="f"><span data-i18n="f_qual"></span><select class="sel" id="f-qual"></select></label>
+          <label class="f"><span data-i18n="f_delay"></span><select class="sel" id="f-delay"></select></label>
+          <label class="f"><span data-i18n="f_seg"></span><select class="sel" id="f-seg"></select></label>
+          <label class="f"><span data-i18n="f_ind"></span><select class="sel" id="f-ind"></select></label>
+          <label class="f"><span data-i18n="f_src"></span><select class="sel" id="f-src"></select></label>
+          <label class="chk"><input type="checkbox" id="f-repeat"><span data-i18n="f_repeat"></span></label>
+          <label class="chk"><input type="checkbox" id="f-paid"><span data-i18n="f_paid"></span></label>
+          <label class="f sf"><span data-i18n="f_search"></span><input class="search" id="f-q" type="search"
+              data-i18n-ph="f_search_ph"></label>
+          <button class="btn" id="f-reset" type="button" data-i18n="f_reset"></button>
+          <button class="btn" id="ov-reset" type="button" data-i18n="f_reset_moves"></button>
+        </div>
+        <p class="shown" id="shown"></p>
+        <div class="board" id="boardcols"></div>
+
+        <div class="grid">
+          <div class="box">
+            <h3 class="h" data-i18n="qual_title"></h3>
+            <p class="subt" data-i18n="qual_sub"></p>
+            <div id="qualbars"></div>
+          </div>
+          <div class="box">
+            <h3 class="h" data-i18n="age_title"></h3>
+            <p class="subt" data-i18n="age_sub"></p>
+            <div id="agebars"></div>
+          </div>
+        </div>
+
+        <div class="box">
+          <h3 class="h" data-i18n="dup_title"></h3>
+          <p class="subt" data-i18n="dup_sub"></p>
+          <p style="margin-bottom:10px"><button class="btn" id="f-merge" type="button"></button> <span class="subt"
+              id="mergenote"></span></p>
+          <div class="tw">
+            <table class="t" id="duptable">
+              <thead>
+                <tr>
+                  <th data-i18n="th_dup"></th>
+                  <th data-i18n="th_lead"></th>
+                  <th data-i18n="th_orig"></th>
+                  <th class="num" data-i18n="th_repeats"></th>
+                  <th class="num" data-i18n="th_budget"></th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <section class="sec" id="spam">
+        <h2 class="sec-h" data-i18n="spam_title"></h2>
+        <p class="sec-d" data-i18n="spam_desc"></p>
+        <div class="box">
+          <p class="p" id="spamstats" style="margin-bottom:12px"></p>
+          <div class="tabs" role="tablist" id="spamtabs"></div>
+          <div class="acts" style="margin-bottom:12px" id="spamacts"></div>
+          <div class="spamlist" id="spamlist"></div>
+        </div>
+      </section>
+
+      <section class="sec" id="agents">
+        <h2 class="sec-h" data-i18n="ag_title"></h2>
+        <p class="sec-d" data-i18n="ag_desc"></p>
+        <div class="box" style="margin-bottom:14px">
+          <h3 class="h" data-i18n="team_title"></h3>
+          <p class="subt" data-i18n="team_sub"></p>
+          <div class="simctl">
+            <label class="f"><span data-i18n="ag_name"></span><input class="search" id="ag-name" type="text"
+                maxlength="30" autocomplete="off" data-i18n-ph="ag_name_ph"></label>
+            <label class="f"><span data-i18n="ag_cap"></span><input class="num" id="ag-cap" type="number" min="1"
+                max="100" value="15"></label>
+            <button class="btn primary" id="ag-add" type="button" data-i18n="ag_add"></button>
+            <button class="btn" id="ag-reset" type="button" data-i18n="ag_reset"></button>
+          </div>
+          <p class="subt" id="ag-msg" role="status" style="margin:0"></p>
+        </div>
+        <details class="box" id="imp" style="margin-bottom:14px">
+          <summary class="h" data-i18n="imp_title"></summary>
+          <p class="subt" style="margin-top:8px" data-i18n="imp_desc"></p>
+          <div id="imp-rows"></div>
+          <p class="subt" id="imp-msg" role="status" style="margin:10px 0 0"></p>
+          <p style="margin:10px 0 6px"><button class="btn" id="imp-reset" type="button" data-i18n="imp_reset"></button>
+          </p>
+          <p class="subt" style="margin:0" data-i18n="imp_privacy"></p>
+        </details>
+        <div class="chips" id="chips"></div>
+        <div class="tiles" id="agtiles"></div>
+        <div class="grid">
+          <div class="box">
+            <h3 class="h" data-i18n="ch_done"></h3>
+            <p class="subt" id="donesub"></p>
+            <div class="chart" id="chart-done"></div>
+          </div>
+          <div class="box">
+            <h3 class="h" data-i18n="ch_time"></h3>
+            <p class="subt" data-i18n="ch_time_sub"></p>
+            <div class="chart" id="chart-time"></div>
+          </div>
+        </div>
+        <div class="grid">
+          <div class="box">
+            <h3 class="h" data-i18n="st_title"></h3>
+            <p class="subt" data-i18n="st_sub"></p>
+            <p class="p" id="staffing"></p>
+            <p class="verdict" id="verdict"></p>
+          </div>
+          <div class="box">
+            <h3 class="h" data-i18n="load_title"></h3>
+            <p class="subt" id="loadsub"></p>
+            <div id="loadbars"></div>
+          </div>
+        </div>
+        <div class="box" style="margin-bottom:14px">
+          <h3 class="h" data-i18n="tbl_title"></h3>
+          <p class="subt" data-i18n="tbl_sub"></p>
+          <div class="tw">
+            <table class="t" id="agtable">
+              <thead>
+                <tr id="agthead"></tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+        <div class="box" style="margin-bottom:14px">
+          <h3 class="h" data-i18n="sim_title"></h3>
+          <p class="subt" data-i18n="sim_desc"></p>
+          <div class="simctl">
+            <label class="f"><span data-i18n="sim_norm"></span><input class="num" id="sim-norm" type="number" min="1"
+                max="100" value="15"></label>
+            <label class="f"><span data-i18n="sim_hi"></span><input class="num" id="sim-hi" type="number" min="0"
+                max="100" value="5"></label>
+            <button class="btn" id="sim-reset" type="button" data-i18n="sim_reset"></button>
+          </div>
+          <div id="simout"></div>
+        </div>
+        <div class="grid">
+          <div class="box">
+            <h3 class="h" data-i18n="plan_title"></h3>
+            <p class="subt" data-i18n="plan_sub"></p>
+            <p class="p" id="planprev"></p>
+          </div>
+          <div class="box">
+            <h3 class="h" id="worktitle"></h3>
+            <p class="subt" id="worksub"></p>
+            <div class="tw">
+              <table class="t" id="worktable">
+                <thead>
+                  <tr>
+                    <th data-i18n="th_id"></th>
+                    <th data-i18n="th_lead"></th>
+                    <th data-i18n="th_prio"></th>
+                    <th data-i18n="th_status"></th>
+                    <th class="num" data-i18n="th_age"></th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="sec" id="metrics">
+        <h2 class="sec-h" data-i18n="mt_title"></h2>
+        <p class="sec-d" data-i18n="mt_desc"></p>
+        <div class="tiles" id="mttiles"></div>
+        <div class="grid">
+          <div class="box">
+            <h3 class="h" data-i18n="mt_wait_title"></h3>
+            <p class="subt" data-i18n="mt_wait_sub"></p>
+            <div id="mtwait"></div>
+          </div>
+          <div class="box">
+            <h3 class="h" data-i18n="mt_kpi_title"></h3>
+            <p class="subt" id="mtkpisub"></p>
+            <div class="simctl"><label class="f"><span data-i18n="mt_target"></span><input class="num" id="kpi-target"
+                  type="number" min="1" max="100" value="70"></label></div>
+            <div id="mtkpi"></div>
+          </div>
+        </div>
+        <div class="box" style="margin-bottom:14px">
+          <h3 class="h" data-i18n="mt_dim_title"></h3>
+          <p class="subt" data-i18n="mt_dim_sub"></p>
+          <div class="chips" id="mtchips"></div>
+          <div class="tw">
+            <table class="t" id="mtdim">
+              <thead>
+                <tr id="mtdimhead"></tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+        <div class="grid">
+          <div class="box">
+            <h3 class="h" data-i18n="mt_ai_title"></h3>
+            <p class="subt" data-i18n="mt_ai_sub"></p>
+            <div class="tw">
+              <table class="t" id="mtai">
+                <thead>
+                  <tr id="mtaihead"></tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+            <p class="subt" id="mtaiempty" style="margin-top:8px"></p>
+          </div>
+          <div class="box">
+            <h3 class="h" data-i18n="mt_q_title"></h3>
+            <div class="lab2" data-i18n="mt_q_fill"></div>
+            <div id="mtfill"></div>
+            <div class="lab2" data-i18n="mt_q_rep"></div>
+            <div id="mtrep"></div>
+          </div>
+        </div>
+        <div class="box" style="margin-bottom:14px">
+          <h3 class="h" data-i18n="mt_need_title"></h3>
+          <p class="subt" data-i18n="mt_need_sub"></p>
+          <ul class="nlist" id="mtneed"></ul>
+        </div>
+      </section>
+
+      <section class="sec" id="workspace">
+        <h2 class="sec-h" data-i18n="ws_title"></h2>
+        <p class="sec-d" data-i18n="ws_desc"></p>
+        <div class="filters"><label class="f"><span data-i18n="ws_pick"></span><select class="sel"
+              id="ws-agent"></select></label></div>
+        <div class="ws">
+          <div>
+            <div class="box" style="margin-bottom:14px">
+              <h3 class="h" data-i18n="ws_progress"></h3>
+              <div id="wsring"></div>
+              <p class="subt" id="wsprogress" style="text-align:center"></p>
+            </div>
+            <div class="box">
+              <h3 class="h" data-i18n="ws_cmp"></h3>
+              <div class="cmp" id="wscmp"></div>
+            </div>
+          </div>
+          <div>
+            <div class="box" style="margin-bottom:14px">
+              <h3 class="h" data-i18n="ws_plan"></h3>
+              <p class="subt" id="wsplansub"></p>
+              <div id="wsplan"></div>
+            </div>
+            <div class="box">
+              <h3 class="h" data-i18n="ws_alerts"></h3>
+              <div id="wsalerts"></div>
+            </div>
+          </div>
+        </div>
+
+        <details class="notes">
+          <summary data-i18n="notes_title"></summary>
+          <dl id="notes"></dl>
+        </details>
+      </section>
+    </div>
+  </main>
+  <footer>
+    <div class="wrap" data-i18n="foot"></div>
+  </footer>
+  <div class="tip" id="tip"></div>
+
+  <div class="mdl-back" id="mdl" hidden>
+    <div class="mdl" role="dialog" aria-modal="true" aria-labelledby="mdl-title" tabindex="-1">
+      <div class="mdl-head">
+        <div class="mdl-hd">
+          <h2 id="mdl-title"></h2>
+          <div class="mdl-sub" id="mdl-sub"></div>
+        </div><button class="btn sm" id="mdl-close" type="button" data-i18n-aria="md_close">×</button>
+      </div>
+      <div class="mdl-body" id="mdl-body"></div>
     </div>
   </div>
-</header>
+  <div class="toasts" id="toasts" aria-live="polite" role="status"></div>
 
-<div id="top"></div>
-<main>
-<div class="hero">
-  <div class="wrap">
-    <h1 data-i18n="hero_title">Stop leads from getting lost in the backlog</h1>
-    <p class="sub" data-i18n="hero_sub"></p>
-    <div class="cta">
-      <a class="btn primary" href="#board" data-i18n="hero_cta">Explore the board</a>
-      <a class="btn" href="#spam" data-i18n="hero_cta2">Review the spam queue</a>
-    </div>
-    <p class="take" id="take"></p>
-    <p class="demo" data-i18n="demo_note"></p>
-    <div class="tiles" id="herotiles"></div>
-  </div>
-</div>
-
-<div class="wrap">
-<section class="sec" id="board">
-  <h2 class="sec-h" data-i18n="board_title"></h2>
-  <p class="sec-d" data-i18n="board_desc"></p>
-  <div class="filters">
-    <label class="f"><span data-i18n="f_agent"></span><select class="sel" id="f-agent"></select></label>
-    <label class="f"><span data-i18n="f_pri"></span><select class="sel" id="f-pri"></select></label>
-    <label class="f"><span data-i18n="f_qual"></span><select class="sel" id="f-qual"></select></label>
-    <label class="f"><span data-i18n="f_delay"></span><select class="sel" id="f-delay"></select></label>
-    <label class="f"><span data-i18n="f_seg"></span><select class="sel" id="f-seg"></select></label>
-    <label class="f"><span data-i18n="f_ind"></span><select class="sel" id="f-ind"></select></label>
-    <label class="f"><span data-i18n="f_src"></span><select class="sel" id="f-src"></select></label>
-    <label class="chk"><input type="checkbox" id="f-repeat"><span data-i18n="f_repeat"></span></label>
-    <label class="chk"><input type="checkbox" id="f-paid"><span data-i18n="f_paid"></span></label>
-    <label class="f sf"><span data-i18n="f_search"></span><input class="search" id="f-q" type="search" data-i18n-ph="f_search_ph"></label>
-    <button class="btn" id="f-reset" type="button" data-i18n="f_reset"></button>
-  </div>
-  <p class="shown" id="shown"></p>
-  <div class="board" id="boardcols"></div>
-
-  <div class="grid">
-    <div class="box"><h3 class="h" data-i18n="qual_title"></h3><p class="subt" data-i18n="qual_sub"></p><div id="qualbars"></div></div>
-    <div class="box"><h3 class="h" data-i18n="age_title"></h3><p class="subt" data-i18n="age_sub"></p><div id="agebars"></div></div>
-  </div>
-
-  <div class="box">
-    <h3 class="h" data-i18n="dup_title"></h3>
-    <p class="subt" data-i18n="dup_sub"></p>
-    <p style="margin-bottom:10px"><button class="btn" id="f-merge" type="button"></button> <span class="subt" id="mergenote"></span></p>
-    <div class="tw"><table class="t" id="duptable"><thead><tr>
-      <th data-i18n="th_dup"></th><th data-i18n="th_lead"></th><th data-i18n="th_orig"></th><th class="num" data-i18n="th_repeats"></th><th class="num" data-i18n="th_budget"></th>
-    </tr></thead><tbody></tbody></table></div>
-  </div>
-</section>
-
-<section class="sec" id="spam">
-  <h2 class="sec-h" data-i18n="spam_title"></h2>
-  <p class="sec-d" data-i18n="spam_desc"></p>
-  <div class="box">
-    <p class="p" id="spamstats" style="margin-bottom:12px"></p>
-    <div class="tabs" role="tablist" id="spamtabs"></div>
-    <div class="acts" style="margin-bottom:12px" id="spamacts"></div>
-    <div class="spamlist" id="spamlist"></div>
-  </div>
-</section>
-
-<section class="sec" id="agents">
-  <h2 class="sec-h" data-i18n="ag_title"></h2>
-  <p class="sec-d" data-i18n="ag_desc"></p>
-  <div class="box" style="margin-bottom:14px">
-    <h3 class="h" data-i18n="team_title"></h3>
-    <p class="subt" data-i18n="team_sub"></p>
-    <div class="simctl">
-      <label class="f"><span data-i18n="ag_name"></span><input class="search" id="ag-name" type="text" maxlength="30" autocomplete="off" data-i18n-ph="ag_name_ph"></label>
-      <label class="f"><span data-i18n="ag_cap"></span><input class="num" id="ag-cap" type="number" min="1" max="100" value="15"></label>
-      <button class="btn primary" id="ag-add" type="button" data-i18n="ag_add"></button>
-      <button class="btn" id="ag-reset" type="button" data-i18n="ag_reset"></button>
-    </div>
-    <p class="subt" id="ag-msg" role="status" style="margin:0"></p>
-  </div>
-  <details class="box" id="imp" style="margin-bottom:14px">
-    <summary class="h" data-i18n="imp_title"></summary>
-    <p class="subt" style="margin-top:8px" data-i18n="imp_desc"></p>
-    <div id="imp-rows"></div>
-    <p class="subt" id="imp-msg" role="status" style="margin:10px 0 0"></p>
-    <p style="margin:10px 0 6px"><button class="btn" id="imp-reset" type="button" data-i18n="imp_reset"></button></p>
-    <p class="subt" style="margin:0" data-i18n="imp_privacy"></p>
-  </details>
-  <div class="chips" id="chips"></div>
-  <div class="tiles" id="agtiles"></div>
-  <div class="grid">
-    <div class="box"><h3 class="h" data-i18n="ch_done"></h3><p class="subt" id="donesub"></p><div class="chart" id="chart-done"></div></div>
-    <div class="box"><h3 class="h" data-i18n="ch_time"></h3><p class="subt" data-i18n="ch_time_sub"></p><div class="chart" id="chart-time"></div></div>
-  </div>
-  <div class="grid">
-    <div class="box"><h3 class="h" data-i18n="st_title"></h3><p class="subt" data-i18n="st_sub"></p><p class="p" id="staffing"></p><p class="verdict" id="verdict"></p></div>
-    <div class="box"><h3 class="h" data-i18n="load_title"></h3><p class="subt" id="loadsub"></p><div id="loadbars"></div></div>
-  </div>
-  <div class="box" style="margin-bottom:14px">
-    <h3 class="h" data-i18n="tbl_title"></h3><p class="subt" data-i18n="tbl_sub"></p>
-    <div class="tw"><table class="t" id="agtable"><thead><tr id="agthead"></tr></thead><tbody></tbody></table></div>
-  </div>
-  <div class="box" style="margin-bottom:14px">
-    <h3 class="h" data-i18n="sim_title"></h3>
-    <p class="subt" data-i18n="sim_desc"></p>
-    <div class="simctl">
-      <label class="f"><span data-i18n="sim_norm"></span><input class="num" id="sim-norm" type="number" min="1" max="100" value="15"></label>
-      <label class="f"><span data-i18n="sim_hi"></span><input class="num" id="sim-hi" type="number" min="0" max="100" value="5"></label>
-      <button class="btn" id="sim-reset" type="button" data-i18n="sim_reset"></button>
-    </div>
-    <div id="simout"></div>
-  </div>
-  <div class="grid">
-    <div class="box"><h3 class="h" data-i18n="plan_title"></h3><p class="subt" data-i18n="plan_sub"></p><p class="p" id="planprev"></p></div>
-    <div class="box"><h3 class="h" id="worktitle"></h3><p class="subt" id="worksub"></p>
-      <div class="tw"><table class="t" id="worktable"><thead><tr><th data-i18n="th_id"></th><th data-i18n="th_lead"></th><th data-i18n="th_prio"></th><th data-i18n="th_status"></th><th class="num" data-i18n="th_age"></th></tr></thead><tbody></tbody></table></div>
-    </div>
-  </div>
-</section>
-
-<section class="sec" id="metrics">
-  <h2 class="sec-h" data-i18n="mt_title"></h2>
-  <p class="sec-d" data-i18n="mt_desc"></p>
-  <div class="tiles" id="mttiles"></div>
-  <div class="grid">
-    <div class="box"><h3 class="h" data-i18n="mt_wait_title"></h3><p class="subt" data-i18n="mt_wait_sub"></p><div id="mtwait"></div></div>
-    <div class="box">
-      <h3 class="h" data-i18n="mt_kpi_title"></h3><p class="subt" id="mtkpisub"></p>
-      <div class="simctl"><label class="f"><span data-i18n="mt_target"></span><input class="num" id="kpi-target" type="number" min="1" max="100" value="70"></label></div>
-      <div id="mtkpi"></div>
-    </div>
-  </div>
-  <div class="box" style="margin-bottom:14px">
-    <h3 class="h" data-i18n="mt_dim_title"></h3><p class="subt" data-i18n="mt_dim_sub"></p>
-    <div class="chips" id="mtchips"></div>
-    <div class="tw"><table class="t" id="mtdim"><thead><tr id="mtdimhead"></tr></thead><tbody></tbody></table></div>
-  </div>
-  <div class="grid">
-    <div class="box">
-      <h3 class="h" data-i18n="mt_ai_title"></h3><p class="subt" data-i18n="mt_ai_sub"></p>
-      <div class="tw"><table class="t" id="mtai"><thead><tr id="mtaihead"></tr></thead><tbody></tbody></table></div>
-      <p class="subt" id="mtaiempty" style="margin-top:8px"></p>
-    </div>
-    <div class="box">
-      <h3 class="h" data-i18n="mt_q_title"></h3>
-      <div class="lab2" data-i18n="mt_q_fill"></div><div id="mtfill"></div>
-      <div class="lab2" data-i18n="mt_q_rep"></div><div id="mtrep"></div>
-    </div>
-  </div>
-  <div class="box" style="margin-bottom:14px">
-    <h3 class="h" data-i18n="mt_need_title"></h3><p class="subt" data-i18n="mt_need_sub"></p>
-    <ul class="nlist" id="mtneed"></ul>
-  </div>
-</section>
-
-<section class="sec" id="workspace">
-  <h2 class="sec-h" data-i18n="ws_title"></h2>
-  <p class="sec-d" data-i18n="ws_desc"></p>
-  <div class="filters"><label class="f"><span data-i18n="ws_pick"></span><select class="sel" id="ws-agent"></select></label></div>
-  <div class="ws">
-    <div>
-      <div class="box" style="margin-bottom:14px"><h3 class="h" data-i18n="ws_progress"></h3><div id="wsring"></div><p class="subt" id="wsprogress" style="text-align:center"></p></div>
-      <div class="box"><h3 class="h" data-i18n="ws_cmp"></h3><div class="cmp" id="wscmp"></div></div>
-    </div>
-    <div>
-      <div class="box" style="margin-bottom:14px"><h3 class="h" data-i18n="ws_plan"></h3><p class="subt" id="wsplansub"></p><div id="wsplan"></div></div>
-      <div class="box"><h3 class="h" data-i18n="ws_alerts"></h3><div id="wsalerts"></div></div>
-    </div>
-  </div>
-
-  <details class="notes">
-    <summary data-i18n="notes_title"></summary>
-    <dl id="notes"></dl>
-  </details>
-</section>
-</div>
-</main>
-<footer><div class="wrap" data-i18n="foot"></div></footer>
-<div class="tip" id="tip"></div>
-
-<script src="js/data.js"></script>
-<script src="js/i18n.js"></script>
-<script src="js/app.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/app.js"></script>
 </body>
+
 </html>
