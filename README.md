@@ -55,3 +55,4 @@ Files never leave the browser. The **Back to demo data** button clears imported 
 
 - Montserrat loads from Google Fonts. Without internet the page falls back to the system sans-serif font.
 - Lead names, budgets and statistics are generated for the demo.
+- Link - https://annatsygichko-fe.github.io/leaddesk/
