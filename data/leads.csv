@@ -1,0 +1,1141 @@
+id,name,request,segment,industry,source,status,priority,qual,agent,age_h,status_since_h,repeats,paid,budget,dup_of,spam_reason,conf
+L-10001,Julia Young,SEO audit,SMB,Real estate,Meeting,New,Normal,Cold,,40.5,40.5,0,0,13100,,,0
+L-10002,Marta Hart,Ongoing performance marketing,SMB,Real estate,Call,New,High,Warm,,225.1,225.1,0,0,12500,,,0
+L-10003,Lena Dawson,CRM setup,SMB,Retail,Call,New,Normal,Cold,,402.7,402.7,1,0,2500,,,0
+L-10004,Liam Lane,Paid ads & analytics,B2B,Healthcare,Call,New,High,Cold,,206.8,206.8,0,0,35000,,,0
+L-10005,Ethan Cole,Website PPC campaign,B2B,Real estate,Website,New,Low,Duplicate,,270.1,270.1,1,0,56700,L-10224,,0
+L-10006,Jamie White,Q4 product launch,SMB,Retail,Website,New,High,Warm,,357.6,357.6,0,0,14500,,,0
+L-10007,Clara Bell,Full-funnel campaign,B2B,Education,Website,New,Low,Duplicate,,42.5,42.5,1,0,37200,L-10734,,0
+L-10008,Marta Price,CRM setup,B2B,SaaS,Call,New,High,Warm,,20.7,20.7,0,0,22300,,,0
+L-10009,Noah Lee,Ongoing performance marketing,B2B,Education,Call,New,Normal,Cold,,103.7,103.7,0,0,48500,,,0
+L-10010,Nora Hart,Landing page A/B tests,Enterprise,Real estate,Referral,New,Critical,Warm,,181.3,181.3,0,0,110800,,,0
+L-10011,Felix Cole,Ongoing performance marketing,SMB,Healthcare,Website,New,Low,Duplicate,,179.6,179.6,1,0,10500,L-10033,,0
+L-10012,Adam Ward,Retargeting setup,B2B,Healthcare,Referral,New,High,Warm,,26.4,26.4,2,0,41100,,,0
+L-10013,Daniel Carter,Influencer campaign,B2B,SaaS,Meeting,New,High,Cold,,55.0,55.0,0,0,50900,,,0
+L-10014,Alicia Evans,Email automation,Enterprise,Real estate,Email,New,High,Warm,,9.7,9.7,0,0,65700,,,0
+L-10015,Alice Hill,Social media strategy,B2B,Real estate,LinkedIn Ads,New,Normal,Cold,,140.0,140.0,0,0,34500,,,0
+L-10016,Irene Dawson,Social media strategy,B2B,Healthcare,Email,New,Normal,Cold,,468.8,468.8,0,0,20600,,,0
+L-10017,Lucas Dunn,Influencer campaign,B2B,Real estate,Meeting,New,Critical,Warm,,377.0,377.0,0,1,38600,,,0
+L-10018,Emma Evans,Website PPC campaign,B2B,Retail,Referral,New,Low,Duplicate,,84.5,84.5,1,0,13000,L-10696,,0
+L-10019,Irene Evans,Content plan,SMB,Retail,Meeting,New,Normal,Cold,,150.6,150.6,0,0,3000,,,0
+L-10020,Nora Shaw,Ongoing performance marketing,SMB,Retail,Website,New,High,Warm,,439.6,439.6,0,0,10900,,,0
+L-10021,Paul Lane,Social media strategy,Enterprise,Real estate,Email,New,Normal,Cold,,14.7,14.7,0,0,52500,,,0
+L-10022,Zoe Kingston,Email automation,Enterprise,Real estate,Referral,New,Normal,Cold,,118.5,118.5,0,0,141600,,,0
+L-10023,Clara West,SEO audit,B2B,Education,Email,New,Normal,Cold,,288.1,288.1,0,0,15600,,,0
+L-10024,Clara West,SEO audit,Enterprise,Real estate,Call,New,Normal,Cold,,449.2,449.2,0,0,83900,,,0
+L-10025,Daniel Quinn,Q4 product launch,Enterprise,Finance,Call,New,High,Cold,,267.4,267.4,0,0,210700,,,0
+L-10026,Nora Evans,Influencer campaign,B2B,SaaS,Website,New,Low,Duplicate,,345.3,345.3,1,0,12300,L-10670,,0
+L-10027,Clara Reed,Influencer campaign,Enterprise,Healthcare,Referral,New,Critical,Warm,,230.9,230.9,0,0,235100,,,0
+L-10028,Adam Dawson,Landing page A/B tests,SMB,Retail,LinkedIn Ads,New,Critical,Warm,,281.8,281.8,0,1,10800,,,0
+L-10029,Victor Lee,SEO audit,B2B,Logistics,Website,New,High,Warm,,9.6,9.6,0,0,17000,,,0
+L-10030,Oliver Carter,Influencer campaign,SMB,Education,Website,New,Normal,Cold,,330.4,330.4,0,0,4600,,,0
+L-10031,Theo Carter,Ongoing performance marketing,SMB,Logistics,Meeting,New,Critical,Cold,,268.1,268.1,0,1,6500,,,0
+L-10032,Jamie Fox,Email automation,Enterprise,SaaS,Referral,New,Critical,Warm,,42.2,42.2,0,0,140100,,,0
+L-10033,Irene Shaw,Retargeting setup,SMB,Healthcare,Meeting,New,Normal,Cold,,44.1,44.1,0,0,10500,,,0
+L-10034,Lucas Bell,Content plan,Enterprise,Retail,Meeting,New,Critical,Warm,,146.8,146.8,0,0,245500,,,0
+L-10035,Daniel Nash,Retargeting setup,Enterprise,Real estate,Website,New,Critical,Cold,,61.7,61.7,0,1,134300,,,0
+L-10036,Leo Hill,Email automation,B2B,SaaS,Meeting,New,High,Warm,,1000,1000,0,0,33500,,,0
+L-10037,Ethan Stone,Paid ads & analytics,B2B,Education,Meeting,New,Low,Duplicate,,48.1,48.1,1,0,33000,L-10605,,0
+L-10038,Nora Shaw,Content plan,SMB,Healthcare,Referral,New,High,Warm,,91.7,91.7,0,0,6100,,,0
+L-10039,Daniel Moore,Email automation,B2B,Real estate,Website,New,Low,Spam,,162.2,162.2,0,0,0,,repeat,0.73
+L-10040,Alicia Ward,Social media strategy,SMB,Real estate,Meeting,New,Critical,Cold,,149.7,149.7,0,1,13900,,,0
+L-10041,Mia Ward,Lead generation,B2B,Logistics,Email,New,Low,Duplicate,,60.1,60.1,1,0,44100,L-10735,,0
+L-10042,Ava Hart,Website PPC campaign,B2B,Finance,Email,New,Low,Spam,,22.3,22.3,0,0,0,,gibberish,0.83
+L-10043,Jamie Dunn,Paid ads & analytics,B2B,Retail,Email,New,Low,Spam,,32.6,32.6,0,0,0,,gibberish,0.92
+L-10044,Oliver Frost,Q4 product launch,SMB,Real estate,Meeting,New,High,Warm,,136.2,136.2,0,0,3600,,,0
+L-10045,Nora Lane,Email automation,SMB,Real estate,Meeting,New,Normal,Cold,,147.3,147.3,0,0,10000,,,0
+L-10046,Julia Gray,Content plan,B2B,SaaS,LinkedIn Ads,New,High,Warm,,257.0,257.0,0,0,21600,,,0
+L-10047,Nina Brooks,Influencer campaign,B2B,SaaS,Website,New,High,Cold,,27.8,27.8,0,0,54400,,,0
+L-10048,Victor Dunn,CRM setup,B2B,Logistics,Website,New,High,Warm,,43.1,43.1,0,0,45200,,,0
+L-10049,Theo Reed,Email automation,B2B,Healthcare,Meeting,New,Normal,Cold,,134.4,134.4,0,0,15800,,,0
+L-10050,Zoe Hart,Email automation,SMB,Finance,Referral,New,Low,Spam,,7.7,7.7,0,0,0,,gibberish,0.91
+L-10051,Alicia Webb,Website PPC campaign,SMB,SaaS,LinkedIn Ads,New,High,Warm,,497.5,497.5,0,0,14900,,,0
+L-10052,Daniel Hart,Full-funnel campaign,Enterprise,Finance,Website,New,High,Cold,,83.7,83.7,0,0,135300,,,0
+L-10053,Daniel Hart,Lead generation,SMB,Healthcare,Website,New,High,Warm,,99.2,99.2,0,0,11600,,,0
+L-10054,Noah Webb,Brand refresh,SMB,Education,LinkedIn Ads,New,High,Warm,,455.4,455.4,0,0,13400,,,0
+L-10055,Irene Marsh,Lead generation,B2B,Real estate,Call,New,Low,Duplicate,,24.0,24.0,1,0,21600,L-10469,,0
+L-10056,Irene Carter,Social media strategy,B2B,Finance,Email,New,High,Cold,,99.4,99.4,0,0,48300,,,0
+L-10057,Clara Cole,Full-funnel campaign,B2B,Real estate,LinkedIn Ads,New,High,Warm,,61.1,61.1,0,0,12500,,,0
+L-10058,Theo Fox,Brand refresh,SMB,Finance,Website,New,Normal,Cold,,230.0,230.0,0,0,10300,,,0
+L-10059,Noah Dawson,Social media strategy,B2B,Real estate,Email,New,High,Warm,,41.8,41.8,0,0,12500,,,0
+L-10060,Nora Lee,Landing page A/B tests,B2B,Education,Call,New,Low,Duplicate,,140.2,140.2,1,0,24100,L-10809,,0
+L-10061,Noah Ward,Lead generation,SMB,Retail,Call,New,High,Warm,,530.7,530.7,0,0,7000,,,0
+L-10062,Chloe Young,Paid ads & analytics,SMB,Healthcare,Call,New,Normal,Cold,,173.6,173.6,0,0,8800,,,0
+L-10063,Adam Evans,Landing page A/B tests,SMB,Healthcare,LinkedIn Ads,New,Normal,Cold,,281.8,281.8,0,0,2300,,,0
+L-10064,Paul Nash,Content plan,B2B,Finance,LinkedIn Ads,New,Critical,Cold,,853.4,853.4,0,1,12500,,,0
+L-10065,Alice Price,Lead generation,B2B,Real estate,LinkedIn Ads,New,Normal,Cold,,316.2,316.2,0,0,14900,,,0
+L-10066,Ryan Lee,Full-funnel campaign,SMB,SaaS,Call,New,High,Warm,,84.3,84.3,0,0,13200,,,0
+L-10067,Ethan Pike,Lead generation,B2B,Education,Email,New,Normal,Cold,,286.4,286.4,0,0,31000,,,0
+L-10068,Oliver Bell,Brand refresh,SMB,Logistics,Meeting,New,High,Warm,,356.6,356.6,0,0,8600,,,0
+L-10069,Victor West,Q4 product launch,SMB,SaaS,Meeting,New,Normal,Cold,,54.9,54.9,0,0,4500,,,0
+L-10070,Oliver Kingston,CRM setup,B2B,Real estate,Website,New,High,Warm,,48.3,48.3,0,0,11900,,,0
+L-10071,Felix Shaw,Social media strategy,Enterprise,Finance,Website,New,Critical,Warm,,319.5,319.5,0,0,145700,,,0
+L-10072,Ava Hill,Paid ads & analytics,B2B,Logistics,Call,New,Low,Spam,,46.0,46.0,0,0,0,,offtopic,0.63
+L-10073,Felix West,Lead generation,SMB,Healthcare,Call,New,Normal,Cold,,270.9,270.9,0,0,5800,,,0
+L-10074,Mia Pike,Landing page A/B tests,SMB,Real estate,Call,New,Normal,Cold,,158.3,158.3,0,0,3100,,,0
+L-10075,Lena Kingston,Influencer campaign,B2B,Retail,Email,New,Low,Spam,,459.5,459.5,0,0,0,,offtopic,0.65
+L-10076,Chloe Dunn,Influencer campaign,SMB,Healthcare,Email,New,Low,Spam,,29.8,29.8,0,0,0,,nocontact,0.56
+L-10077,Julia Cole,SEO audit,B2B,Education,Email,New,High,Warm,,110.0,110.0,0,0,55700,,,0
+L-10078,Chloe Dawson,Full-funnel campaign,B2B,Real estate,Meeting,New,Low,Duplicate,,85.8,85.8,1,0,35300,L-10525,,0
+L-10079,Adam Webb,Lead generation,B2B,Logistics,LinkedIn Ads,New,Normal,Cold,,32.5,32.5,0,0,29500,,,0
+L-10080,Adam Cole,Website PPC campaign,B2B,SaaS,Meeting,New,High,Cold,,149.8,149.8,0,0,35800,,,0
+L-10081,Irene Lee,Content plan,SMB,Real estate,Email,New,Normal,Cold,,16.7,16.7,0,0,3100,,,0
+L-10082,Mia Marsh,Content plan,B2B,Education,Referral,New,Normal,Cold,,237.1,237.1,0,0,31100,,,0
+L-10083,Zoe Nash,Influencer campaign,B2B,Healthcare,Website,New,High,Cold,,129.8,129.8,0,0,43600,,,0
+L-10084,Jamie Nash,Ongoing performance marketing,Enterprise,Education,Website,New,Low,Duplicate,,82.1,82.1,1,0,150300,L-10395,,0
+L-10085,Alicia Moore,Content plan,SMB,Retail,Call,New,Low,Duplicate,,2.4,2.4,1,0,3700,L-10397,,0
+L-10086,Leo Evans,SEO audit,Enterprise,Education,Email,New,Critical,Warm,,141.1,141.1,0,0,83500,,,0
+L-10087,Mia West,CRM setup,SMB,Retail,Website,New,Normal,Cold,,3.8,3.8,0,0,11800,,,0
+L-10088,Nina Price,Lead generation,B2B,Real estate,Email,New,High,Warm,,172.1,172.1,0,0,45900,,,0
+L-10089,Mia Shaw,Paid ads & analytics,B2B,Healthcare,Call,New,Low,Duplicate,,323.3,323.3,1,0,40400,L-10461,,0
+L-10090,Nora Hayes,Ongoing performance marketing,Enterprise,Healthcare,Website,New,Low,Duplicate,,18.9,18.9,1,0,148800,L-10459,,0
+L-10091,Marta Dunn,Content plan,B2B,Logistics,LinkedIn Ads,New,High,Warm,,61.5,61.5,0,0,35800,,,0
+L-10092,Ava Hart,Retargeting setup,Enterprise,Healthcare,LinkedIn Ads,New,Low,Spam,,54.3,54.3,0,0,0,,offtopic,0.74
+L-10093,Ethan Brooks,Landing page A/B tests,B2B,SaaS,Meeting,New,Low,Spam,,387.0,387.0,0,0,0,,repeat,0.9
+L-10094,Ryan Pike,Lead generation,Enterprise,Logistics,Website,New,Critical,Warm,,43.9,43.9,0,0,85700,,,0
+L-10095,Adam Stone,Retargeting setup,B2B,Education,Referral,New,Normal,Cold,,591.8,591.8,0,0,33400,,,0
+L-10096,Julia Pike,SEO audit,B2B,Finance,LinkedIn Ads,New,Low,Spam,,218.3,218.3,0,0,0,,repeat,0.96
+L-10097,Zoe Cole,SEO audit,B2B,Healthcare,Meeting,New,Normal,Cold,,99.3,99.3,0,0,25800,,,0
+L-10098,Felix Lee,Landing page A/B tests,SMB,Education,Call,New,High,Cold,,648.1,648.1,3,0,8000,,,0
+L-10099,Nora Shaw,CRM setup,B2B,Real estate,Meeting,New,Normal,Cold,,281.2,281.2,0,0,15700,,,0
+L-10100,Theo Fox,Email automation,B2B,Real estate,Meeting,New,Normal,Cold,,585.9,585.9,0,0,47500,,,0
+L-10101,Lucas Price,Retargeting setup,B2B,Healthcare,Call,New,High,Warm,,245.0,245.0,2,0,38100,,,0
+L-10102,Marta Pike,SEO audit,B2B,Education,Referral,New,High,Warm,,41.3,41.3,0,0,19000,,,0
+L-10103,Ava West,Email automation,SMB,Finance,LinkedIn Ads,New,Critical,Warm,,14.8,14.8,0,1,7300,,,0
+L-10104,Alice Moore,Brand refresh,SMB,Logistics,Website,New,Low,Spam,,125.8,125.8,0,0,0,,nocontact,0.74
+L-10105,Jamie Bell,Full-funnel campaign,SMB,SaaS,LinkedIn Ads,New,Normal,Cold,,178.7,178.7,0,0,10600,,,0
+L-10106,Alicia Hart,Influencer campaign,B2B,Real estate,LinkedIn Ads,New,Normal,Cold,,66.5,66.5,0,0,26600,,,0
+L-10107,Hugo White,Content plan,B2B,Real estate,Referral,New,Normal,Cold,,29.5,29.5,0,0,35000,,,0
+L-10108,Paul Brooks,Q4 product launch,Enterprise,Retail,Call,New,Normal,Cold,,42.4,42.4,0,0,175400,,,0
+L-10109,Liam Hill,Lead generation,SMB,Healthcare,LinkedIn Ads,New,Normal,Cold,,408.1,408.1,0,0,5500,,,0
+L-10110,Leo Pike,Full-funnel campaign,Enterprise,Healthcare,Referral,New,High,Cold,,260.7,260.7,0,0,83700,,,0
+L-10111,Sophie Carter,Brand refresh,Enterprise,SaaS,Referral,New,Low,Duplicate,,86.2,86.2,2,0,55900,L-10243,,0
+L-10112,Nora Hill,Content plan,SMB,Education,Call,New,Normal,Cold,,268.6,268.6,0,0,3800,,,0
+L-10113,Noah Lee,Brand refresh,SMB,Finance,Call,New,Normal,Cold,,29.8,29.8,0,0,8100,,,0
+L-10114,Irene Dunn,CRM setup,B2B,Healthcare,LinkedIn Ads,New,Normal,Cold,,291.7,291.7,0,0,12700,,,0
+L-10115,Ava Marsh,Paid ads & analytics,B2B,Real estate,Call,New,Normal,Cold,,158.6,158.6,0,0,55700,,,0
+L-10116,Leo Young,Full-funnel campaign,Enterprise,Logistics,Referral,New,Normal,Cold,,159.1,159.1,0,0,136800,,,0
+L-10117,Lena Reed,CRM setup,SMB,Healthcare,Email,New,Critical,Cold,,438.3,438.3,0,1,11400,,,0
+L-10118,Ethan Shaw,Ongoing performance marketing,Enterprise,SaaS,Website,New,Low,Spam,,113.0,113.0,0,0,0,,gibberish,0.82
+L-10119,Paul West,Influencer campaign,SMB,Education,Meeting,New,High,Warm,,51.6,51.6,0,0,7100,,,0
+L-10120,Leo Kingston,Social media strategy,B2B,Education,Referral,New,Normal,Cold,,159.4,159.4,0,0,47300,,,0
+L-10121,Jamie Reed,Lead generation,SMB,Retail,Website,New,High,Warm,,248.0,248.0,0,0,5800,,,0
+L-10122,Jamie Price,Content plan,B2B,Education,Email,New,Normal,Cold,,9.4,9.4,0,0,39300,,,0
+L-10123,Nora West,Influencer campaign,B2B,Finance,Website,New,High,Cold,,43.5,43.5,0,0,53900,,,0
+L-10124,Victor Quinn,Influencer campaign,B2B,Healthcare,Referral,New,Low,Spam,,3.6,3.6,0,0,0,,nocontact,0.97
+L-10125,Felix Reed,Content plan,B2B,Retail,Email,New,Normal,Cold,,69.9,69.9,0,0,42500,,,0
+L-10126,Nina Shaw,Paid ads & analytics,Enterprise,Logistics,Website,New,Normal,Cold,,16.1,16.1,0,0,139000,,,0
+L-10127,Julia Dunn,Email automation,SMB,Education,Website,New,High,Warm,,61.2,61.2,0,0,5800,,,0
+L-10128,Clara Kingston,SEO audit,SMB,Education,Website,New,High,Warm,,27.5,27.5,0,0,4900,,,0
+L-10129,Paul Carter,Paid ads & analytics,B2B,Real estate,LinkedIn Ads,New,High,Cold,,309.4,309.4,2,0,22500,,,0
+L-10130,Liam West,CRM setup,B2B,SaaS,Referral,New,High,Warm,,7.0,7.0,0,0,59400,,,0
+L-10131,Alice Gray,Full-funnel campaign,Enterprise,Finance,Meeting,New,Low,Duplicate,,285.4,285.4,1,0,101700,L-10471,,0
+L-10132,Zoe Carter,Brand refresh,SMB,Education,LinkedIn Ads,New,High,Warm,,140.2,140.2,0,0,10900,,,0
+L-10133,Nina Bell,SEO audit,B2B,Healthcare,Referral,New,High,Cold,,298.0,298.0,0,0,49300,,,0
+L-10134,Lucas Brooks,Brand refresh,B2B,Real estate,Website,New,Normal,Cold,,404.4,404.4,1,0,32400,,,0
+L-10135,Julia Dawson,Social media strategy,SMB,Real estate,Website,New,Low,Spam,,58.5,58.5,0,0,0,,offtopic,0.77
+L-10136,Ava Evans,Influencer campaign,Enterprise,SaaS,Email,New,High,Cold,,11.0,11.0,0,0,174600,,,0
+L-10137,Sophie Fox,Paid ads & analytics,SMB,Finance,LinkedIn Ads,New,Normal,Cold,,326.9,326.9,0,0,3200,,,0
+L-10138,Hugo White,Influencer campaign,B2B,Retail,Website,New,Normal,Cold,,120.0,120.0,0,0,25800,,,0
+L-10139,Liam Young,Influencer campaign,B2B,Real estate,Website,New,Low,Spam,,30.2,30.2,0,0,0,,nocontact,0.84
+L-10140,Marta Dunn,Influencer campaign,B2B,Finance,Meeting,New,High,Cold,,15.6,15.6,2,0,31200,,,0
+L-10141,Chloe Cole,Full-funnel campaign,SMB,Finance,Referral,New,Normal,Cold,,512.5,512.5,0,0,8000,,,0
+L-10142,Nora Quinn,Brand refresh,B2B,Education,LinkedIn Ads,New,High,Warm,,225.9,225.9,0,0,27200,,,0
+L-10143,Nina Carter,CRM setup,SMB,Logistics,Referral,New,Normal,Cold,,103.5,103.5,0,0,2600,,,0
+L-10144,Victor Dunn,Lead generation,SMB,Logistics,Call,New,Normal,Cold,,113.1,113.1,0,0,6000,,,0
+L-10145,Ethan Fox,Brand refresh,B2B,Healthcare,Meeting,New,Critical,Cold,,318.2,318.2,0,1,57400,,,0
+L-10146,Irene Pike,Content plan,SMB,Logistics,Website,New,High,Warm,,276.2,276.2,0,0,6700,,,0
+L-10147,Clara Evans,Paid ads & analytics,B2B,Healthcare,Call,New,High,Cold,,401.3,401.3,3,0,22800,,,0
+L-10148,Ava Ward,Email automation,SMB,SaaS,Meeting,New,Normal,Cold,,71.6,71.6,0,0,2400,,,0
+L-10149,Felix Bell,Email automation,B2B,Education,Meeting,New,Normal,Cold,,403.5,403.5,0,0,28800,,,0
+L-10150,Daniel Brooks,Website PPC campaign,B2B,Retail,Website,New,High,Warm,,80.9,80.9,0,0,24600,,,0
+L-10151,Daniel Stone,Influencer campaign,SMB,Education,Email,New,Critical,Cold,,211.4,211.4,0,1,5900,,,0
+L-10152,Julia Moore,Social media strategy,B2B,Retail,Call,New,Low,Duplicate,,57.6,57.6,1,0,56200,L-10424,,0
+L-10153,Noah White,SEO audit,SMB,Education,LinkedIn Ads,New,Normal,Cold,,33.3,33.3,0,0,5600,,,0
+L-10154,Oliver Frost,Retargeting setup,B2B,Finance,Referral,New,High,Cold,,124.1,124.1,0,0,50200,,,0
+L-10155,Noah Bell,Website PPC campaign,B2B,Education,Call,New,Low,Duplicate,,12.9,12.9,1,0,46100,L-10851,,0
+L-10156,Lucas Quinn,Full-funnel campaign,SMB,Healthcare,Referral,New,Normal,Cold,,7.3,7.3,0,0,2900,,,0
+L-10157,Lucas Quinn,Full-funnel campaign,B2B,SaaS,Website,New,Low,Spam,,92.7,92.7,0,0,0,,domain,0.56
+L-10158,Lena Moore,Social media strategy,B2B,Logistics,Email,New,Low,Duplicate,,149.2,149.2,1,0,35800,L-10091,,0
+L-10159,Ethan Bell,Paid ads & analytics,B2B,Finance,Call,New,Normal,Cold,,28.2,28.2,0,0,11900,,,0
+L-10160,Nina Hayes,Email automation,SMB,SaaS,Website,New,Low,Duplicate,,57.2,57.2,1,0,6900,L-10391,,0
+L-10161,Lena Pike,Email automation,B2B,Education,Meeting,New,Low,Duplicate,,151.4,151.4,3,0,20300,L-10854,,0
+L-10162,Noah Dunn,Lead generation,Enterprise,Healthcare,LinkedIn Ads,New,High,Cold,,44.8,44.8,0,0,211100,,,0
+L-10163,Chloe Hill,Landing page A/B tests,SMB,Real estate,Referral,New,High,Warm,,102.3,102.3,0,0,5800,,,0
+L-10164,Paul Pike,Social media strategy,SMB,Real estate,Meeting,New,Normal,Cold,,399.4,399.4,0,0,11600,,,0
+L-10165,Sophie Hart,Retargeting setup,B2B,Real estate,Call,New,Low,Spam,,125.0,125.0,0,0,0,,nocontact,0.6
+L-10166,Chloe Frost,Landing page A/B tests,Enterprise,Logistics,Email,New,Critical,Warm,,55.9,55.9,0,0,188800,,,0
+L-10167,Adam Moore,Landing page A/B tests,B2B,SaaS,Meeting,New,Low,Spam,,335.5,335.5,0,0,0,,nocontact,0.75
+L-10168,Noah Hart,Landing page A/B tests,B2B,Healthcare,Email,New,Low,Spam,,25.9,25.9,0,0,0,,offtopic,0.87
+L-10169,Ava Bell,Landing page A/B tests,B2B,Logistics,Meeting,New,Critical,Warm,,27.8,27.8,0,1,58500,,,0
+L-10170,Nora Evans,Q4 product launch,Enterprise,Finance,Email,New,Low,Duplicate,,1000,1000,1,0,210700,L-10025,,0
+L-10171,Sophie Gray,Social media strategy,B2B,Retail,Email,New,Normal,Cold,,368.1,368.1,0,0,51600,,,0
+L-10172,Lena Moore,CRM setup,B2B,Education,LinkedIn Ads,New,Low,Spam,,94.9,94.9,0,0,0,,gibberish,0.76
+L-10173,Felix Lee,Email automation,Enterprise,Logistics,Email,New,Normal,Cold,,111.4,111.4,0,0,223300,,,0
+L-10174,Victor Fox,Paid ads & analytics,Enterprise,Healthcare,Email,New,High,Cold,,30.0,30.0,0,0,163200,,,0
+L-10175,Theo Cole,Landing page A/B tests,B2B,Retail,Website,New,Normal,Cold,,1.9,1.9,0,0,17600,,,0
+L-10176,Chloe Nash,Email automation,B2B,Logistics,Call,New,Normal,Cold,,6.7,6.7,0,0,30400,,,0
+L-10177,Nora Hayes,CRM setup,SMB,Healthcare,Call,New,High,Warm,,531.5,531.5,0,0,5600,,,0
+L-10178,Oliver Gray,Website PPC campaign,SMB,Finance,Referral,New,Low,Duplicate,,214.0,214.0,1,0,14200,L-10501,,0
+L-10179,Julia West,Influencer campaign,B2B,Healthcare,Call,New,Critical,Cold,,142.8,142.8,0,1,10600,,,0
+L-10180,Theo Lee,Content plan,B2B,Logistics,Call,New,Low,Spam,,308.7,308.7,0,0,0,,repeat,0.84
+L-10181,Lucas Fox,Influencer campaign,B2B,Retail,Email,New,Normal,Cold,,29.3,29.3,0,0,10500,,,0
+L-10182,Leo Lane,Full-funnel campaign,SMB,Finance,Referral,New,High,Warm,,62.7,62.7,0,0,6600,,,0
+L-10183,Daniel Carter,Full-funnel campaign,B2B,Education,Website,New,Normal,Cold,,69.5,69.5,0,0,16500,,,0
+L-10184,Zoe Pike,CRM setup,B2B,Real estate,LinkedIn Ads,New,High,Cold,,19.4,19.4,3,0,12600,,,0
+L-10185,Nina Ward,Ongoing performance marketing,B2B,Real estate,Meeting,New,Critical,Warm,,107.3,107.3,0,1,59400,,,0
+L-10186,Lucas Quinn,Lead generation,Enterprise,Retail,Email,New,Low,Spam,,561.1,561.1,0,0,0,,gibberish,0.93
+L-10187,Chloe Quinn,SEO audit,SMB,Education,Meeting,New,High,Warm,,182.6,182.6,0,0,2700,,,0
+L-10188,Noah Young,Q4 product launch,SMB,Finance,Call,New,High,Cold,,103.8,103.8,3,0,10700,,,0
+L-10189,Marta West,Full-funnel campaign,SMB,Finance,LinkedIn Ads,New,High,Cold,,9.5,9.5,3,0,5700,,,0
+L-10190,Noah Evans,Retargeting setup,SMB,SaaS,LinkedIn Ads,New,Normal,Cold,,864.7,864.7,0,0,11600,,,0
+L-10191,Ryan Pike,Social media strategy,SMB,Finance,Website,New,Low,Duplicate,,297.0,297.0,1,0,6600,L-10271,,0
+L-10192,Chloe Price,Q4 product launch,B2B,Finance,Referral,New,Low,Duplicate,,139.0,139.0,1,0,10500,L-10820,,0
+L-10193,Julia Marsh,SEO audit,B2B,SaaS,LinkedIn Ads,New,Normal,Cold,,154.3,154.3,0,0,13700,,,0
+L-10194,Marta West,Full-funnel campaign,B2B,Retail,LinkedIn Ads,New,Critical,Cold,,65.5,65.5,0,1,49800,,,0
+L-10195,Mia Kingston,Social media strategy,SMB,Logistics,Meeting,New,High,Warm,,119.6,119.6,0,0,10900,,,0
+L-10196,Noah Dawson,Retargeting setup,B2B,SaaS,Email,New,High,Cold,,985.3,985.3,0,0,38000,,,0
+L-10197,Daniel Carter,CRM setup,SMB,Healthcare,LinkedIn Ads,New,Low,Spam,,44.9,44.9,0,0,0,,repeat,0.58
+L-10198,Paul Frost,Q4 product launch,B2B,Healthcare,Meeting,New,Critical,Cold,,103.3,103.3,0,1,57100,,,0
+L-10199,Victor Bell,Ongoing performance marketing,SMB,Logistics,Email,New,Low,Spam,,30.5,30.5,0,0,0,,repeat,0.64
+L-10200,Nina Ward,Brand refresh,SMB,Retail,Website,New,Normal,Cold,,231.6,231.6,0,0,6500,,,0
+L-10201,Victor Price,Q4 product launch,B2B,Healthcare,Call,New,Low,Spam,,16.0,16.0,0,0,0,,offtopic,0.99
+L-10202,Chloe Moore,Full-funnel campaign,B2B,Real estate,Email,New,Low,Spam,,194.4,194.4,0,0,0,,nocontact,0.6
+L-10203,Ava Gray,Lead generation,SMB,Retail,Referral,New,Normal,Cold,,53.8,53.8,0,0,10700,,,0
+L-10204,Liam Quinn,Q4 product launch,Enterprise,Logistics,Website,New,Critical,Warm,,285.0,285.0,0,0,226000,,,0
+L-10205,Jamie Dunn,Landing page A/B tests,SMB,Education,LinkedIn Ads,New,Critical,Warm,,434.1,434.1,0,1,6500,,,0
+L-10206,Nina Dawson,CRM setup,SMB,Education,Call,New,Normal,Cold,,12.4,12.4,0,0,10500,,,0
+L-10207,Julia Lane,Content plan,B2B,Retail,LinkedIn Ads,New,High,Warm,,203.4,203.4,1,0,60000,,,0
+L-10208,Paul Dawson,Lead generation,SMB,Real estate,Meeting,New,Normal,Cold,,257.8,257.8,0,0,7100,,,0
+L-10209,Mia Marsh,Content plan,SMB,Healthcare,Website,New,Low,Spam,,666.0,666.0,0,0,0,,gibberish,0.8
+L-10210,Chloe Moore,Email automation,B2B,Logistics,Referral,New,High,Warm,,5.2,5.2,0,0,54800,,,0
+L-10211,Nina Brooks,Landing page A/B tests,SMB,Real estate,Website,New,High,Warm,,13.8,13.8,0,0,9300,,,0
+L-10212,Daniel Webb,SEO audit,SMB,Real estate,LinkedIn Ads,New,Normal,Cold,,11.1,11.1,0,0,7400,,,0
+L-10213,Ava Hart,Brand refresh,SMB,SaaS,Meeting,New,Normal,Cold,,141.9,141.9,1,0,14600,,,0
+L-10214,Lena Dawson,Ongoing performance marketing,Enterprise,Logistics,Website,New,Critical,Cold,,141.9,141.9,0,1,71900,,,0
+L-10215,Ava Cole,Social media strategy,SMB,Education,LinkedIn Ads,New,Low,Duplicate,,9.5,9.5,1,0,4600,L-10030,,0
+L-10216,Zoe Brooks,Brand refresh,B2B,Finance,Referral,New,High,Warm,,949.3,949.3,0,0,20200,,,0
+L-10217,Chloe Lane,Ongoing performance marketing,Enterprise,Real estate,Email,New,Critical,Warm,,213.9,213.9,0,0,101700,,,0
+L-10218,Clara Lee,Influencer campaign,SMB,Real estate,Email,New,High,Warm,,324.9,324.9,3,0,6200,,,0
+L-10219,Ava Webb,Social media strategy,B2B,Real estate,Website,New,Normal,Cold,,2.2,2.2,0,0,34400,,,0
+L-10220,Lena Marsh,Brand refresh,SMB,Education,Website,New,Normal,Cold,,68.6,68.6,0,0,6800,,,0
+L-10221,Adam Bell,CRM setup,B2B,Retail,Call,New,Normal,Cold,,46.1,46.1,0,0,52800,,,0
+L-10222,Lucas Evans,Full-funnel campaign,SMB,Retail,LinkedIn Ads,New,Critical,Cold,,787.4,787.4,0,1,3100,,,0
+L-10223,Mia Evans,Ongoing performance marketing,SMB,Education,Referral,New,Low,Spam,,1000,1000,0,0,0,,gibberish,0.64
+L-10224,Adam Stone,Website PPC campaign,B2B,Real estate,Meeting,New,High,Warm,,266.0,266.0,0,0,56700,,,0
+L-10225,Liam Dunn,CRM setup,SMB,Logistics,LinkedIn Ads,New,Normal,Cold,,289.4,289.4,0,0,3000,,,0
+L-10226,Felix Gray,Landing page A/B tests,B2B,Education,Referral,New,High,Cold,,343.3,343.3,2,0,46400,,,0
+L-10227,Daniel Lee,Ongoing performance marketing,SMB,Education,Email,New,Normal,Cold,,485.9,485.9,0,0,9300,,,0
+L-10228,Ava Evans,Content plan,SMB,Retail,Call,New,Low,Spam,,61.3,61.3,0,0,0,,repeat,0.94
+L-10229,Alicia Stone,Influencer campaign,Enterprise,Finance,LinkedIn Ads,New,Critical,Warm,,93.8,93.8,0,0,187900,,,0
+L-10230,Adam Webb,Retargeting setup,SMB,Education,Call,New,Critical,Cold,,179.1,179.1,0,1,6500,,,0
+L-10231,Victor Bell,Full-funnel campaign,B2B,Healthcare,Meeting,New,Normal,Cold,,128.3,128.3,0,0,14500,,,0
+L-10232,Ava West,Brand refresh,B2B,Healthcare,Website,New,High,Warm,,240.0,240.0,0,0,28900,,,0
+L-10233,Sophie Marsh,Brand refresh,Enterprise,SaaS,Website,New,Low,Duplicate,,24.3,24.3,1,0,174600,L-10136,,0
+L-10234,Lucas Ward,Lead generation,SMB,Healthcare,Call,New,Normal,Cold,,152.9,152.9,0,0,9400,,,0
+L-10235,Ryan White,Q4 product launch,Enterprise,Logistics,Referral,New,Low,Spam,,54.4,54.4,0,0,0,,gibberish,0.68
+L-10236,Hugo Reed,Full-funnel campaign,SMB,SaaS,Website,New,Normal,Cold,,490.0,490.0,0,0,13700,,,0
+L-10237,Chloe Dawson,Lead generation,Enterprise,Education,Referral,New,Normal,Cold,,22.7,22.7,0,0,246400,,,0
+L-10238,Emma Nash,Paid ads & analytics,Enterprise,Healthcare,Referral,New,High,Cold,,61.0,61.0,0,0,147000,,,0
+L-10239,Irene Carter,Email automation,B2B,SaaS,Meeting,New,High,Cold,,149.6,149.6,0,0,40500,,,0
+L-10240,Julia Stone,Q4 product launch,SMB,Finance,Call,New,Normal,Cold,,86.1,86.1,0,0,14200,,,0
+L-10241,Leo Hayes,Social media strategy,SMB,Real estate,Referral,New,Normal,Cold,,246.9,246.9,0,0,5500,,,0
+L-10242,Alice Webb,Social media strategy,SMB,Real estate,LinkedIn Ads,New,Low,Duplicate,,1.0,1.0,1,0,3200,L-10245,,0
+L-10243,Leo Dunn,Retargeting setup,Enterprise,SaaS,Referral,New,High,Cold,,161.3,161.3,1,0,55900,,,0
+L-10244,Hugo Lee,Ongoing performance marketing,SMB,Real estate,LinkedIn Ads,New,High,Cold,,42.3,42.3,2,0,8500,,,0
+L-10245,Oliver Reed,Q4 product launch,SMB,Real estate,Meeting,New,High,Warm,,436.8,436.8,0,0,3200,,,0
+L-10246,Jamie Hart,SEO audit,B2B,SaaS,Referral,New,High,Warm,,519.7,519.7,0,0,52900,,,0
+L-10247,Alice Evans,Social media strategy,Enterprise,SaaS,Website,New,High,Cold,,139.7,139.7,0,0,67300,,,0
+L-10248,Ethan Shaw,Brand refresh,B2B,SaaS,Meeting,New,High,Cold,,222.1,222.1,0,0,51500,,,0
+L-10249,Jamie Quinn,CRM setup,SMB,Finance,LinkedIn Ads,New,Critical,Warm,,162.6,162.6,0,1,12800,,,0
+L-10250,Alice Quinn,Ongoing performance marketing,B2B,Education,LinkedIn Ads,New,Normal,Cold,,200.8,200.8,0,0,27600,,,0
+L-10251,Lena Bell,Brand refresh,B2B,Healthcare,Referral,New,High,Warm,,215.9,215.9,0,0,19200,,,0
+L-10252,Clara Evans,CRM setup,SMB,Retail,LinkedIn Ads,New,Critical,Cold,,76.5,76.5,0,1,5900,,,0
+L-10253,Ryan Gray,Landing page A/B tests,SMB,SaaS,Email,New,High,Warm,,155.2,155.2,0,0,2600,,,0
+L-10254,Lucas Nash,Q4 product launch,B2B,Finance,Call,New,High,Warm,,290.2,290.2,0,0,49500,,,0
+L-10255,Paul Moore,Content plan,Enterprise,Retail,LinkedIn Ads,New,Normal,Cold,,91.4,91.4,1,0,149800,,,0
+L-10256,Ryan Nash,Influencer campaign,B2B,Healthcare,Email,New,High,Warm,,507.8,507.8,0,0,27100,,,0
+L-10257,Alicia West,Paid ads & analytics,Enterprise,Logistics,LinkedIn Ads,New,Critical,Warm,,172.7,172.7,0,0,195300,,,0
+L-10258,Adam Lee,Paid ads & analytics,Enterprise,Retail,Referral,New,High,Warm,,74.1,74.1,0,0,74600,,,0
+L-10259,Paul Kingston,Landing page A/B tests,SMB,Finance,LinkedIn Ads,New,Low,Spam,,142.6,142.6,0,0,0,,gibberish,0.77
+L-10260,Lucas Lane,Brand refresh,Enterprise,Retail,Website,New,Low,Duplicate,,33.7,33.7,1,0,189700,L-10558,,0
+L-10261,Nora Ward,SEO audit,B2B,Real estate,Website,New,Low,Spam,,176.1,176.1,0,0,0,,domain,0.99
+L-10262,Zoe Evans,Paid ads & analytics,SMB,Finance,LinkedIn Ads,New,Low,Duplicate,,167.3,167.3,1,0,4800,L-10703,,0
+L-10263,Mia Hart,Landing page A/B tests,B2B,Retail,Website,New,Normal,Cold,,305.5,305.5,0,0,21000,,,0
+L-10264,Hugo Ward,Paid ads & analytics,SMB,Retail,Referral,New,Critical,Warm,,358.3,358.3,0,1,6400,,,0
+L-10265,Liam Bell,Full-funnel campaign,SMB,Real estate,Call,New,High,Warm,,148.1,148.1,0,0,7400,,,0
+L-10266,Alice Cole,CRM setup,SMB,Retail,LinkedIn Ads,New,Low,Duplicate,,135.6,135.6,1,0,14700,L-10325,,0
+L-10267,Alicia Lane,Landing page A/B tests,Enterprise,Education,Website,New,Normal,Cold,,64.0,64.0,0,0,239500,,,0
+L-10268,Clara Ward,Ongoing performance marketing,B2B,Real estate,Email,New,Normal,Cold,,220.4,220.4,0,0,42500,,,0
+L-10269,Mia Lane,SEO audit,SMB,Real estate,Website,New,Low,Spam,,18.4,18.4,0,0,0,,gibberish,0.67
+L-10270,Marta Hayes,Brand refresh,Enterprise,Real estate,Call,New,Low,Duplicate,,63.0,63.0,1,0,248300,L-10315,,0
+L-10271,Paul Ward,Retargeting setup,SMB,Finance,Call,New,High,Warm,,11.9,11.9,0,0,6600,,,0
+L-10272,Liam Nash,Paid ads & analytics,B2B,SaaS,Meeting,New,High,Cold,,222.8,222.8,0,0,42300,,,0
+L-10273,Alicia Pike,SEO audit,Enterprise,Logistics,Email,New,Normal,Cold,,404.9,404.9,0,0,109500,,,0
+L-10274,Lena Dunn,Content plan,SMB,Education,Call,New,High,Warm,,298.6,298.6,0,0,6500,,,0
+L-10275,Lena Frost,CRM setup,Enterprise,Retail,Email,New,Critical,Cold,,126.2,126.2,0,1,101900,,,0
+L-10276,Noah Nash,CRM setup,Enterprise,Retail,Website,New,Normal,Cold,,100.0,100.0,0,0,137200,,,0
+L-10277,Marta Dawson,Content plan,B2B,SaaS,LinkedIn Ads,New,Low,Duplicate,,236.4,236.4,1,0,54200,L-10858,,0
+L-10278,Ethan Moore,Full-funnel campaign,SMB,Education,Call,New,Low,Duplicate,,225.8,225.8,1,0,5900,L-10151,,0
+L-10279,Alice Dawson,Paid ads & analytics,B2B,Retail,Referral,New,High,Warm,,498.1,498.1,0,0,26500,,,0
+L-10280,Mia Kingston,Website PPC campaign,Enterprise,Healthcare,Website,New,High,Cold,,47.1,47.1,0,0,71800,,,0
+L-10281,Chloe Hayes,Ongoing performance marketing,Enterprise,SaaS,Email,New,High,Cold,,513.4,513.4,0,0,107700,,,0
+L-10282,Ava White,Ongoing performance marketing,B2B,Logistics,LinkedIn Ads,New,Normal,Cold,,194.4,194.4,0,0,57400,,,0
+L-10283,Victor Stone,CRM setup,SMB,Retail,Meeting,New,Low,Duplicate,,102.7,102.7,3,0,13800,L-10732,,0
+L-10284,Daniel Carter,CRM setup,Enterprise,Finance,Website,New,High,Cold,,143.0,143.0,0,0,249500,,,0
+L-10285,Theo Nash,Landing page A/B tests,SMB,Real estate,Website,New,High,Warm,,73.6,73.6,0,0,11400,,,0
+L-10286,Marta Stone,Social media strategy,SMB,SaaS,Website,New,High,Cold,,417.2,417.2,3,0,14400,,,0
+L-10287,Noah Pike,Landing page A/B tests,B2B,Finance,LinkedIn Ads,New,High,Cold,,259.6,259.6,3,0,38700,,,0
+L-10288,Irene Fox,Influencer campaign,SMB,SaaS,Call,New,Critical,Cold,,177.0,177.0,0,1,5200,,,0
+L-10289,Victor Lee,Full-funnel campaign,SMB,Real estate,Email,New,High,Warm,,495.5,495.5,0,0,13400,,,0
+L-10290,Noah Shaw,Content plan,B2B,Education,LinkedIn Ads,New,Low,Spam,,100.9,100.9,0,0,0,,nocontact,0.62
+L-10291,Clara Moore,Q4 product launch,B2B,Education,Call,New,Low,Spam,,44.6,44.6,0,0,0,,gibberish,0.55
+L-10292,Liam Dunn,Ongoing performance marketing,B2B,Real estate,Meeting,New,Critical,Warm,,372.5,372.5,0,1,48600,,,0
+L-10293,Nina Cole,Q4 product launch,B2B,Education,Meeting,New,Low,Duplicate,,15.3,15.3,1,0,22700,L-10913,,0
+L-10294,Theo Kingston,Email automation,SMB,SaaS,Referral,New,Normal,Cold,,49.2,49.2,0,0,10500,,,0
+L-10295,Lena Fox,Q4 product launch,Enterprise,Healthcare,Call,New,High,Cold,,57.6,57.6,3,0,203300,,,0
+L-10296,Felix White,Retargeting setup,B2B,Logistics,Meeting,New,Low,Duplicate,,166.7,166.7,1,0,47800,L-10651,,0
+L-10297,Oliver Frost,Landing page A/B tests,B2B,Education,Referral,New,Normal,Cold,,124.1,124.1,0,0,28200,,,0
+L-10298,Oliver Marsh,Brand refresh,B2B,Real estate,Email,New,Critical,Warm,,246.9,246.9,0,1,26200,,,0
+L-10299,Julia Moore,Landing page A/B tests,SMB,Finance,LinkedIn Ads,New,Normal,Cold,,65.3,65.3,0,0,10600,,,0
+L-10300,Chloe Moore,CRM setup,B2B,Finance,Website,New,High,Warm,,583.4,583.4,0,0,38500,,,0
+L-10301,Ryan Gray,Brand refresh,B2B,Logistics,Referral,New,Normal,Cold,,232.7,232.7,0,0,20800,,,0
+L-10302,Alice Hart,Q4 product launch,SMB,Logistics,LinkedIn Ads,New,Normal,Cold,,392.0,392.0,0,0,6000,,,0
+L-10303,Clara Pike,Paid ads & analytics,B2B,Education,Email,New,Critical,Warm,,255.5,255.5,0,1,19600,,,0
+L-10304,Jamie Price,Content plan,B2B,SaaS,Referral,New,High,Cold,,230.1,230.1,0,0,52300,,,0
+L-10305,Alice Reed,CRM setup,B2B,Real estate,Call,New,Normal,Cold,,31.4,31.4,0,0,41000,,,0
+L-10306,Daniel Marsh,Content plan,Enterprise,Logistics,Email,New,Critical,Warm,,83.9,83.9,0,0,84300,,,0
+L-10307,Theo Pike,Landing page A/B tests,Enterprise,Education,Referral,New,Critical,Warm,,361.1,361.1,0,0,183800,,,0
+L-10308,Paul Nash,Social media strategy,Enterprise,Logistics,Call,New,Critical,Warm,,174.6,174.6,0,0,246900,,,0
+L-10309,Marta Price,CRM setup,B2B,Education,Email,New,Normal,Cold,,216.2,216.2,0,0,17600,,,0
+L-10310,Emma Moore,Brand refresh,B2B,Healthcare,LinkedIn Ads,New,High,Warm,,3.6,3.6,2,0,23000,,,0
+L-10311,Leo Marsh,Retargeting setup,B2B,Real estate,Referral,New,High,Warm,,150.1,150.1,0,0,19500,,,0
+L-10312,Liam Price,Email automation,SMB,Logistics,Referral,New,Normal,Cold,,133.8,133.8,0,0,7100,,,0
+L-10313,Emma Fox,Website PPC campaign,SMB,Logistics,Meeting,New,Low,Spam,,4.8,4.8,0,0,0,,nocontact,0.79
+L-10314,Liam Frost,Full-funnel campaign,SMB,Logistics,Meeting,New,Normal,Cold,,155.2,155.2,0,0,14000,,,0
+L-10315,Paul Lee,Q4 product launch,Enterprise,Real estate,Referral,New,Critical,Warm,,473.4,473.4,0,0,248300,,,0
+L-10316,Paul Stone,Social media strategy,Enterprise,Logistics,Website,New,Normal,Cold,,84.3,84.3,0,0,107900,,,0
+L-10317,Zoe Quinn,Ongoing performance marketing,Enterprise,Education,Referral,New,Low,Spam,,22.8,22.8,0,0,0,,offtopic,0.65
+L-10318,Mia White,Content plan,SMB,Finance,Call,New,Normal,Cold,,53.2,53.2,0,0,11700,,,0
+L-10319,Jamie Hayes,Influencer campaign,SMB,Real estate,Meeting,New,Low,Spam,,181.7,181.7,0,0,0,,offtopic,0.69
+L-10320,Alicia Lane,Lead generation,Enterprise,SaaS,Email,New,High,Cold,,156.0,156.0,0,0,241600,,,0
+L-10321,Marta Hill,CRM setup,B2B,SaaS,Meeting,New,Low,Spam,,11.7,11.7,0,0,0,,offtopic,0.6
+L-10322,Leo Pike,Influencer campaign,B2B,Finance,LinkedIn Ads,New,Critical,Warm,,791.5,791.5,0,1,42200,,,0
+L-10323,Oliver Fox,Influencer campaign,B2B,Logistics,Meeting,New,Critical,Warm,,92.2,92.2,0,1,38200,,,0
+L-10324,Paul Kingston,Paid ads & analytics,B2B,Healthcare,LinkedIn Ads,New,Normal,Cold,,42.9,42.9,0,0,23500,,,0
+L-10325,Victor Frost,Ongoing performance marketing,SMB,Retail,Meeting,New,Normal,Cold,,211.0,211.0,0,0,14700,,,0
+L-10326,Jamie Gray,Brand refresh,B2B,Retail,Email,New,High,Warm,,10.0,10.0,0,0,36500,,,0
+L-10327,Mia Dunn,CRM setup,SMB,Real estate,Meeting,New,Normal,Cold,,132.3,132.3,0,0,4300,,,0
+L-10328,Ryan White,Ongoing performance marketing,SMB,Retail,Call,New,High,Warm,,615.0,615.0,0,0,9100,,,0
+L-10329,Felix Kingston,Lead generation,B2B,Healthcare,Email,New,High,Cold,,10.6,10.6,0,0,46100,,,0
+L-10330,Alice Nash,Website PPC campaign,B2B,Finance,Referral,New,Critical,Warm,,160.8,160.8,0,1,17200,,,0
+L-10331,Sophie Pike,Email automation,B2B,Retail,Call,New,Normal,Cold,,35.5,35.5,1,0,42000,,,0
+L-10332,Jamie White,CRM setup,B2B,Finance,Email,New,Normal,Cold,,835.4,835.4,1,0,25400,,,0
+L-10333,Ryan Carter,Ongoing performance marketing,Enterprise,Healthcare,Meeting,New,High,Cold,,534.7,534.7,0,0,158400,,,0
+L-10334,Theo Nash,Social media strategy,SMB,SaaS,Meeting,New,Low,Duplicate,,66.3,66.3,1,0,11600,L-10190,,0
+L-10335,Alicia Hill,Ongoing performance marketing,SMB,Healthcare,Meeting,New,Normal,Cold,,23.2,23.2,0,0,12000,,,0
+L-10336,Nina Pike,SEO audit,B2B,Real estate,Meeting,New,Normal,Cold,,62.2,62.2,0,0,54500,,,0
+L-10337,Marta Moore,Landing page A/B tests,B2B,Retail,Referral,New,Normal,Cold,,288.8,288.8,0,0,16600,,,0
+L-10338,Jamie Bell,Lead generation,B2B,Finance,Email,New,High,Cold,,377.4,377.4,0,0,43400,,,0
+L-10339,Jamie Lee,Website PPC campaign,SMB,Finance,Meeting,New,Normal,Cold,,79.3,79.3,0,0,9200,,,0
+L-10340,Alice Hayes,CRM setup,B2B,Education,Call,New,Normal,Cold,,107.7,107.7,0,0,11400,,,0
+L-10341,Lucas Hill,Influencer campaign,B2B,Healthcare,Call,New,Normal,Cold,,96.8,96.8,0,0,25900,,,0
+L-10342,Clara Evans,Ongoing performance marketing,SMB,SaaS,Call,New,Normal,Cold,,174.1,174.1,0,0,3600,,,0
+L-10343,Alicia West,Website PPC campaign,SMB,Healthcare,LinkedIn Ads,New,Normal,Cold,,11.9,11.9,0,0,14600,,,0
+L-10344,Felix Gray,Social media strategy,SMB,Education,Website,New,Low,Spam,,116.0,116.0,0,0,0,,repeat,0.83
+L-10345,Ryan Kingston,Brand refresh,SMB,Logistics,Meeting,New,High,Warm,,144.6,144.6,1,0,2800,,,0
+L-10346,Victor Webb,Q4 product launch,SMB,Education,Website,New,Normal,Cold,,106.0,106.0,0,0,6800,,,0
+L-10347,Daniel Dawson,SEO audit,SMB,Education,Call,New,Low,Duplicate,,105.4,105.4,1,0,9300,L-10227,,0
+L-10348,Lena Gray,Landing page A/B tests,Enterprise,Healthcare,Website,New,High,Cold,,27.3,27.3,0,0,61800,,,0
+L-10349,Ava Nash,Paid ads & analytics,Enterprise,Healthcare,Call,New,Low,Spam,,178.7,178.7,0,0,0,,domain,0.7
+L-10350,Marta Frost,Ongoing performance marketing,Enterprise,Logistics,Referral,New,Normal,Cold,,1000,1000,0,0,121500,,,0
+L-10351,Ryan Price,Landing page A/B tests,B2B,Finance,Email,New,Normal,Cold,,50.2,50.2,0,0,14900,,,0
+L-10352,Ryan Carter,Lead generation,B2B,Retail,Website,New,Normal,Cold,,125.8,125.8,0,0,54300,,,0
+L-10353,Lucas Price,Lead generation,Enterprise,Retail,Referral,New,Low,Spam,,32.5,32.5,0,0,0,,offtopic,0.96
+L-10354,Mia Fox,Content plan,Enterprise,Finance,LinkedIn Ads,New,Critical,Cold,,282.9,282.9,0,1,206000,,,0
+L-10355,Daniel Marsh,Landing page A/B tests,B2B,Logistics,Website,New,Low,Duplicate,,473.1,473.1,1,0,58500,L-10169,,0
+L-10356,Julia Evans,Retargeting setup,B2B,Retail,Referral,New,High,Warm,,444.7,444.7,0,0,46200,,,0
+L-10357,Nina Carter,Email automation,B2B,Real estate,Referral,New,Low,Spam,,380.9,380.9,0,0,0,,repeat,0.6
+L-10358,Alice Hill,Q4 product launch,B2B,Healthcare,Call,New,High,Warm,,386.2,386.2,0,0,43700,,,0
+L-10359,Chloe White,Full-funnel campaign,B2B,Finance,Website,New,High,Cold,,197.0,197.0,0,0,34800,,,0
+L-10360,Ethan Hart,CRM setup,B2B,Logistics,Referral,New,Low,Duplicate,,134.3,134.3,1,0,29500,L-10079,,0
+L-10361,Chloe West,Ongoing performance marketing,SMB,Finance,Email,New,Low,Spam,,199.1,199.1,0,0,0,,nocontact,0.96
+L-10362,Felix Cole,Ongoing performance marketing,B2B,Healthcare,Meeting,New,High,Warm,,214.8,214.8,0,0,50000,,,0
+L-10363,Hugo Brooks,Landing page A/B tests,SMB,Healthcare,Referral,New,High,Warm,,192.6,192.6,1,0,9700,,,0
+L-10364,Hugo Ward,Q4 product launch,Enterprise,SaaS,Email,New,High,Warm,,13.8,13.8,0,0,68900,,,0
+L-10365,Victor Webb,CRM setup,Enterprise,Healthcare,Email,New,Low,Spam,,6.3,6.3,0,0,0,,repeat,0.89
+L-10366,Lucas Reed,Website PPC campaign,SMB,SaaS,Referral,New,High,Warm,,174.0,174.0,1,0,7900,,,0
+L-10367,Ryan Reed,CRM setup,B2B,Logistics,Meeting,New,Normal,Cold,,162.8,162.8,0,0,53400,,,0
+L-10368,Adam Cole,Content plan,B2B,Real estate,Email,New,High,Cold,,916.7,916.7,3,0,17800,,,0
+L-10369,Lucas Dunn,Social media strategy,Enterprise,Education,LinkedIn Ads,New,Low,Spam,,27.6,27.6,0,0,0,,domain,0.62
+L-10370,Hugo Hart,Brand refresh,SMB,Logistics,Call,New,Low,Spam,,237.8,237.8,0,0,0,,nocontact,0.85
+L-10371,Oliver Lane,CRM setup,B2B,Logistics,Referral,New,Critical,Warm,,248.4,248.4,0,1,25500,,,0
+L-10372,Noah Kingston,Content plan,B2B,Logistics,LinkedIn Ads,New,Low,Spam,,129.3,129.3,0,0,0,,repeat,0.73
+L-10373,Victor White,Ongoing performance marketing,B2B,Education,Call,New,High,Warm,,76.1,76.1,0,0,19100,,,0
+L-10374,Adam Ward,Website PPC campaign,B2B,Real estate,LinkedIn Ads,New,High,Warm,,145.1,145.1,0,0,19900,,,0
+L-10375,Felix Ward,Content plan,SMB,Finance,Referral,New,Normal,Cold,,268.5,268.5,0,0,4300,,,0
+L-10376,Ryan West,Full-funnel campaign,B2B,Retail,Website,New,High,Warm,,122.5,122.5,0,0,55500,,,0
+L-10377,Theo Gray,CRM setup,B2B,Finance,Call,New,High,Cold,,5.8,5.8,0,0,58000,,,0
+L-10378,Ethan Fox,Brand refresh,SMB,Real estate,Email,New,Low,Duplicate,,32.3,32.3,1,0,3600,L-10044,,0
+L-10379,Lucas Hayes,Full-funnel campaign,Enterprise,SaaS,Website,New,High,Cold,,6.3,6.3,0,0,217500,,,0
+L-10380,Lucas Dawson,SEO audit,B2B,Finance,LinkedIn Ads,New,High,Warm,,39.2,39.2,0,0,26800,,,0
+L-10381,Mia Marsh,Social media strategy,B2B,Retail,Meeting,New,Low,Spam,,90.8,90.8,0,0,0,,repeat,0.97
+L-10382,Paul West,Paid ads & analytics,SMB,Logistics,Referral,New,High,Warm,,516.8,516.8,1,0,14600,,,0
+L-10383,Alicia Price,Paid ads & analytics,B2B,Healthcare,Call,New,Normal,Cold,,310.8,310.8,0,0,20000,,,0
+L-10384,Emma Cole,Content plan,B2B,Logistics,Email,New,High,Cold,,7.0,7.0,3,0,50500,,,0
+L-10385,Lucas Price,Q4 product launch,SMB,Finance,Call,New,Critical,Cold,,54.0,54.0,0,1,2900,,,0
+L-10386,Chloe Dawson,SEO audit,B2B,Finance,Meeting,New,High,Warm,,147.4,147.4,0,0,56300,,,0
+L-10387,Alicia Hayes,Website PPC campaign,B2B,Retail,Call,New,Normal,Cold,,67.7,67.7,1,0,24800,,,0
+L-10388,Victor Ward,Social media strategy,SMB,Retail,Email,New,Critical,Cold,,98.1,98.1,1,1,7400,,,0
+L-10389,Clara Cole,SEO audit,B2B,Education,Referral,New,High,Warm,,246.4,246.4,0,0,54700,,,0
+L-10390,Marta Pike,CRM setup,Enterprise,Real estate,Referral,New,Low,Spam,,371.5,371.5,0,0,0,,offtopic,0.56
+L-10391,Sophie Quinn,Brand refresh,SMB,SaaS,Email,New,Normal,Cold,,563.7,563.7,0,0,6900,,,0
+L-10392,Felix Quinn,Ongoing performance marketing,B2B,Finance,Website,New,Low,Spam,,191.4,191.4,0,0,0,,domain,0.77
+L-10393,Paul Moore,Influencer campaign,Enterprise,Education,Call,New,Low,Duplicate,,61.6,61.6,1,0,163100,L-10701,,0
+L-10394,Sophie Lee,Brand refresh,SMB,Retail,Call,New,High,Warm,,54.8,54.8,0,0,7700,,,0
+L-10395,Ethan Moore,Lead generation,Enterprise,Education,Referral,New,Critical,Warm,,228.9,228.9,0,0,150300,,,0
+L-10396,Liam West,Landing page A/B tests,B2B,Real estate,Call,New,High,Warm,,53.8,53.8,0,0,21400,,,0
+L-10397,Irene Pike,Website PPC campaign,SMB,Retail,Meeting,New,Normal,Cold,,512.5,512.5,0,0,3700,,,0
+L-10398,Oliver West,Influencer campaign,B2B,Healthcare,Referral,New,High,Warm,,112.2,112.2,0,0,37400,,,0
+L-10399,Ethan Hart,Landing page A/B tests,SMB,Logistics,Meeting,New,Low,Spam,,274.2,274.2,0,0,0,,gibberish,0.84
+L-10400,Alicia Evans,Content plan,B2B,SaaS,Meeting,New,Normal,Cold,,259.5,259.5,0,0,18700,,,0
+L-10401,Leo Hill,Content plan,SMB,Logistics,Meeting,New,Low,Spam,,217.3,217.3,0,0,0,,repeat,0.62
+L-10402,Nora Dunn,Q4 product launch,SMB,Finance,Meeting,New,Critical,Warm,,167.6,167.6,0,1,2600,,,0
+L-10403,Liam White,Lead generation,B2B,Logistics,Call,New,Critical,Cold,,244.8,244.8,0,1,55000,,,0
+L-10404,Noah West,Q4 product launch,B2B,Education,LinkedIn Ads,New,Low,Spam,,1.2,1.2,0,0,0,,nocontact,0.74
+L-10405,Jamie Dunn,Retargeting setup,B2B,Education,Meeting,New,Low,Duplicate,,215.0,215.0,1,0,10800,L-10835,,0
+L-10406,Marta Shaw,Landing page A/B tests,SMB,Healthcare,Referral,New,Normal,Cold,,82.0,82.0,0,0,10300,,,0
+L-10407,Theo Dawson,Brand refresh,Enterprise,Logistics,Referral,New,Normal,Cold,,118.1,118.1,0,0,214500,,,0
+L-10408,Lena Ward,SEO audit,SMB,Retail,Referral,New,High,Warm,,337.9,337.9,0,0,2100,,,0
+L-10409,Lucas West,Full-funnel campaign,B2B,Education,Website,New,High,Warm,,2.6,2.6,0,0,29800,,,0
+L-10410,Irene Lee,Social media strategy,Enterprise,Retail,Referral,New,Normal,Cold,,259.5,259.5,0,0,165200,,,0
+L-10411,Emma Moore,Content plan,SMB,Education,Meeting,New,Critical,Cold,,31.6,31.6,0,1,4500,,,0
+L-10412,Leo Cole,Retargeting setup,B2B,Real estate,Meeting,New,Normal,Cold,,100.1,100.1,0,0,27900,,,0
+L-10413,Felix Pike,Email automation,Enterprise,Healthcare,Referral,New,High,Warm,,262.3,262.3,0,0,76100,,,0
+L-10414,Oliver Evans,SEO audit,B2B,SaaS,Call,New,Normal,Cold,,71.7,71.7,0,0,29200,,,0
+L-10415,Leo Stone,Q4 product launch,SMB,Healthcare,Meeting,New,Critical,Cold,,106.4,106.4,1,1,7900,,,0
+L-10416,Ethan Webb,Website PPC campaign,Enterprise,Finance,LinkedIn Ads,New,Critical,Warm,,308.6,308.6,1,0,69800,,,0
+L-10417,Liam Frost,Paid ads & analytics,B2B,Finance,Website,New,Low,Duplicate,,130.4,130.4,1,0,34800,L-10359,,0
+L-10418,Lucas Hill,CRM setup,SMB,Healthcare,Referral,New,High,Warm,,230.3,230.3,0,0,11400,,,0
+L-10419,Theo Fox,Full-funnel campaign,B2B,Education,LinkedIn Ads,New,Normal,Cold,,82.2,82.2,0,0,54400,,,0
+L-10420,Sophie West,Website PPC campaign,B2B,Logistics,Meeting,New,High,Warm,,12.7,12.7,0,0,39500,,,0
+L-10421,Nora Dawson,Lead generation,SMB,SaaS,Call,New,Normal,Cold,,4.0,4.0,0,0,3100,,,0
+L-10422,Alicia Price,Website PPC campaign,SMB,Healthcare,Email,New,Normal,Cold,,144.9,144.9,0,0,12800,,,0
+L-10423,Lucas Dunn,Retargeting setup,SMB,Retail,Meeting,New,Low,Spam,,26.0,26.0,0,0,0,,gibberish,0.89
+L-10424,Marta Pike,Full-funnel campaign,B2B,Retail,LinkedIn Ads,New,Normal,Cold,,148.5,148.5,0,0,56200,,,0
+L-10425,Nina Hart,Retargeting setup,B2B,Healthcare,Meeting,New,Critical,Cold,,399.5,399.5,0,1,53400,,,0
+L-10426,Alicia Hayes,Brand refresh,B2B,Logistics,Call,New,Normal,Cold,,110.7,110.7,1,0,47000,,,0
+L-10427,Hugo Ward,Q4 product launch,SMB,SaaS,LinkedIn Ads,New,High,Warm,,561.9,561.9,0,0,11300,,,0
+L-10428,Hugo Gray,Ongoing performance marketing,B2B,SaaS,Website,New,Low,Spam,,18.3,18.3,0,0,0,,gibberish,0.58
+L-10429,Sophie Kingston,Influencer campaign,SMB,Education,Call,New,High,Warm,,790.7,790.7,0,0,7100,,,0
+L-10430,Victor Dawson,Lead generation,Enterprise,Healthcare,Email,New,Critical,Warm,,71.1,71.1,1,1,210700,,,0
+L-10431,Liam Brooks,Ongoing performance marketing,B2B,Logistics,Call,New,Normal,Cold,,167.7,167.7,0,0,39900,,,0
+L-10432,Felix Ward,Retargeting setup,SMB,Education,Meeting,New,Normal,Cold,,462.6,462.6,0,0,8300,,,0
+L-10433,Oliver Moore,CRM setup,SMB,Finance,Email,New,High,Warm,,28.2,28.2,3,0,7700,,,0
+L-10434,Clara Quinn,Brand refresh,B2B,Healthcare,Referral,New,Low,Duplicate,,152.9,152.9,1,0,41100,L-10012,,0
+L-10435,Daniel Hill,Social media strategy,SMB,Retail,Call,New,Normal,Cold,,124.7,124.7,0,0,11800,,,0
+L-10436,Irene Kingston,Lead generation,SMB,Real estate,Website,New,Critical,Cold,,329.8,329.8,0,1,10100,,,0
+L-10437,Clara Carter,Retargeting setup,SMB,Real estate,Email,New,Normal,Cold,,112.4,112.4,1,0,3000,,,0
+L-10438,Ava Lee,Retargeting setup,Enterprise,Real estate,Meeting,New,Normal,Cold,,42.8,42.8,0,0,59600,,,0
+L-10439,Mia White,Q4 product launch,Enterprise,Finance,Website,New,High,Cold,,136.9,136.9,2,0,219000,,,0
+L-10440,Nina Carter,Brand refresh,B2B,Education,LinkedIn Ads,New,High,Warm,,163.7,163.7,0,0,10800,,,0
+L-10441,Oliver Marsh,Q4 product launch,Enterprise,Healthcare,Email,New,Low,Spam,,157.2,157.2,0,0,0,,domain,0.57
+L-10442,Zoe Webb,Website PPC campaign,SMB,SaaS,Email,New,Low,Spam,,81.1,81.1,0,0,0,,domain,0.84
+L-10443,Alicia White,CRM setup,SMB,Real estate,Meeting,New,High,Warm,,53.1,53.1,0,0,9900,,,0
+L-10444,Jamie Pike,Landing page A/B tests,B2B,Healthcare,Meeting,New,Low,Spam,,411.6,411.6,0,0,0,,nocontact,0.73
+L-10445,Lena Webb,Paid ads & analytics,Enterprise,Real estate,LinkedIn Ads,New,Normal,Cold,,20.5,20.5,0,0,173400,,,0
+L-10446,Ava Brooks,Retargeting setup,Enterprise,Education,Referral,New,Normal,Cold,,87.4,87.4,0,0,55500,,,0
+L-10447,Zoe Hart,Q4 product launch,Enterprise,Healthcare,Email,New,Low,Duplicate,,155.5,155.5,1,0,136100,L-10912,,0
+L-10448,Alice Price,SEO audit,B2B,Healthcare,LinkedIn Ads,New,Normal,Cold,,96.4,96.4,0,0,11100,,,0
+L-10449,Paul Carter,Email automation,Enterprise,Logistics,Meeting,New,Normal,Cold,,41.3,41.3,0,0,90600,,,0
+L-10450,Ethan Price,Email automation,B2B,Finance,Meeting,New,High,Cold,,29.3,29.3,0,0,33600,,,0
+L-10451,Theo White,Paid ads & analytics,SMB,Healthcare,Email,New,High,Warm,,151.7,151.7,0,0,10000,,,0
+L-10452,Ethan Ward,Email automation,B2B,SaaS,Email,New,Normal,Cold,,30.6,30.6,0,0,27800,,,0
+L-10453,Clara Stone,Full-funnel campaign,SMB,Logistics,Meeting,New,Critical,Cold,,356.1,356.1,1,1,12000,,,0
+L-10454,Mia Hill,Lead generation,SMB,Retail,Call,New,High,Warm,,666.2,666.2,0,0,7600,,,0
+L-10455,Adam Young,Q4 product launch,SMB,SaaS,Email,New,Normal,Cold,,38.7,38.7,0,0,12500,,,0
+L-10456,Alice Price,Social media strategy,B2B,Retail,Meeting,New,Low,Spam,,42.9,42.9,0,0,0,,repeat,0.72
+L-10457,Alicia Hart,Email automation,SMB,Retail,Call,New,Low,Duplicate,,387.8,387.8,1,0,5800,L-10121,,0
+L-10458,Oliver Reed,Email automation,SMB,SaaS,Referral,New,High,Warm,,174.1,174.1,0,0,14400,,,0
+L-10459,Chloe Hart,Content plan,Enterprise,Healthcare,Email,New,Critical,Warm,,116.9,116.9,0,0,148800,,,0
+L-10460,Zoe Frost,Full-funnel campaign,SMB,SaaS,Email,New,Normal,Cold,,716.2,716.2,0,0,5100,,,0
+L-10461,Noah Shaw,SEO audit,B2B,Healthcare,Call,New,High,Cold,,185.6,185.6,0,0,40400,,,0
+L-10462,Daniel Kingston,Full-funnel campaign,B2B,Real estate,Website,New,Normal,Cold,,31.9,31.9,0,0,21700,,,0
+L-10463,Alicia Pike,SEO audit,B2B,Retail,Website,New,High,Warm,,496.8,496.8,0,0,49400,,,0
+L-10464,Victor Hill,Retargeting setup,Enterprise,Finance,LinkedIn Ads,New,High,Cold,,658.4,658.4,0,0,148200,,,0
+L-10465,Irene Lee,Ongoing performance marketing,B2B,Healthcare,Call,New,Low,Duplicate,,85.7,85.7,1,0,35000,L-10004,,0
+L-10466,Lena Hayes,Website PPC campaign,SMB,Healthcare,LinkedIn Ads,New,High,Warm,,11.9,11.9,0,0,5000,,,0
+L-10467,Nina Ward,SEO audit,B2B,Logistics,LinkedIn Ads,New,High,Cold,,6.7,6.7,2,0,54000,,,0
+L-10468,Leo Bell,CRM setup,SMB,Retail,Referral,New,Critical,Warm,,37.6,37.6,0,1,13100,,,0
+L-10469,Daniel Frost,CRM setup,B2B,Real estate,Call,New,High,Warm,,240.5,240.5,0,0,21600,,,0
+L-10470,Zoe Bell,Paid ads & analytics,SMB,Retail,Website,New,High,Warm,,39.3,39.3,1,0,8600,,,0
+L-10471,Noah Bell,Social media strategy,Enterprise,Finance,Call,New,High,Cold,,2.4,2.4,0,0,101700,,,0
+L-10472,Nora Fox,Q4 product launch,SMB,Healthcare,Email,New,Low,Duplicate,,345.6,345.6,1,0,9200,L-10474,,0
+L-10473,Jamie Hayes,Full-funnel campaign,B2B,Education,Referral,New,Normal,Cold,,405.2,405.2,0,0,39200,,,0
+L-10474,Mia Hart,Paid ads & analytics,SMB,Healthcare,Email,New,Normal,Cold,,21.6,21.6,0,0,9200,,,0
+L-10475,Jamie Brooks,Content plan,B2B,Real estate,Referral,New,Critical,Cold,,76.2,76.2,0,1,41500,,,0
+L-10476,Jamie Marsh,Email automation,Enterprise,Education,LinkedIn Ads,New,Critical,Cold,,203.6,203.6,0,1,84200,,,0
+L-10477,Daniel Cole,Email automation,SMB,Real estate,Referral,New,High,Warm,,13.9,13.9,0,0,4400,,,0
+L-10478,Zoe Gray,Content plan,SMB,Finance,LinkedIn Ads,New,Normal,Cold,,351.1,351.1,0,0,7300,,,0
+L-10479,Ethan Hayes,Brand refresh,Enterprise,Logistics,Website,New,Low,Spam,,448.4,448.4,0,0,0,,domain,0.83
+L-10480,Nina Carter,Paid ads & analytics,B2B,Finance,Meeting,New,High,Cold,,107.1,107.1,0,0,40400,,,0
+L-10481,Theo Dawson,CRM setup,B2B,Retail,Referral,New,High,Warm,,190.6,190.6,0,0,31500,,,0
+L-10482,Daniel Pike,Paid ads & analytics,SMB,Finance,Call,New,Normal,Cold,,63.8,63.8,0,0,8700,,,0
+L-10483,Oliver Lane,SEO audit,B2B,Finance,Referral,New,Low,Spam,,2.5,2.5,0,0,0,,repeat,0.98
+L-10484,Ryan Kingston,Paid ads & analytics,Enterprise,Logistics,Email,New,Critical,Warm,,301.8,301.8,0,0,186200,,,0
+L-10485,Theo Fox,Q4 product launch,Enterprise,SaaS,Call,New,High,Cold,,444.7,444.7,0,0,230300,,,0
+L-10486,Adam Hart,Brand refresh,B2B,Finance,Meeting,New,Normal,Cold,,12.0,12.0,0,0,22800,,,0
+L-10487,Ethan Cole,Influencer campaign,SMB,Real estate,Referral,New,Normal,Cold,,542.9,542.9,0,0,9400,,,0
+L-10488,Lucas Price,Q4 product launch,B2B,Healthcare,LinkedIn Ads,New,Low,Spam,,9.6,9.6,0,0,0,,gibberish,0.57
+L-10489,Liam Evans,Full-funnel campaign,Enterprise,Healthcare,Referral,New,High,Cold,,121.3,121.3,0,0,101100,,,0
+L-10490,Noah Pike,Content plan,SMB,Education,LinkedIn Ads,New,High,Warm,,254.7,254.7,1,0,8800,,,0
+L-10491,Daniel Moore,Landing page A/B tests,SMB,Healthcare,Call,New,Normal,Cold,,234.9,234.9,0,0,11700,,,0
+L-10492,Nina Carter,Lead generation,B2B,Finance,Call,New,Normal,Cold,,69.1,69.1,0,0,22300,,,0
+L-10493,Leo Lee,Influencer campaign,SMB,SaaS,Call,New,Normal,Cold,,698.1,698.1,0,0,7600,,,0
+L-10494,Jamie Gray,Brand refresh,SMB,Retail,Email,New,Low,Duplicate,,117.1,117.1,1,0,12900,L-10745,,0
+L-10495,Felix Evans,Landing page A/B tests,B2B,Logistics,Website,New,Normal,Cold,,126.6,126.6,0,0,31100,,,0
+L-10496,Nina Bell,Email automation,B2B,Finance,Email,New,High,Cold,,261.0,261.0,0,0,38800,,,0
+L-10497,Mia Pike,Influencer campaign,Enterprise,Logistics,Meeting,New,Normal,Cold,,244.4,244.4,1,0,115900,,,0
+L-10498,Chloe Dawson,Landing page A/B tests,SMB,Healthcare,Referral,New,Critical,Warm,,103.8,103.8,0,1,5000,,,0
+L-10499,Clara Ward,Lead generation,SMB,SaaS,Email,New,Low,Duplicate,,145.1,145.1,1,0,6800,L-10579,,0
+L-10500,Noah White,Retargeting setup,B2B,Healthcare,Website,New,Normal,Cold,,327.2,327.2,0,0,11400,,,0
+L-10501,Ava Stone,Lead generation,SMB,Finance,Meeting,New,Normal,Cold,,530.4,530.4,0,0,14200,,,0
+L-10502,Marta Dawson,Paid ads & analytics,B2B,Finance,Referral,New,High,Warm,,216.2,216.2,0,0,32200,,,0
+L-10503,Lucas Young,CRM setup,B2B,Finance,Email,New,Low,Spam,,52.6,52.6,0,0,0,,repeat,0.97
+L-10504,Zoe Evans,Email automation,B2B,Finance,Meeting,New,High,Cold,,400.9,400.9,0,0,58100,,,0
+L-10505,Victor Dunn,Q4 product launch,Enterprise,Retail,Call,New,Normal,Cold,,80.4,80.4,0,0,180500,,,0
+L-10506,Mia Marsh,Brand refresh,SMB,Education,Email,New,High,Warm,,35.0,35.0,0,0,11300,,,0
+L-10507,Theo Price,Website PPC campaign,SMB,Education,Meeting,New,Low,Spam,,96.2,96.2,0,0,0,,offtopic,0.95
+L-10508,Liam Kingston,Content plan,SMB,Logistics,Meeting,New,High,Warm,,182.1,182.1,0,0,3100,,,0
+L-10509,Ava Quinn,Lead generation,B2B,Logistics,Email,New,Low,Spam,,136.4,136.4,0,0,0,,gibberish,0.56
+L-10510,Hugo Pike,Ongoing performance marketing,B2B,Real estate,Meeting,New,Low,Spam,,353.3,353.3,0,0,0,,repeat,0.95
+L-10511,Oliver Ward,Lead generation,Enterprise,SaaS,LinkedIn Ads,New,High,Cold,,34.9,34.9,0,0,142000,,,0
+L-10512,Alice Price,Lead generation,B2B,Real estate,Website,New,Low,Duplicate,,209.9,209.9,1,0,39500,L-10829,,0
+L-10513,Paul Hill,Landing page A/B tests,SMB,Healthcare,Referral,New,Normal,Cold,,63.8,63.8,0,0,14400,,,0
+L-10514,Irene Hill,Brand refresh,B2B,Education,Website,New,High,Warm,,839.2,839.2,1,0,47600,,,0
+L-10515,Felix Shaw,Retargeting setup,SMB,Education,Call,New,Normal,Cold,,16.7,16.7,0,0,5000,,,0
+L-10516,Irene Carter,Ongoing performance marketing,SMB,Healthcare,Meeting,New,High,Warm,,350.4,350.4,1,0,14700,,,0
+L-10517,Adam Pike,Social media strategy,B2B,Retail,Referral,New,Normal,Cold,,455.1,455.1,0,0,58500,,,0
+L-10518,Ava Price,Lead generation,SMB,Real estate,Meeting,New,Normal,Cold,,1.7,1.7,0,0,8100,,,0
+L-10519,Jamie Cole,Brand refresh,Enterprise,Finance,Call,New,High,Cold,,81.2,81.2,3,0,225700,,,0
+L-10520,Clara Frost,SEO audit,SMB,Healthcare,LinkedIn Ads,New,Low,Duplicate,,47.6,47.6,1,0,7100,L-10535,,0
+L-10521,Marta West,CRM setup,B2B,Healthcare,Meeting,New,Low,Duplicate,,73.9,73.9,1,0,12700,L-10114,,0
+L-10522,Liam Dawson,Paid ads & analytics,SMB,Logistics,Call,New,Low,Spam,,198.9,198.9,0,0,0,,domain,0.9
+L-10523,Zoe Stone,Social media strategy,SMB,Retail,Call,New,Critical,Warm,,198.6,198.6,0,1,4800,,,0
+L-10524,Mia Webb,Landing page A/B tests,SMB,SaaS,Email,New,Normal,Cold,,58.4,58.4,0,0,9400,,,0
+L-10525,Victor Young,Brand refresh,B2B,Real estate,Email,New,Normal,Cold,,90.3,90.3,0,0,35300,,,0
+L-10526,Clara Lane,Ongoing performance marketing,SMB,SaaS,Referral,New,Normal,Cold,,476.9,476.9,0,0,14600,,,0
+L-10527,Lucas Cole,Brand refresh,SMB,Retail,Website,New,Normal,Cold,,91.5,91.5,0,0,5100,,,0
+L-10528,Mia Evans,Landing page A/B tests,B2B,Logistics,Email,New,Normal,Cold,,16.4,16.4,0,0,58400,,,0
+L-10529,Irene Kingston,SEO audit,B2B,Finance,LinkedIn Ads,New,Low,Duplicate,,188.9,188.9,1,0,10100,L-10546,,0
+L-10530,Paul Nash,Q4 product launch,B2B,Finance,Meeting,New,Low,Duplicate,,25.3,25.3,1,0,41500,L-10919,,0
+L-10531,Ava Fox,Paid ads & analytics,SMB,Real estate,Meeting,New,Low,Spam,,16.7,16.7,0,0,0,,domain,0.81
+L-10532,Adam White,Ongoing performance marketing,Enterprise,Finance,LinkedIn Ads,New,Critical,Warm,,47.6,47.6,1,0,234600,,,0
+L-10533,Paul Moore,Landing page A/B tests,B2B,Real estate,Email,New,High,Warm,,259.1,259.1,0,0,34000,,,0
+L-10534,Paul Reed,Lead generation,B2B,SaaS,Call,New,Normal,Cold,,137.7,137.7,0,0,10700,,,0
+L-10535,Mia Pike,Brand refresh,SMB,Healthcare,Call,New,Normal,Cold,,456.2,456.2,0,0,7100,,,0
+L-10536,Victor Price,Lead generation,B2B,SaaS,Referral,New,High,Cold,,569.1,569.1,3,0,44800,,,0
+L-10537,Daniel Hayes,Brand refresh,B2B,SaaS,Website,New,High,Warm,,0.8,0.8,0,0,38700,,,0
+L-10538,Zoe Hart,Email automation,SMB,SaaS,Meeting,New,High,Warm,,217.6,217.6,0,0,12300,,,0
+L-10539,Adam Price,Social media strategy,SMB,SaaS,Meeting,New,Low,Duplicate,,11.7,11.7,1,0,9100,L-10817,,0
+L-10540,Noah Moore,Full-funnel campaign,Enterprise,SaaS,LinkedIn Ads,New,Low,Duplicate,,1.6,1.6,1,0,140100,L-10032,,0
+L-10541,Alice Price,Content plan,B2B,Real estate,LinkedIn Ads,New,High,Warm,,50.6,50.6,3,0,34100,,,0
+L-10542,Alicia Gray,Lead generation,SMB,Healthcare,Meeting,New,Low,Spam,,79.5,79.5,0,0,0,,gibberish,0.76
+L-10543,Hugo Dawson,Paid ads & analytics,B2B,Logistics,Call,New,Low,Spam,,23.4,23.4,0,0,0,,gibberish,0.69
+L-10544,Chloe Frost,SEO audit,SMB,Real estate,Meeting,New,Low,Spam,,24.7,24.7,0,0,0,,offtopic,0.81
+L-10545,Ethan Cole,Q4 product launch,B2B,Real estate,LinkedIn Ads,New,Normal,Cold,,87.2,87.2,0,0,32800,,,0
+L-10546,Lena Nash,Ongoing performance marketing,B2B,Finance,Call,New,Normal,Cold,,45.0,45.0,0,0,10100,,,0
+L-10547,Lena Pike,Brand refresh,SMB,Healthcare,LinkedIn Ads,New,Normal,Cold,,182.4,182.4,0,0,3200,,,0
+L-10548,Mia Nash,Content plan,SMB,Finance,Website,New,Normal,Cold,,362.3,362.3,0,0,5400,,,0
+L-10549,Irene Hayes,Brand refresh,Enterprise,Logistics,Meeting,New,Critical,Warm,,126.8,126.8,0,0,95300,,,0
+L-10550,Ethan Cole,Paid ads & analytics,Enterprise,Real estate,LinkedIn Ads,New,High,Warm,,127.1,127.1,0,0,55200,,,0
+L-10551,Theo Bell,Paid ads & analytics,B2B,Healthcare,Website,New,Low,Duplicate,,139.1,139.1,2,0,32000,L-10566,,0
+L-10552,Clara Price,Retargeting setup,Enterprise,Healthcare,LinkedIn Ads,New,High,Cold,,17.7,17.7,0,0,79700,,,0
+L-10553,Irene Shaw,Email automation,B2B,Real estate,Referral,New,Normal,Cold,,18.0,18.0,0,0,43000,,,0
+L-10554,Nora Brooks,Email automation,SMB,Retail,LinkedIn Ads,New,Normal,Cold,,302.6,302.6,0,0,8600,,,0
+L-10555,Adam Reed,Influencer campaign,Enterprise,Real estate,Meeting,New,High,Warm,,42.7,42.7,0,0,60400,,,0
+L-10556,Jamie Lane,Social media strategy,B2B,Healthcare,Meeting,New,High,Warm,,167.8,167.8,0,0,38700,,,0
+L-10557,Lena Shaw,Brand refresh,SMB,Education,LinkedIn Ads,New,Low,Duplicate,,357.2,357.2,1,0,4500,L-10411,,0
+L-10558,Ryan Lee,Paid ads & analytics,Enterprise,Retail,LinkedIn Ads,New,Critical,Warm,,376.0,376.0,1,0,189700,,,0
+L-10559,Paul Young,Email automation,SMB,Retail,Website,New,High,Warm,,98.7,98.7,0,0,14900,,,0
+L-10560,Lucas Marsh,Full-funnel campaign,B2B,Logistics,Referral,New,Low,Duplicate,,497.7,497.7,1,0,20800,L-10301,,0
+L-10561,Victor Price,Brand refresh,B2B,SaaS,LinkedIn Ads,New,Normal,Cold,,125.6,125.6,0,0,27500,,,0
+L-10562,Daniel Bell,Social media strategy,SMB,Education,Email,New,Normal,Cold,,243.1,243.1,0,0,5300,,,0
+L-10563,Sophie Marsh,Retargeting setup,B2B,SaaS,LinkedIn Ads,New,High,Warm,,58.7,58.7,0,0,21900,,,0
+L-10564,Felix Carter,Retargeting setup,SMB,Healthcare,Website,New,Low,Duplicate,,135.5,135.5,1,0,9400,L-10234,,0
+L-10565,Jamie Shaw,Brand refresh,B2B,Retail,LinkedIn Ads,New,High,Warm,,180.5,180.5,0,0,26100,,,0
+L-10566,Nina Lee,Lead generation,B2B,Healthcare,Meeting,New,High,Warm,,47.8,47.8,0,0,32000,,,0
+L-10567,Victor Marsh,Q4 product launch,B2B,Retail,Referral,New,Low,Spam,,638.8,638.8,0,0,0,,repeat,0.89
+L-10568,Jamie Hart,Social media strategy,B2B,Education,Website,New,Normal,Cold,,53.2,53.2,0,0,50800,,,0
+L-10569,Alice Dunn,Paid ads & analytics,Enterprise,Healthcare,Email,New,High,Cold,,4.9,4.9,0,0,182400,,,0
+L-10570,Nora Hayes,Lead generation,SMB,Education,Email,New,Normal,Cold,,95.8,95.8,0,0,12900,,,0
+L-10571,Mia Brooks,Website PPC campaign,SMB,Education,Email,New,Normal,Cold,,323.8,323.8,0,0,14600,,,0
+L-10572,Lena Brooks,Email automation,SMB,Retail,Call,New,Low,Spam,,618.1,618.1,0,0,0,,nocontact,0.72
+L-10573,Paul Nash,Content plan,SMB,Logistics,Email,New,Normal,Cold,,264.0,264.0,0,0,5300,,,0
+L-10574,Alice Gray,SEO audit,SMB,SaaS,Call,New,High,Warm,,210.2,210.2,0,0,8300,,,0
+L-10575,Felix Kingston,Brand refresh,SMB,Logistics,LinkedIn Ads,New,Normal,Cold,,49.3,49.3,0,0,6800,,,0
+L-10576,Felix Nash,Social media strategy,SMB,Logistics,Website,New,Critical,Warm,,281.3,281.3,0,1,5400,,,0
+L-10577,Ryan Moore,Website PPC campaign,SMB,Education,Email,New,Normal,Cold,,131.3,131.3,0,0,3200,,,0
+L-10578,Irene Fox,Influencer campaign,SMB,SaaS,Website,New,Normal,Cold,,705.7,705.7,0,0,13100,,,0
+L-10579,Paul Evans,Email automation,SMB,SaaS,LinkedIn Ads,New,High,Warm,,53.5,53.5,0,0,6800,,,0
+L-10580,Paul Frost,Full-funnel campaign,SMB,Education,Referral,New,Low,Duplicate,,111.7,111.7,1,0,6700,L-10690,,0
+L-10581,Julia Nash,Full-funnel campaign,SMB,Real estate,Email,New,High,Warm,,50.5,50.5,0,0,2700,,,0
+L-10582,Lucas Dunn,Influencer campaign,B2B,Healthcare,LinkedIn Ads,New,High,Cold,,238.6,238.6,0,0,37800,,,0
+L-10583,Victor Evans,Ongoing performance marketing,B2B,Real estate,Referral,New,Normal,Cold,,262.3,262.3,0,0,29100,,,0
+L-10584,Alicia Lee,Social media strategy,B2B,Education,Referral,New,Low,Duplicate,,50.7,50.7,1,0,39200,L-10473,,0
+L-10585,Noah Kingston,Ongoing performance marketing,SMB,Education,Referral,New,Normal,Cold,,59.9,59.9,0,0,13000,,,0
+L-10586,Victor Gray,Landing page A/B tests,SMB,Retail,Email,New,High,Cold,,190.4,190.4,2,0,5000,,,0
+L-10587,Sophie West,Full-funnel campaign,Enterprise,SaaS,LinkedIn Ads,New,Critical,Warm,,120.3,120.3,2,0,232700,,,0
+L-10588,Marta Young,Ongoing performance marketing,SMB,Education,Email,New,Normal,Cold,,229.6,229.6,0,0,2200,,,0
+L-10589,Alice Hayes,Retargeting setup,SMB,Finance,Meeting,New,High,Cold,,349.6,349.6,2,0,5300,,,0
+L-10590,Noah White,CRM setup,B2B,Logistics,Referral,New,Normal,Cold,,42.0,42.0,0,0,39900,,,0
+L-10591,Alicia Evans,Full-funnel campaign,B2B,Logistics,Meeting,New,Low,Spam,,23.8,23.8,0,0,0,,repeat,0.97
+L-10592,Jamie Hill,Lead generation,SMB,Education,Call,New,Critical,Warm,,372.3,372.3,1,1,13900,,,0
+L-10593,Zoe West,Full-funnel campaign,SMB,SaaS,Website,New,Low,Duplicate,,16.6,16.6,1,0,14400,L-10870,,0
+L-10594,Theo Webb,Content plan,Enterprise,Logistics,Call,New,Low,Spam,,7.3,7.3,0,0,0,,nocontact,0.67
+L-10595,Ava Marsh,Content plan,SMB,Education,LinkedIn Ads,New,High,Warm,,123.4,123.4,0,0,5800,,,0
+L-10596,Nora Lee,Website PPC campaign,Enterprise,Healthcare,Website,New,Low,Duplicate,,107.9,107.9,1,0,83700,L-10110,,0
+L-10597,Hugo Lee,CRM setup,B2B,Logistics,Email,New,Normal,Cold,,8.7,8.7,0,0,53000,,,0
+L-10598,Irene Nash,Retargeting setup,Enterprise,Retail,Referral,New,Normal,Cold,,144.1,144.1,0,0,224500,,,0
+L-10599,Nina White,Lead generation,SMB,Retail,Email,New,High,Warm,,261.5,261.5,0,0,14200,,,0
+L-10600,Mia Pike,Landing page A/B tests,B2B,SaaS,Website,New,High,Warm,,670.5,670.5,0,0,33900,,,0
+L-10601,Alice Shaw,Social media strategy,B2B,Finance,Email,New,High,Cold,,306.7,306.7,0,0,42200,,,0
+L-10602,Noah Webb,Landing page A/B tests,SMB,Education,Call,New,High,Cold,,12.7,12.7,2,0,10800,,,0
+L-10603,Nina Dawson,Retargeting setup,Enterprise,Healthcare,LinkedIn Ads,New,High,Cold,,34.3,34.3,0,0,57100,,,0
+L-10604,Hugo Hill,Brand refresh,B2B,Logistics,Email,New,High,Warm,,48.1,48.1,0,0,15900,,,0
+L-10605,Hugo Reed,Ongoing performance marketing,B2B,Education,Referral,New,High,Cold,,154.5,154.5,3,0,33000,,,0
+L-10606,Noah Hart,Content plan,SMB,Retail,Call,New,High,Warm,,574.5,574.5,0,0,5500,,,0
+L-10607,Leo Lane,Retargeting setup,Enterprise,Real estate,Meeting,New,Normal,Cold,,157.8,157.8,0,0,197600,,,0
+L-10608,Clara Webb,CRM setup,Enterprise,Logistics,LinkedIn Ads,New,Low,Spam,,106.7,106.7,0,0,0,,domain,0.83
+L-10609,Julia Hayes,Retargeting setup,SMB,Healthcare,LinkedIn Ads,New,High,Warm,,636.1,636.1,0,0,7800,,,0
+L-10610,Lucas Stone,Social media strategy,SMB,Retail,LinkedIn Ads,New,High,Warm,,124.6,124.6,3,0,7900,,,0
+L-10611,Clara Bell,Brand refresh,B2B,Logistics,Website,New,Normal,Cold,,100.7,100.7,0,0,34700,,,0
+L-10612,Victor Hill,Landing page A/B tests,B2B,Finance,Referral,New,High,Cold,,146.1,146.1,0,0,46800,,,0
+L-10613,Oliver Dawson,Retargeting setup,B2B,Education,Referral,New,High,Warm,,167.2,167.2,0,0,29000,,,0
+L-10614,Victor West,Brand refresh,B2B,Retail,Call,New,Low,Duplicate,,163.0,163.0,3,0,58500,L-10517,,0
+L-10615,Nina Reed,Social media strategy,Enterprise,Real estate,Call,New,Normal,Cold,,207.0,207.0,0,0,178100,,,0
+L-10616,Clara Cole,Content plan,B2B,Healthcare,LinkedIn Ads,New,Low,Duplicate,,527.1,527.1,1,0,20000,L-10383,,0
+L-10617,Adam Moore,Full-funnel campaign,B2B,Logistics,LinkedIn Ads,New,Normal,Cold,,72.1,72.1,0,0,56100,,,0
+L-10618,Ava Moore,Influencer campaign,SMB,Finance,Referral,New,Low,Spam,,260.0,260.0,0,0,0,,offtopic,0.74
+L-10619,Clara Lee,Social media strategy,SMB,Finance,Referral,New,Normal,Cold,,239.0,239.0,0,0,7000,,,0
+L-10620,Liam Webb,CRM setup,SMB,Healthcare,Email,New,High,Warm,,30.8,30.8,0,0,12400,,,0
+L-10621,Jamie Marsh,Brand refresh,SMB,Finance,Website,New,Normal,Cold,,17.8,17.8,0,0,12200,,,0
+L-10622,Julia Stone,Paid ads & analytics,Enterprise,SaaS,Referral,New,Critical,Warm,,57.4,57.4,0,0,185300,,,0
+L-10623,Alicia Ward,Social media strategy,Enterprise,Finance,Website,New,Critical,Warm,,278.0,278.0,0,0,191200,,,0
+L-10624,Ethan White,Lead generation,SMB,Healthcare,Email,New,Normal,Cold,,755.7,755.7,0,0,9100,,,0
+L-10625,Oliver Webb,Website PPC campaign,B2B,SaaS,LinkedIn Ads,New,High,Cold,,213.1,213.1,0,0,51100,,,0
+L-10626,Felix Price,Landing page A/B tests,SMB,Retail,Website,New,Normal,Cold,,75.2,75.2,0,0,8900,,,0
+L-10627,Ethan Shaw,Ongoing performance marketing,SMB,Healthcare,LinkedIn Ads,New,Normal,Cold,,86.1,86.1,0,0,5400,,,0
+L-10628,Ryan Hill,Social media strategy,B2B,Real estate,Call,New,Normal,Cold,,488.4,488.4,0,0,15900,,,0
+L-10629,Daniel Dunn,Retargeting setup,B2B,Logistics,Referral,New,Normal,Cold,,101.6,101.6,0,0,30800,,,0
+L-10630,Irene Ward,Retargeting setup,B2B,SaaS,Website,New,High,Cold,,149.0,149.0,3,0,16600,,,0
+L-10631,Hugo White,Retargeting setup,Enterprise,Finance,Website,New,Critical,Warm,,179.1,179.1,0,0,148900,,,0
+L-10632,Hugo Young,Influencer campaign,SMB,Logistics,Website,New,Low,Spam,,26.4,26.4,0,0,0,,gibberish,0.88
+L-10633,Ethan West,Ongoing performance marketing,B2B,SaaS,Call,New,Critical,Cold,,145.2,145.2,0,1,48800,,,0
+L-10634,Irene Reed,Content plan,SMB,Healthcare,Call,New,Normal,Cold,,118.5,118.5,0,0,6300,,,0
+L-10635,Jamie West,Landing page A/B tests,B2B,Healthcare,Referral,New,High,Warm,,139.3,139.3,0,0,24800,,,0
+L-10636,Alicia Evans,Q4 product launch,B2B,SaaS,Email,New,Normal,Cold,,3.8,3.8,0,0,25600,,,0
+L-10637,Irene Stone,Paid ads & analytics,SMB,SaaS,Meeting,New,Normal,Cold,,376.5,376.5,0,0,3100,,,0
+L-10638,Mia Webb,Paid ads & analytics,SMB,SaaS,Website,New,Low,Duplicate,,216.4,216.4,1,0,12100,L-10866,,0
+L-10639,Hugo Dawson,Content plan,SMB,Education,Website,New,High,Warm,,27.9,27.9,0,0,10400,,,0
+L-10640,Adam Marsh,Content plan,B2B,Healthcare,Call,New,High,Cold,,99.7,99.7,0,0,35300,,,0
+L-10641,Leo Young,Email automation,SMB,Finance,Email,New,Low,Spam,,79.1,79.1,0,0,0,,repeat,0.61
+L-10642,Ethan Moore,Website PPC campaign,B2B,Education,Referral,New,Low,Spam,,14.5,14.5,0,0,0,,nocontact,0.72
+L-10643,Zoe Shaw,Email automation,B2B,SaaS,Email,New,High,Warm,,415.8,415.8,0,0,23000,,,0
+L-10644,Jamie Bell,Content plan,B2B,Healthcare,Call,New,Low,Duplicate,,127.4,127.4,1,0,38100,L-10101,,0
+L-10645,Clara Fox,Social media strategy,Enterprise,Healthcare,Referral,New,Low,Spam,,5.8,5.8,0,0,0,,repeat,0.56
+L-10646,Mia West,Email automation,Enterprise,Healthcare,Website,New,High,Cold,,6.8,6.8,0,0,107700,,,0
+L-10647,Victor Marsh,Full-funnel campaign,B2B,SaaS,Referral,New,Low,Spam,,58.6,58.6,0,0,0,,gibberish,0.9
+L-10648,Paul Webb,Q4 product launch,SMB,Logistics,Website,New,High,Warm,,152.2,152.2,0,0,2900,,,0
+L-10649,Zoe Webb,CRM setup,SMB,Real estate,Referral,New,Low,Spam,,99.4,99.4,0,0,0,,nocontact,0.93
+L-10650,Oliver Dawson,Ongoing performance marketing,SMB,Finance,Meeting,New,Low,Spam,,204.4,204.4,0,0,0,,domain,0.61
+L-10651,Lucas Brooks,Content plan,B2B,Logistics,Website,New,Normal,Cold,,22.0,22.0,0,0,47800,,,0
+L-10652,Victor Moore,Website PPC campaign,B2B,Healthcare,Referral,New,Low,Duplicate,,250.5,250.5,1,0,23000,L-10310,,0
+L-10653,Noah Dawson,Influencer campaign,B2B,Healthcare,Referral,New,Low,Spam,,3.0,3.0,0,0,0,,offtopic,0.96
+L-10654,Hugo Hayes,Landing page A/B tests,Enterprise,Healthcare,Meeting,New,Critical,Cold,,399.4,399.4,0,1,89600,,,0
+L-10655,Ryan Webb,Landing page A/B tests,SMB,Logistics,Referral,New,Low,Spam,,100.4,100.4,0,0,0,,gibberish,0.77
+L-10656,Mia Carter,SEO audit,B2B,Healthcare,Referral,New,Low,Spam,,729.4,729.4,0,0,0,,repeat,0.82
+L-10657,Clara Marsh,Lead generation,B2B,Healthcare,Email,New,High,Cold,,747.5,747.5,1,0,57500,,,0
+L-10658,Noah Hill,Brand refresh,SMB,SaaS,Meeting,New,Normal,Cold,,412.3,412.3,0,0,3700,,,0
+L-10659,Emma Moore,Ongoing performance marketing,SMB,Real estate,Email,New,Normal,Cold,,291.7,291.7,0,0,7600,,,0
+L-10660,Julia Price,Social media strategy,B2B,Finance,Meeting,New,High,Warm,,195.6,195.6,3,0,12800,,,0
+L-10661,Nora Dunn,Email automation,SMB,Healthcare,Meeting,New,Normal,Cold,,214.6,214.6,0,0,11700,,,0
+L-10662,Ava Hill,Content plan,SMB,Logistics,Email,New,High,Warm,,62.5,62.5,0,0,8700,,,0
+L-10663,Nina Lane,CRM setup,B2B,Real estate,Call,New,High,Warm,,102.4,102.4,0,0,35100,,,0
+L-10664,Leo Evans,CRM setup,B2B,Education,Meeting,New,Normal,Cold,,100.0,100.0,0,0,25400,,,0
+L-10665,Mia Reed,Social media strategy,B2B,SaaS,Website,New,High,Cold,,279.9,279.9,0,0,35100,,,0
+L-10666,Irene Dawson,Full-funnel campaign,SMB,SaaS,Referral,New,Low,Spam,,20.9,20.9,0,0,0,,repeat,0.63
+L-10667,Theo Quinn,Website PPC campaign,B2B,Healthcare,Meeting,New,High,Cold,,429.1,429.1,0,0,45500,,,0
+L-10668,Jamie Nash,Email automation,Enterprise,SaaS,Call,New,High,Warm,,353.1,353.1,0,0,79000,,,0
+L-10669,Liam Hayes,Brand refresh,Enterprise,Retail,Email,New,Normal,Cold,,153.0,153.0,0,0,144500,,,0
+L-10670,Noah Shaw,Q4 product launch,B2B,SaaS,Call,New,Normal,Cold,,86.8,86.8,0,0,12300,,,0
+L-10671,Felix Shaw,Influencer campaign,SMB,Retail,Meeting,New,Low,Spam,,455.2,455.2,0,0,0,,gibberish,0.64
+L-10672,Chloe Hart,Website PPC campaign,B2B,Finance,Meeting,New,Low,Spam,,255.9,255.9,0,0,0,,offtopic,0.88
+L-10673,Emma Hill,Paid ads & analytics,SMB,Logistics,Website,New,High,Warm,,9.7,9.7,0,0,7700,,,0
+L-10674,Chloe Hart,Full-funnel campaign,SMB,Retail,Meeting,New,Low,Spam,,45.6,45.6,0,0,0,,offtopic,0.86
+L-10675,Nora Reed,Influencer campaign,B2B,Retail,Email,New,Low,Spam,,166.5,166.5,0,0,0,,nocontact,0.9
+L-10676,Daniel Carter,Landing page A/B tests,SMB,Real estate,Meeting,New,High,Warm,,56.1,56.1,0,0,14900,,,0
+L-10677,Theo Nash,CRM setup,SMB,Healthcare,Referral,New,Normal,Cold,,207.6,207.6,0,0,8800,,,0
+L-10678,Ethan Stone,Email automation,SMB,Logistics,Referral,New,High,Warm,,73.1,73.1,0,0,14400,,,0
+L-10679,Zoe Fox,Content plan,B2B,SaaS,Website,New,Low,Spam,,40.6,40.6,0,0,0,,nocontact,0.72
+L-10680,Paul Reed,Full-funnel campaign,Enterprise,Logistics,Email,New,Low,Spam,,161.3,161.3,0,0,0,,nocontact,0.73
+L-10681,Marta Dunn,Email automation,B2B,Finance,Email,New,High,Warm,,31.3,31.3,0,0,26700,,,0
+L-10682,Nina Lane,Email automation,B2B,SaaS,LinkedIn Ads,New,High,Cold,,49.3,49.3,0,0,50100,,,0
+L-10683,Jamie Dunn,Lead generation,SMB,Retail,Website,New,Normal,Cold,,465.5,465.5,0,0,12200,,,0
+L-10684,Lena Gray,Influencer campaign,B2B,Finance,LinkedIn Ads,New,Normal,Cold,,50.4,50.4,0,0,25000,,,0
+L-10685,Nora Price,Full-funnel campaign,Enterprise,SaaS,Email,New,Critical,Cold,,85.2,85.2,1,1,75600,,,0
+L-10686,Irene Ward,Content plan,SMB,SaaS,Referral,New,Low,Spam,,169.5,169.5,0,0,0,,offtopic,0.63
+L-10687,Leo Fox,Landing page A/B tests,B2B,Logistics,Meeting,New,Normal,Cold,,236.5,236.5,0,0,41800,,,0
+L-10688,Zoe Dawson,Content plan,SMB,SaaS,Meeting,New,Normal,Cold,,18.2,18.2,0,0,6500,,,0
+L-10689,Julia Reed,Ongoing performance marketing,B2B,Retail,Email,New,High,Warm,,59.4,59.4,0,0,51300,,,0
+L-10690,Hugo Marsh,SEO audit,SMB,Education,LinkedIn Ads,New,Normal,Cold,,31.2,31.2,0,0,6700,,,0
+L-10691,Clara Price,SEO audit,SMB,Real estate,Referral,New,Low,Duplicate,,85.6,85.6,1,0,5800,L-10163,,0
+L-10692,Ryan Cole,Influencer campaign,SMB,Education,Meeting,New,Normal,Cold,,37.5,37.5,0,0,4000,,,0
+L-10693,Ryan Hill,Landing page A/B tests,SMB,Real estate,Call,New,Normal,Cold,,27.5,27.5,0,0,9400,,,0
+L-10694,Jamie Gray,Full-funnel campaign,B2B,Finance,Website,New,High,Cold,,146.7,146.7,1,0,52900,,,0
+L-10695,Leo Brooks,Social media strategy,SMB,SaaS,Website,New,High,Warm,,1000,1000,1,0,9300,,,0
+L-10696,Ethan Shaw,Paid ads & analytics,B2B,Retail,Email,New,Normal,Cold,,92.7,92.7,0,0,13000,,,0
+L-10697,Daniel Nash,SEO audit,SMB,Real estate,LinkedIn Ads,New,Normal,Cold,,45.0,45.0,1,0,6200,,,0
+L-10698,Alicia Stone,Social media strategy,B2B,Logistics,Call,New,Low,Duplicate,,252.2,252.2,1,0,15900,L-10604,,0
+L-10699,Liam Hart,Influencer campaign,Enterprise,Healthcare,LinkedIn Ads,New,Critical,Warm,,415.4,415.4,0,0,209900,,,0
+L-10700,Jamie Lane,Content plan,Enterprise,Logistics,Meeting,New,Low,Spam,,1000,1000,0,0,0,,repeat,0.66
+L-10701,Nina Brooks,Website PPC campaign,Enterprise,Education,Email,New,Normal,Cold,,202.4,202.4,0,0,163100,,,0
+L-10702,Noah Carter,Paid ads & analytics,B2B,Healthcare,Meeting,New,High,Cold,,83.9,83.9,0,0,51500,,,0
+L-10703,Paul Dunn,Email automation,SMB,Finance,Referral,New,Normal,Cold,,387.7,387.7,0,0,4800,,,0
+L-10704,Oliver Shaw,Social media strategy,B2B,Logistics,Meeting,New,Normal,Cold,,60.6,60.6,0,0,36100,,,0
+L-10705,Ethan Brooks,Social media strategy,B2B,Healthcare,Call,New,High,Warm,,241.4,241.4,1,0,57100,,,0
+L-10706,Zoe Carter,Ongoing performance marketing,B2B,Retail,LinkedIn Ads,New,High,Warm,,18.8,18.8,0,0,23500,,,0
+L-10707,Liam Cole,Paid ads & analytics,SMB,SaaS,Email,New,High,Warm,,1000,1000,2,0,6200,,,0
+L-10708,Marta Hayes,CRM setup,B2B,Finance,Referral,New,Normal,Cold,,50.0,50.0,0,0,27600,,,0
+L-10709,Adam Marsh,Website PPC campaign,B2B,Real estate,Website,New,High,Warm,,197.6,197.6,0,0,22300,,,0
+L-10710,Sophie Fox,Influencer campaign,B2B,SaaS,Email,New,High,Cold,,45.8,45.8,0,0,59200,,,0
+L-10711,Clara Cole,Website PPC campaign,Enterprise,Education,Meeting,New,Critical,Cold,,289.3,289.3,1,1,183000,,,0
+L-10712,Hugo Brooks,Full-funnel campaign,B2B,Education,Call,New,Normal,Cold,,800.9,800.9,0,0,42400,,,0
+L-10713,Liam Lee,Social media strategy,SMB,Education,Meeting,New,Normal,Cold,,231.8,231.8,0,0,11800,,,0
+L-10714,Paul Gray,Paid ads & analytics,B2B,SaaS,Email,New,High,Cold,,812.7,812.7,0,0,59200,,,0
+L-10715,Alicia Price,Website PPC campaign,B2B,SaaS,Referral,New,Low,Spam,,30.2,30.2,0,0,0,,offtopic,0.69
+L-10716,Paul Quinn,Social media strategy,B2B,Education,Website,New,High,Warm,,188.9,188.9,0,0,48300,,,0
+L-10717,Noah Brooks,Email automation,SMB,Logistics,LinkedIn Ads,New,Low,Duplicate,,79.9,79.9,1,0,8600,L-10068,,0
+L-10718,Victor Moore,Paid ads & analytics,B2B,Retail,Call,New,Low,Duplicate,,34.7,34.7,1,0,49800,L-10194,,0
+L-10719,Marta Dunn,Lead generation,SMB,SaaS,Referral,New,Low,Spam,,290.8,290.8,0,0,0,,nocontact,0.66
+L-10720,Adam Hill,SEO audit,SMB,SaaS,Email,New,High,Warm,,140.6,140.6,0,0,8800,,,0
+L-10721,Sophie Nash,Landing page A/B tests,B2B,Healthcare,Email,New,Critical,Cold,,343.4,343.4,0,1,30400,,,0
+L-10722,Victor Carter,Social media strategy,Enterprise,Education,Meeting,New,Normal,Cold,,151.4,151.4,0,0,219700,,,0
+L-10723,Chloe Moore,Social media strategy,B2B,Healthcare,LinkedIn Ads,New,High,Cold,,329.4,329.4,1,0,53400,,,0
+L-10724,Lena Price,SEO audit,B2B,Retail,Referral,New,High,Warm,,494.4,494.4,0,0,52700,,,0
+L-10725,Liam Nash,SEO audit,Enterprise,SaaS,LinkedIn Ads,New,Low,Spam,,658.5,658.5,0,0,0,,repeat,0.69
+L-10726,Paul Hill,Content plan,SMB,Logistics,Website,New,High,Cold,,22.8,22.8,2,0,5500,,,0
+L-10727,Oliver Cole,Ongoing performance marketing,B2B,Retail,Call,New,Normal,Cold,,70.7,70.7,0,0,29400,,,0
+L-10728,Oliver Nash,SEO audit,B2B,Logistics,LinkedIn Ads,New,High,Warm,,66.4,66.4,0,0,13300,,,0
+L-10729,Adam Gray,Q4 product launch,B2B,Education,Meeting,New,High,Warm,,630.9,630.9,1,0,42400,,,0
+L-10730,Victor Hayes,Landing page A/B tests,SMB,Healthcare,Referral,New,Normal,Cold,,114.2,114.2,0,0,12400,,,0
+L-10731,Ethan Young,Retargeting setup,SMB,Healthcare,Website,New,Normal,Cold,,430.2,430.2,0,0,2100,,,0
+L-10732,Leo Nash,SEO audit,SMB,Retail,Email,New,High,Warm,,391.9,391.9,0,0,13800,,,0
+L-10733,Julia Pike,Content plan,B2B,Retail,Meeting,New,Low,Spam,,39.6,39.6,0,0,0,,domain,0.91
+L-10734,Julia Ward,Lead generation,B2B,Education,Referral,New,High,Warm,,111.9,111.9,0,0,37200,,,0
+L-10735,Mia Reed,Q4 product launch,B2B,Logistics,Meeting,New,Normal,Cold,,16.4,16.4,0,0,44100,,,0
+L-10736,Jamie Gray,SEO audit,B2B,Education,Meeting,New,Low,Spam,,212.0,212.0,0,0,0,,offtopic,0.77
+L-10737,Daniel Hayes,Q4 product launch,B2B,Real estate,Email,New,Normal,Cold,,327.2,327.2,0,0,41000,,,0
+L-10738,Jamie Cole,Influencer campaign,B2B,Healthcare,Call,New,High,Cold,,9.1,9.1,0,0,51500,,,0
+L-10739,Marta Dunn,Social media strategy,SMB,Logistics,Website,New,Normal,Cold,,427.2,427.2,0,0,13500,,,0
+L-10740,Zoe Brooks,Email automation,SMB,Retail,Call,New,Critical,Cold,,137.7,137.7,2,1,4300,,,0
+L-10741,Victor Hayes,Lead generation,B2B,Finance,Meeting,New,High,Warm,,101.3,101.3,0,0,39100,,,0
+L-10742,Zoe Evans,Q4 product launch,B2B,Logistics,Website,New,Normal,Cold,,19.0,19.0,0,0,13000,,,0
+L-10743,Julia Hill,CRM setup,B2B,Finance,Email,New,Low,Spam,,26.5,26.5,0,0,0,,offtopic,0.59
+L-10744,Julia Reed,CRM setup,Enterprise,Logistics,Website,New,Critical,Warm,,118.0,118.0,1,0,101200,,,0
+L-10745,Chloe Ward,Ongoing performance marketing,SMB,Retail,Meeting,New,Normal,Cold,,75.8,75.8,0,0,12900,,,0
+L-10746,Mia West,Brand refresh,B2B,Healthcare,Website,New,Normal,Cold,,276.9,276.9,0,0,28500,,,0
+L-10747,Nina White,Landing page A/B tests,SMB,Healthcare,Email,New,Normal,Cold,,5.0,5.0,0,0,10500,,,0
+L-10748,Daniel Fox,Ongoing performance marketing,B2B,Education,Website,New,Normal,Cold,,616.7,616.7,0,0,25800,,,0
+L-10749,Mia Young,Paid ads & analytics,SMB,SaaS,Referral,New,Low,Duplicate,,17.9,17.9,1,0,13700,L-10236,,0
+L-10750,Liam Frost,Brand refresh,SMB,Finance,LinkedIn Ads,New,Normal,Cold,,3.9,3.9,0,0,13200,,,0
+L-10751,Daniel Dawson,Landing page A/B tests,SMB,Logistics,Meeting,New,Low,Spam,,60.4,60.4,0,0,0,,offtopic,0.58
+L-10752,Julia Brooks,Website PPC campaign,B2B,Logistics,Call,New,Normal,Cold,,150.8,150.8,0,0,46500,,,0
+L-10753,Irene Quinn,Content plan,SMB,Education,Meeting,New,High,Warm,,252.2,252.2,0,0,3100,,,0
+L-10754,Daniel Nash,SEO audit,Enterprise,Finance,Referral,New,High,Cold,,4.2,4.2,0,0,79900,,,0
+L-10755,Nina Frost,Website PPC campaign,B2B,Retail,Website,New,Normal,Cold,,235.0,235.0,0,0,50800,,,0
+L-10756,Nora Fox,Full-funnel campaign,B2B,Finance,Call,New,High,Warm,,110.8,110.8,3,0,47800,,,0
+L-10757,Alicia Cole,Q4 product launch,SMB,SaaS,Email,New,Normal,Cold,,589.6,589.6,0,0,5900,,,0
+L-10758,Chloe Hayes,Influencer campaign,Enterprise,Logistics,LinkedIn Ads,New,Low,Duplicate,,97.3,97.3,1,0,90600,L-10449,,0
+L-10759,Clara Marsh,Retargeting setup,Enterprise,SaaS,Call,New,High,Warm,,91.3,91.3,0,0,62100,,,0
+L-10760,Lena Lane,SEO audit,B2B,Retail,Website,New,Normal,Cold,,27.0,27.0,0,0,45000,,,0
+L-10761,Clara Pike,Q4 product launch,Enterprise,Finance,LinkedIn Ads,New,Low,Duplicate,,159.9,159.9,1,0,234600,L-10532,,0
+L-10762,Mia Young,Q4 product launch,B2B,Finance,Call,New,High,Warm,,208.8,208.8,0,0,38700,,,0
+L-10763,Victor Young,Landing page A/B tests,B2B,Logistics,LinkedIn Ads,New,High,Cold,,8.2,8.2,2,0,55400,,,0
+L-10764,Emma White,Social media strategy,Enterprise,Real estate,Meeting,New,Low,Spam,,15.2,15.2,0,0,0,,offtopic,0.87
+L-10765,Daniel Frost,Paid ads & analytics,B2B,Finance,Website,New,Normal,Cold,,453.9,453.9,0,0,27100,,,0
+L-10766,Sophie Dawson,Content plan,Enterprise,Healthcare,Website,New,High,Warm,,48.0,48.0,0,0,79700,,,0
+L-10767,Adam Bell,Influencer campaign,B2B,Real estate,Meeting,New,Normal,Cold,,178.8,178.8,0,0,30800,,,0
+L-10768,Julia Evans,Website PPC campaign,Enterprise,Retail,Meeting,New,Normal,Cold,,298.8,298.8,0,0,160900,,,0
+L-10769,Theo Marsh,SEO audit,B2B,Real estate,Call,New,Normal,Cold,,501.0,501.0,0,0,54800,,,0
+L-10770,Julia Stone,Social media strategy,B2B,Finance,LinkedIn Ads,New,Low,Spam,,6.8,6.8,0,0,0,,offtopic,0.69
+L-10771,Clara Gray,Paid ads & analytics,B2B,Education,Email,New,Critical,Cold,,43.7,43.7,0,1,21000,,,0
+L-10772,Emma Nash,Brand refresh,B2B,Education,Email,New,Normal,Cold,,155.1,155.1,0,0,41900,,,0
+L-10773,Oliver Quinn,Website PPC campaign,B2B,Logistics,Website,New,Normal,Cold,,13.8,13.8,0,0,46600,,,0
+L-10774,Sophie Pike,CRM setup,B2B,Healthcare,LinkedIn Ads,New,Low,Duplicate,,19.0,19.0,1,0,32000,L-10566,,0
+L-10775,Victor Kingston,Full-funnel campaign,SMB,Healthcare,Call,New,Critical,Cold,,226.7,226.7,0,1,7400,,,0
+L-10776,Adam Young,Paid ads & analytics,B2B,SaaS,Call,New,High,Warm,,561.2,561.2,0,0,38100,,,0
+L-10777,Sophie Bell,Retargeting setup,B2B,Logistics,Referral,New,Normal,Cold,,198.7,198.7,0,0,58600,,,0
+L-10778,Ethan Dunn,Brand refresh,SMB,Education,Call,New,Low,Duplicate,,164.3,164.3,1,0,2200,L-10588,,0
+L-10779,Daniel Hill,Brand refresh,Enterprise,Healthcare,LinkedIn Ads,New,Low,Spam,,19.5,19.5,0,0,0,,offtopic,0.78
+L-10780,Jamie Ward,Lead generation,SMB,Finance,LinkedIn Ads,New,Normal,Cold,,237.9,237.9,0,0,13500,,,0
+L-10781,Mia Hayes,CRM setup,SMB,Finance,Call,New,Normal,Cold,,18.3,18.3,1,0,11800,,,0
+L-10782,Ethan Stone,Brand refresh,Enterprise,Logistics,Call,New,Low,Spam,,264.8,264.8,0,0,0,,offtopic,0.63
+L-10783,Victor Evans,Q4 product launch,Enterprise,Education,Website,New,Low,Spam,,274.0,274.0,0,0,0,,offtopic,0.91
+L-10784,Mia Dawson,Content plan,SMB,Logistics,LinkedIn Ads,New,High,Warm,,29.2,29.2,0,0,11800,,,0
+L-10785,Theo Quinn,Email automation,Enterprise,Finance,Email,New,High,Cold,,78.8,78.8,0,0,199000,,,0
+L-10786,Jamie Marsh,CRM setup,SMB,Finance,Website,New,Normal,Cold,,658.4,658.4,0,0,13900,,,0
+L-10787,Hugo Pike,Full-funnel campaign,B2B,Healthcare,LinkedIn Ads,New,Low,Spam,,164.7,164.7,0,0,0,,repeat,0.71
+L-10788,Victor Pike,Landing page A/B tests,SMB,Education,Referral,New,Normal,Cold,,673.7,673.7,0,0,8100,,,0
+L-10789,Emma Young,Content plan,B2B,Real estate,Website,New,Normal,Cold,,363.4,363.4,1,0,28600,,,0
+L-10790,Sophie Moore,Brand refresh,SMB,Logistics,Website,New,Low,Duplicate,,132.3,132.3,3,0,8700,L-10662,,0
+L-10791,Zoe Price,Full-funnel campaign,B2B,Real estate,Email,New,Low,Spam,,43.7,43.7,0,0,0,,domain,0.84
+L-10792,Nina Gray,Ongoing performance marketing,SMB,Healthcare,Website,New,High,Warm,,30.9,30.9,0,0,13200,,,0
+L-10793,Ava Bell,Social media strategy,Enterprise,Finance,LinkedIn Ads,New,Low,Spam,,19.9,19.9,0,0,0,,gibberish,0.6
+L-10794,Emma West,Social media strategy,B2B,SaaS,Call,New,Critical,Cold,,339.7,339.7,0,1,16000,,,0
+L-10795,Sophie Marsh,SEO audit,SMB,Retail,Email,New,Normal,Cold,,348.7,348.7,0,0,5200,,,0
+L-10796,Jamie Hayes,Social media strategy,SMB,SaaS,Website,New,Low,Spam,,56.6,56.6,0,0,0,,nocontact,0.84
+L-10797,Lucas Marsh,Brand refresh,SMB,Healthcare,Meeting,New,Normal,Cold,,48.7,48.7,0,0,8400,,,0
+L-10798,Chloe Stone,Brand refresh,B2B,Healthcare,Meeting,New,High,Warm,,309.8,309.8,0,0,42000,,,0
+L-10799,Sophie Brooks,Ongoing performance marketing,SMB,Logistics,Call,New,Normal,Cold,,270.2,270.2,0,0,9400,,,0
+L-10800,Irene Webb,Brand refresh,SMB,Finance,Referral,New,Critical,Warm,,221.2,221.2,0,1,10600,,,0
+L-10801,Lena Webb,Website PPC campaign,B2B,Logistics,LinkedIn Ads,New,Normal,Cold,,271.9,271.9,1,0,33300,,,0
+L-10802,Daniel West,Paid ads & analytics,B2B,Retail,Referral,New,Low,Duplicate,,65.5,65.5,1,0,49400,L-10463,,0
+L-10803,Hugo Reed,Ongoing performance marketing,SMB,Finance,Call,New,Low,Duplicate,,26.4,26.4,1,0,2900,L-10385,,0
+L-10804,Nora Bell,Retargeting setup,SMB,SaaS,Meeting,New,Normal,Cold,,21.6,21.6,0,0,13300,,,0
+L-10805,Irene Pike,CRM setup,SMB,SaaS,Website,New,Low,Spam,,159.1,159.1,0,0,0,,gibberish,0.77
+L-10806,Nora Quinn,Lead generation,B2B,Education,Referral,New,Normal,Cold,,385.8,385.8,0,0,47100,,,0
+L-10807,Zoe Pike,Email automation,Enterprise,SaaS,Email,New,Critical,Warm,,104.2,104.2,1,1,193900,,,0
+L-10808,Victor Dawson,Website PPC campaign,SMB,Finance,LinkedIn Ads,New,Normal,Cold,,191.1,191.1,0,0,10300,,,0
+L-10809,Ryan Young,Social media strategy,B2B,Education,Call,New,Normal,Cold,,163.2,163.2,0,0,24100,,,0
+L-10810,Leo Price,CRM setup,B2B,Healthcare,Website,New,Normal,Cold,,997.9,997.9,0,0,29500,,,0
+L-10811,Chloe Shaw,Full-funnel campaign,SMB,Retail,Meeting,New,Critical,Cold,,402.6,402.6,0,1,5100,,,0
+L-10812,Julia Pike,CRM setup,SMB,Logistics,Call,New,High,Warm,,119.5,119.5,0,0,6100,,,0
+L-10813,Daniel Fox,Retargeting setup,SMB,Finance,Meeting,New,High,Warm,,83.0,83.0,0,0,8100,,,0
+L-10814,Emma Price,Influencer campaign,B2B,Real estate,Website,New,Low,Duplicate,,100.9,100.9,1,0,12500,L-10057,,0
+L-10815,Alice Dawson,Social media strategy,SMB,SaaS,Website,New,High,Warm,,137.7,137.7,0,0,13600,,,0
+L-10816,Ryan Nash,Content plan,SMB,Logistics,Referral,New,Low,Spam,,86.2,86.2,0,0,0,,nocontact,0.85
+L-10817,Lucas Stone,Paid ads & analytics,SMB,SaaS,Meeting,New,High,Warm,,113.1,113.1,0,0,9100,,,0
+L-10818,Nina Stone,Ongoing performance marketing,B2B,Real estate,Referral,New,Critical,Warm,,113.1,113.1,0,1,33600,,,0
+L-10819,Noah Pike,Full-funnel campaign,B2B,Real estate,Meeting,New,High,Warm,,281.9,281.9,3,0,20600,,,0
+L-10820,Jamie Brooks,Influencer campaign,B2B,Finance,Referral,New,High,Warm,,69.1,69.1,0,0,10500,,,0
+L-10821,Adam Bell,Content plan,SMB,Finance,LinkedIn Ads,New,Normal,Cold,,8.7,8.7,0,0,4300,,,0
+L-10822,Felix Quinn,Lead generation,Enterprise,Finance,Email,New,Critical,Warm,,133.8,133.8,3,0,160600,,,0
+L-10823,Felix Bell,Content plan,SMB,Logistics,Call,New,Normal,Cold,,51.0,51.0,0,0,14200,,,0
+L-10824,Jamie Pike,Email automation,SMB,Logistics,LinkedIn Ads,New,Normal,Cold,,294.8,294.8,0,0,2400,,,0
+L-10825,Lena Dawson,Full-funnel campaign,B2B,Healthcare,Meeting,New,Low,Spam,,66.4,66.4,0,0,0,,gibberish,0.76
+L-10826,Victor Hayes,Content plan,SMB,Retail,Call,New,Normal,Cold,,210.0,210.0,0,0,5500,,,0
+L-10827,Alice Dawson,Social media strategy,SMB,Real estate,Meeting,New,Normal,Cold,,7.7,7.7,0,0,6200,,,0
+L-10828,Victor Price,Influencer campaign,B2B,Education,Call,New,Low,Spam,,93.3,93.3,0,0,0,,offtopic,0.72
+L-10829,Lena Fox,Paid ads & analytics,B2B,Real estate,LinkedIn Ads,New,Normal,Cold,,650.8,650.8,0,0,39500,,,0
+L-10830,Clara Price,Email automation,B2B,Retail,Meeting,New,Normal,Cold,,44.0,44.0,0,0,19100,,,0
+L-10831,Chloe Marsh,SEO audit,Enterprise,SaaS,Meeting,New,High,Cold,,41.4,41.4,0,0,233700,,,0
+L-10832,Ava Bell,Social media strategy,SMB,Education,Email,New,Normal,Cold,,113.8,113.8,0,0,14900,,,0
+L-10833,Emma Hill,Full-funnel campaign,B2B,SaaS,Referral,New,Low,Spam,,78.2,78.2,0,0,0,,gibberish,0.58
+L-10834,Liam Hayes,Retargeting setup,SMB,SaaS,Referral,New,Low,Spam,,1000,1000,0,0,0,,nocontact,0.57
+L-10835,Ryan Reed,Paid ads & analytics,B2B,Education,LinkedIn Ads,New,High,Warm,,103.9,103.9,0,0,10800,,,0
+L-10836,Clara Kingston,Email automation,SMB,Logistics,LinkedIn Ads,New,Normal,Cold,,8.8,8.8,0,0,12700,,,0
+L-10837,Adam White,Full-funnel campaign,B2B,Logistics,LinkedIn Ads,New,Critical,Cold,,307.3,307.3,0,1,19400,,,0
+L-10838,Alicia Nash,Full-funnel campaign,B2B,SaaS,Referral,New,High,Warm,,2.5,2.5,0,0,16600,,,0
+L-10839,Lena Carter,CRM setup,Enterprise,SaaS,Website,New,Low,Spam,,40.1,40.1,0,0,0,,gibberish,0.57
+L-10840,Ava Stone,Retargeting setup,B2B,Education,Call,New,High,Warm,,121.9,121.9,0,0,58700,,,0
+L-10841,Emma Shaw,Content plan,SMB,Retail,Referral,New,Low,Duplicate,,171.5,171.5,1,0,4800,L-10523,,0
+L-10842,Noah Webb,Brand refresh,SMB,Education,Referral,New,Normal,Cold,,669.8,669.8,0,0,4700,,,0
+L-10843,Zoe Webb,Q4 product launch,SMB,Logistics,Call,New,Normal,Cold,,45.3,45.3,0,0,4100,,,0
+L-10844,Ethan Reed,Q4 product launch,Enterprise,Finance,LinkedIn Ads,New,High,Cold,,26.1,26.1,0,0,92500,,,0
+L-10845,Marta Gray,Paid ads & analytics,Enterprise,Healthcare,LinkedIn Ads,New,Critical,Warm,,241.7,241.7,0,0,165700,,,0
+L-10846,Irene Brooks,Full-funnel campaign,B2B,SaaS,Referral,New,High,Warm,,134.3,134.3,0,0,15200,,,0
+L-10847,Noah Stone,CRM setup,Enterprise,Healthcare,Email,New,High,Cold,,368.3,368.3,0,0,122100,,,0
+L-10848,Leo Carter,CRM setup,B2B,Education,Email,New,High,Warm,,135.0,135.0,0,0,43100,,,0
+L-10849,Daniel Brooks,Q4 product launch,Enterprise,Retail,Call,New,Low,Spam,,110.9,110.9,0,0,0,,domain,0.86
+L-10850,Alicia Fox,Social media strategy,Enterprise,Healthcare,Website,New,Low,Duplicate,,15.4,15.4,1,0,61800,L-10348,,0
+L-10851,Ryan Marsh,Content plan,B2B,Education,Call,New,Normal,Cold,,106.8,106.8,0,0,46100,,,0
+L-10852,Alice West,SEO audit,B2B,Logistics,LinkedIn Ads,New,Normal,Cold,,67.2,67.2,0,0,30500,,,0
+L-10853,Adam Frost,Lead generation,SMB,Finance,Meeting,New,Normal,Cold,,121.6,121.6,0,0,11200,,,0
+L-10854,Ryan Dawson,Ongoing performance marketing,B2B,Education,Meeting,New,Normal,Cold,,134.1,134.1,1,0,20300,,,0
+L-10855,Ryan Dunn,SEO audit,B2B,Real estate,Referral,New,Normal,Cold,,371.4,371.4,0,0,49300,,,0
+L-10856,Felix Ward,Q4 product launch,B2B,Healthcare,Meeting,New,Low,Spam,,418.4,418.4,0,0,0,,gibberish,0.87
+L-10857,Hugo Price,Influencer campaign,SMB,Retail,Email,New,High,Warm,,287.7,287.7,0,0,2200,,,0
+L-10858,Lena Bell,Lead generation,B2B,SaaS,LinkedIn Ads,New,High,Cold,,375.4,375.4,0,0,54200,,,0
+L-10859,Ryan Ward,Lead generation,B2B,Logistics,Website,New,Low,Spam,,78.9,78.9,0,0,0,,gibberish,0.9
+L-10860,Clara Moore,Email automation,B2B,Finance,Meeting,New,High,Warm,,28.4,28.4,1,0,33500,,,0
+L-10861,Zoe Marsh,Landing page A/B tests,SMB,SaaS,LinkedIn Ads,New,Low,Spam,,209.8,209.8,0,0,0,,gibberish,0.72
+L-10862,Felix Dunn,Brand refresh,B2B,Finance,Email,New,High,Cold,,357.4,357.4,0,0,47300,,,0
+L-10863,Noah Quinn,Ongoing performance marketing,SMB,Real estate,Referral,New,Low,Spam,,9.6,9.6,0,0,0,,gibberish,0.65
+L-10864,Hugo Evans,Content plan,SMB,Education,Meeting,New,High,Warm,,15.1,15.1,2,0,6100,,,0
+L-10865,Nina Reed,Paid ads & analytics,B2B,Logistics,LinkedIn Ads,New,Low,Duplicate,,103.4,103.4,1,0,44100,L-10735,,0
+L-10866,Nora Stone,CRM setup,SMB,SaaS,Email,New,High,Warm,,340.3,340.3,1,0,12100,,,0
+L-10867,Mia Lee,Retargeting setup,B2B,Retail,Email,New,Normal,Cold,,230.2,230.2,0,0,12600,,,0
+L-10868,Zoe Webb,Social media strategy,B2B,Healthcare,Call,New,High,Warm,,293.1,293.1,0,0,55600,,,0
+L-10869,Hugo Cole,Influencer campaign,SMB,Retail,Meeting,New,High,Warm,,284.4,284.4,0,0,12500,,,0
+L-10870,Paul Hayes,Brand refresh,SMB,SaaS,Meeting,New,High,Warm,,148.5,148.5,0,0,14400,,,0
+L-10871,Emma Marsh,Social media strategy,B2B,SaaS,Website,New,High,Warm,,5.8,5.8,0,0,55400,,,0
+L-10872,Jamie Hart,Brand refresh,Enterprise,SaaS,Call,New,Low,Spam,,100.9,100.9,0,0,0,,nocontact,0.57
+L-10873,Leo Dawson,Paid ads & analytics,SMB,Finance,Website,New,High,Warm,,29.9,29.9,0,0,8600,,,0
+L-10874,Alice Nash,Full-funnel campaign,B2B,Logistics,Email,New,Normal,Cold,,214.8,214.8,0,0,55800,,,0
+L-10875,Sophie Hill,CRM setup,SMB,Finance,Email,New,Critical,Warm,,27.3,27.3,3,1,11300,,,0
+L-10876,Theo Lane,Brand refresh,SMB,SaaS,Website,New,High,Warm,,539.1,539.1,0,0,12800,,,0
+L-10877,Hugo Carter,Social media strategy,SMB,Healthcare,Meeting,New,Normal,Cold,,170.8,170.8,0,0,12600,,,0
+L-10878,Clara Webb,Content plan,SMB,SaaS,Website,New,Normal,Cold,,22.6,22.6,0,0,13800,,,0
+L-10879,Leo Brooks,Lead generation,B2B,SaaS,Call,New,Low,Spam,,557.9,557.9,0,0,0,,repeat,0.77
+L-10880,Adam Lane,Lead generation,B2B,Real estate,Website,New,High,Warm,,163.2,163.2,0,0,29800,,,0
+L-10881,Nina Shaw,Email automation,B2B,Education,Call,New,Normal,Cold,,5.7,5.7,0,0,24000,,,0
+L-10882,Jamie Lane,Email automation,Enterprise,Logistics,Referral,New,Normal,Cold,,186.3,186.3,0,0,203100,,,0
+L-10883,Emma Dunn,Brand refresh,SMB,Real estate,Call,New,Critical,Cold,,67.7,67.7,2,1,11000,,,0
+L-10884,Felix Shaw,Website PPC campaign,Enterprise,Retail,LinkedIn Ads,New,Normal,Cold,,370.5,370.5,0,0,191300,,,0
+L-10885,Adam Carter,Lead generation,SMB,Logistics,Referral,New,High,Warm,,288.0,288.0,0,0,4700,,,0
+L-10886,Clara Marsh,Influencer campaign,SMB,Finance,Call,New,Normal,Cold,,660.7,660.7,0,0,9500,,,0
+L-10887,Oliver Lane,Q4 product launch,SMB,Retail,LinkedIn Ads,New,Normal,Cold,,319.2,319.2,0,0,10600,,,0
+L-10888,Emma Frost,Paid ads & analytics,B2B,Healthcare,Website,New,High,Cold,,257.2,257.2,0,0,53000,,,0
+L-10889,Nora Pike,Website PPC campaign,B2B,Real estate,Meeting,New,Normal,Cold,,63.6,63.6,0,0,18300,,,0
+L-10890,Alice Marsh,Email automation,Enterprise,Real estate,Call,New,Low,Spam,,256.2,256.2,0,0,0,,offtopic,0.94
+L-10891,Jamie Ward,Website PPC campaign,SMB,Education,Call,New,Normal,Cold,,443.1,443.1,0,0,8200,,,0
+L-10892,Theo Pike,Q4 product launch,SMB,Healthcare,LinkedIn Ads,New,Normal,Cold,,161.3,161.3,0,0,11700,,,0
+L-10893,Mia Young,Q4 product launch,B2B,Healthcare,Website,New,High,Warm,,303.7,303.7,0,0,25400,,,0
+L-10894,Victor Hart,Social media strategy,SMB,Education,Website,New,Normal,Cold,,20.1,20.1,0,0,6700,,,0
+L-10895,Ryan Quinn,Q4 product launch,SMB,Education,LinkedIn Ads,New,Normal,Cold,,215.9,215.9,0,0,8400,,,0
+L-10896,Theo Lane,CRM setup,Enterprise,Healthcare,Call,New,High,Cold,,22.5,22.5,0,0,185900,,,0
+L-10897,Marta Shaw,Q4 product launch,SMB,Logistics,LinkedIn Ads,New,Normal,Cold,,154.6,154.6,0,0,7900,,,0
+L-10898,Sophie Moore,CRM setup,B2B,Logistics,LinkedIn Ads,New,High,Warm,,111.8,111.8,0,0,10000,,,0
+L-10899,Hugo Ward,Lead generation,SMB,Finance,LinkedIn Ads,New,Normal,Cold,,86.6,86.6,0,0,8800,,,0
+L-10900,Mia Brooks,Ongoing performance marketing,SMB,Education,Call,New,Low,Duplicate,,45.2,45.2,1,0,10900,L-10132,,0
+L-10901,Nina Hayes,Ongoing performance marketing,B2B,Finance,Call,New,Low,Spam,,16.2,16.2,0,0,0,,gibberish,0.83
+L-10902,Alicia Gray,Q4 product launch,B2B,Retail,Email,New,Normal,Cold,,127.8,127.8,0,0,52000,,,0
+L-10903,Emma Hayes,Full-funnel campaign,SMB,Retail,Meeting,New,Low,Duplicate,,335.5,335.5,1,0,2500,L-10003,,0
+L-10904,Ava Quinn,Brand refresh,Enterprise,Education,Call,New,High,Warm,,741.4,741.4,0,0,53600,,,0
+L-10905,Alicia Brooks,Landing page A/B tests,Enterprise,Healthcare,Meeting,New,High,Cold,,218.6,218.6,0,0,224100,,,0
+L-10906,Victor Moore,Email automation,SMB,SaaS,Email,New,Low,Spam,,200.7,200.7,0,0,0,,offtopic,0.84
+L-10907,Mia Pike,Website PPC campaign,SMB,Finance,Email,New,High,Warm,,7.5,7.5,1,0,11100,,,0
+L-10908,Irene Kingston,Social media strategy,Enterprise,Finance,Email,New,Low,Spam,,101.8,101.8,0,0,0,,offtopic,0.86
+L-10909,Zoe Bell,Q4 product launch,Enterprise,Real estate,LinkedIn Ads,New,Critical,Warm,,75.5,75.5,0,1,77800,,,0
+L-10910,Theo Reed,Brand refresh,SMB,Retail,Website,New,Normal,Cold,,94.3,94.3,0,0,13900,,,0
+L-10911,Zoe Cole,CRM setup,SMB,SaaS,Email,New,Low,Duplicate,,53.5,53.5,1,0,9100,L-10817,,0
+L-10912,Chloe Dawson,Landing page A/B tests,Enterprise,Healthcare,Referral,New,High,Cold,,194.5,194.5,0,0,136100,,,0
+L-10913,Ava Hart,Paid ads & analytics,B2B,Education,Referral,New,Normal,Cold,,33.4,33.4,0,0,22700,,,0
+L-10914,Clara Reed,Full-funnel campaign,B2B,Finance,Referral,New,Normal,Cold,,413.7,413.7,0,0,25500,,,0
+L-10915,Adam Kingston,Brand refresh,SMB,Retail,Website,New,Low,Duplicate,,48.1,48.1,1,0,8600,L-10554,,0
+L-10916,Leo Webb,Q4 product launch,Enterprise,Finance,Website,New,Low,Spam,,62.0,62.0,0,0,0,,domain,0.66
+L-10917,Marta Evans,Retargeting setup,SMB,Education,Call,New,Low,Spam,,36.0,36.0,0,0,0,,gibberish,0.72
+L-10918,Ryan Cole,Content plan,SMB,Healthcare,Call,New,Normal,Cold,,10.1,10.1,0,0,11300,,,0
+L-10919,Nina Brooks,Email automation,B2B,Finance,Email,New,High,Cold,,533.0,533.0,0,0,41500,,,0
+L-10920,Nina Lee,Email automation,SMB,Finance,Meeting,New,Low,Spam,,192.3,192.3,0,0,0,,offtopic,0.72
+L-10921,Ethan Moore,Email automation,Enterprise,Retail,Call,New,Critical,Warm,,123.8,123.8,0,0,121100,,,0
+L-10922,Chloe Stone,Q4 product launch,B2B,Finance,Call,New,High,Cold,,507.9,507.9,0,0,39800,,,0
+L-10923,Leo Kingston,Email automation,B2B,Retail,Meeting,New,Low,Spam,,778.9,778.9,0,0,0,,offtopic,0.97
+L-10924,Alicia Kingston,SEO audit,SMB,SaaS,Email,New,Normal,Cold,,73.2,73.2,1,0,9200,,,0
+L-10925,Nora West,Ongoing performance marketing,B2B,SaaS,Referral,In Progress,High,Warm,Андрій М.,89.7,4.2,0,0,59700,,,0
+L-10926,Alice Quinn,Brand refresh,SMB,Retail,Email,In Progress,High,Warm,Ірина Д.,17.8,11.7,1,0,3900,,,0
+L-10927,Daniel Fox,Brand refresh,B2B,Retail,Website,In Progress,High,Warm,Олена К.,29.5,21.0,0,0,28400,,,0
+L-10928,Nora Reed,Landing page A/B tests,B2B,SaaS,Referral,In Progress,High,Warm,Максим Т.,69.8,38.5,0,0,55800,,,0
+L-10929,Noah Bell,Full-funnel campaign,B2B,Real estate,Meeting,In Progress,High,Warm,Ірина Д.,31.2,12.7,0,0,54900,,,0
+L-10930,Adam Hayes,Lead generation,SMB,Logistics,Referral,In Progress,Normal,Cold,Денис Р.,69.8,5.0,0,0,10400,,,0
+L-10931,Julia Fox,Retargeting setup,B2B,Logistics,Website,In Progress,High,Warm,Андрій М.,125.1,108.5,0,0,39000,,,0
+L-10932,Alice Stone,Influencer campaign,SMB,Finance,LinkedIn Ads,In Progress,High,Warm,Денис Р.,62.9,40.3,0,0,8600,,,0
+L-10933,Noah Hill,Content plan,B2B,Finance,LinkedIn Ads,In Progress,High,Warm,Олена К.,92.4,28.6,0,0,36300,,,0
+L-10934,Julia Gray,Landing page A/B tests,SMB,Healthcare,Email,In Progress,Normal,Cold,Андрій М.,36.1,2.1,0,0,7200,,,0
+L-10935,Daniel Evans,CRM setup,B2B,Retail,Website,In Progress,Normal,Cold,Ірина Д.,13.7,4.7,1,0,51800,,,0
+L-10936,Theo Frost,Social media strategy,B2B,Education,Website,In Progress,High,Warm,Максим Т.,25.5,22.0,0,0,40700,,,0
+L-10937,Jamie Kingston,Retargeting setup,B2B,Retail,Website,In Progress,High,Warm,Максим Т.,31.8,29.3,0,0,58400,,,0
+L-10938,Irene Hill,Brand refresh,B2B,Logistics,Email,In Progress,High,Warm,Ірина Д.,103.8,51.2,0,0,35500,,,0
+L-10939,Felix Shaw,CRM setup,SMB,Logistics,Call,In Progress,Normal,Cold,Ірина Д.,114.1,82.5,0,0,14400,,,0
+L-10940,Alicia White,Brand refresh,B2B,Logistics,Referral,In Progress,High,Warm,Андрій М.,98.6,83.8,0,0,19500,,,0
+L-10941,Theo Dunn,Lead generation,Enterprise,Real estate,Call,In Progress,Critical,Warm,Олена К.,91.2,22.1,3,0,245900,,,0
+L-10942,Theo Hart,Landing page A/B tests,Enterprise,Education,Meeting,In Progress,Critical,Warm,Максим Т.,49.8,42.1,0,0,168900,,,0
+L-10943,Daniel Kingston,Influencer campaign,B2B,Real estate,Meeting,In Progress,High,Warm,Андрій М.,89.1,39.1,3,0,13500,,,0
+L-10944,Hugo Bell,Website PPC campaign,SMB,Real estate,Email,In Progress,High,Warm,Андрій М.,105.3,64.2,0,0,3100,,,0
+L-10945,Victor Fox,Content plan,SMB,Logistics,Call,In Progress,High,Warm,Олена К.,101.8,14.2,0,0,9700,,,0
+L-10946,Hugo Webb,Retargeting setup,B2B,Real estate,Email,In Progress,High,Warm,Олена К.,96.3,43.1,0,0,46300,,,0
+L-10947,Nora Quinn,Brand refresh,B2B,SaaS,Email,In Progress,Critical,Warm,Максим Т.,35.5,13.3,0,1,11600,,,0
+L-10948,Julia White,Lead generation,B2B,Education,Call,In Progress,High,Warm,Софія Л.,53.9,7.9,0,0,54000,,,0
+L-10949,Marta Hayes,SEO audit,B2B,Logistics,Email,In Progress,Normal,Cold,Софія Л.,12.9,7.3,0,0,16000,,,0
+L-10950,Leo Kingston,Brand refresh,Enterprise,Retail,Call,In Progress,Critical,Warm,Андрій М.,27.4,12.2,0,0,172900,,,0
+L-10951,Chloe Pike,CRM setup,B2B,Healthcare,LinkedIn Ads,In Progress,High,Warm,Олена К.,11.0,5.9,0,0,49200,,,0
+L-10952,Adam White,Q4 product launch,B2B,Retail,Website,In Progress,High,Warm,Ірина Д.,89.7,47.6,0,0,30200,,,0
+L-10953,Sophie Dawson,Retargeting setup,SMB,Retail,Email,In Progress,High,Warm,Ірина Д.,75.3,13.3,0,0,2700,,,0
+L-10954,Felix Marsh,Ongoing performance marketing,Enterprise,SaaS,Email,In Progress,High,Cold,Ірина Д.,102.0,42.6,0,0,95000,,,0
+L-10955,Clara Dawson,Brand refresh,SMB,Logistics,Referral,In Progress,High,Warm,Денис Р.,116.6,73.9,0,0,13800,,,0
+L-10956,Alicia Brooks,Content plan,SMB,Real estate,Call,In Progress,Normal,Cold,Софія Л.,115.0,41.3,0,0,14700,,,0
+L-10957,Emma Quinn,Influencer campaign,B2B,Real estate,Email,In Progress,High,Warm,Денис Р.,90.2,35.2,0,0,29800,,,0
+L-10958,Paul Pike,Ongoing performance marketing,SMB,Logistics,Referral,In Progress,High,Warm,Ірина Д.,84.5,50.1,0,0,2300,,,0
+L-10959,Mia Hayes,Website PPC campaign,B2B,Logistics,Call,In Progress,High,Warm,Максим Т.,99.2,6.2,0,0,59100,,,0
+L-10960,Lena Carter,Paid ads & analytics,Enterprise,Logistics,Website,In Progress,High,Warm,Максим Т.,5.3,3.2,0,0,63700,,,0
+L-10961,Noah Price,Influencer campaign,B2B,Logistics,Email,Waiting for Brief,High,Warm,Олена К.,109.9,103.0,0,0,55400,,,0
+L-10962,Lucas Carter,SEO audit,B2B,SaaS,Meeting,Waiting for Brief,High,Cold,Софія Л.,114.2,22.0,0,0,55300,,,0
+L-10963,Alice Dunn,Paid ads & analytics,B2B,Finance,LinkedIn Ads,Waiting for Brief,High,Warm,Ірина Д.,19.0,10.6,0,0,35800,,,0
+L-10964,Julia Hayes,Influencer campaign,SMB,SaaS,Meeting,Waiting for Brief,High,Warm,Ірина Д.,75.5,41.5,0,0,5600,,,0
+L-10965,Felix Shaw,SEO audit,B2B,Logistics,Meeting,Waiting for Brief,High,Warm,Олена К.,50.1,17.1,0,0,52800,,,0
+L-10966,Mia West,Social media strategy,Enterprise,Education,Website,Waiting for Brief,Critical,Warm,Андрій М.,43.7,36.2,0,1,110000,,,0
+L-10967,Nina Evans,Content plan,Enterprise,Retail,Website,Waiting for Brief,Critical,Warm,Денис Р.,15.6,14.1,0,0,85400,,,0
+L-10968,Ava Cole,Website PPC campaign,SMB,SaaS,Email,Waiting for Brief,Normal,Cold,Максим Т.,83.4,12.7,0,0,3600,,,0
+L-10969,Chloe Evans,SEO audit,B2B,SaaS,Meeting,Waiting for Brief,High,Cold,Софія Л.,75.8,4.1,0,0,34500,,,0
+L-10970,Ava White,Paid ads & analytics,B2B,Education,Meeting,Waiting for Brief,Normal,Cold,Андрій М.,18.5,9.4,0,0,11900,,,0
+L-10971,Ethan Ward,Q4 product launch,B2B,Healthcare,LinkedIn Ads,Waiting for Brief,High,Warm,Софія Л.,62.0,59.0,0,0,26900,,,0
+L-10972,Theo Gray,Full-funnel campaign,B2B,Healthcare,Email,Waiting for Brief,Critical,Warm,Ірина Д.,89.6,35.7,0,1,47000,,,0
+L-10973,Leo Shaw,SEO audit,SMB,SaaS,Meeting,Waiting for Brief,Normal,Cold,Денис Р.,36.9,30.0,0,0,10800,,,0
+L-10974,Zoe Price,Full-funnel campaign,SMB,Retail,Website,Waiting for Brief,High,Warm,Олена К.,67.9,17.4,0,0,12900,,,0
+L-10975,Theo Hart,CRM setup,B2B,Retail,Email,Waiting for Brief,High,Warm,Софія Л.,115.5,36.0,0,0,11600,,,0
+L-10976,Ethan Young,Retargeting setup,Enterprise,SaaS,Meeting,Waiting for Brief,Critical,Warm,Андрій М.,61.1,18.0,3,0,63500,,,0
+L-10977,Liam Reed,Influencer campaign,B2B,Education,Website,Waiting for Brief,High,Warm,Софія Л.,83.2,34.6,0,0,33700,,,0
+L-10978,Jamie Reed,Paid ads & analytics,SMB,Finance,Meeting,Waiting for Brief,High,Warm,Андрій М.,113.8,90.7,0,0,8800,,,0
+L-10979,Marta Quinn,Paid ads & analytics,B2B,Healthcare,Website,Waiting for Brief,High,Cold,Денис Р.,95.4,44.4,0,0,40000,,,0
+L-10980,Irene Dawson,Social media strategy,B2B,Real estate,Meeting,Waiting for Brief,High,Warm,Андрій М.,61.2,55.9,0,0,24100,,,0
+L-10981,Clara Hart,Social media strategy,B2B,Logistics,Email,Waiting for Brief,High,Warm,Олена К.,43.6,15.0,0,0,10700,,,0
+L-10982,Julia Lane,Content plan,SMB,Healthcare,Call,Waiting for Brief,High,Warm,Денис Р.,56.1,19.8,0,0,6400,,,0
+L-10983,Ryan Nash,Ongoing performance marketing,Enterprise,SaaS,Call,Waiting for Brief,High,Warm,Денис Р.,99.5,89.0,0,0,55400,,,0
+L-10984,Zoe Webb,SEO audit,SMB,Healthcare,Call,Waiting for Brief,Critical,Warm,Софія Л.,116.6,10.1,0,1,9800,,,0
+L-10985,Irene White,Lead generation,SMB,Healthcare,Meeting,Waiting for Brief,High,Warm,Олена К.,6.2,3.5,0,0,6100,,,0
+L-10986,Jamie Moore,CRM setup,Enterprise,Healthcare,Call,Waiting for Brief,Critical,Warm,Олена К.,51.3,45.3,0,0,120600,,,0
+L-10987,Ethan Frost,Social media strategy,SMB,Retail,Website,Waiting for Brief,High,Warm,Ірина Д.,57.1,9.9,0,0,12000,,,0
+L-10988,Sophie Stone,Landing page A/B tests,SMB,Education,Call,Waiting for Brief,High,Warm,Софія Л.,91.0,89.8,0,0,6400,,,0
+L-10989,Hugo Frost,CRM setup,Enterprise,Real estate,LinkedIn Ads,Waiting for Brief,Critical,Warm,Андрій М.,65.3,63.7,0,0,177700,,,0
+L-10990,Noah Frost,Lead generation,SMB,Real estate,Referral,Waiting for Brief,High,Warm,Максим Т.,28.1,3.1,0,0,7300,,,0
+L-10991,Felix Lane,Paid ads & analytics,B2B,SaaS,LinkedIn Ads,Waiting for Brief,High,Warm,Денис Р.,86.2,7.9,0,0,37100,,,0
+L-10992,Nina Kingston,Ongoing performance marketing,B2B,Real estate,Call,Waiting for Brief,High,Warm,Софія Л.,114.7,6.7,0,0,32500,,,0
+L-10993,Victor Marsh,Content plan,B2B,Real estate,Meeting,Waiting for Brief,Critical,Warm,Денис Р.,20.8,3.4,2,1,37300,,,0
+L-10994,Daniel Pike,Paid ads & analytics,SMB,Education,Meeting,Waiting for Brief,High,Warm,Максим Т.,37.1,36.5,0,0,11900,,,0
+L-10995,Ryan Lane,Full-funnel campaign,B2B,Logistics,Website,Waiting for Brief,High,Warm,Софія Л.,109.0,63.8,0,0,38800,,,0
+L-10996,Victor Price,Retargeting setup,SMB,Education,Call,Waiting for Brief,High,Warm,Софія Л.,11.2,6.1,0,0,7700,,,0
+L-10997,Victor Cole,Social media strategy,Enterprise,Logistics,LinkedIn Ads,Waiting for Brief,Critical,Warm,Софія Л.,65.7,14.8,3,0,139200,,,0
+L-10998,Ava White,Brand refresh,SMB,SaaS,Call,Waiting for Brief,High,Warm,Максим Т.,86.1,79.3,0,0,11700,,,0
+L-10999,Emma Young,Content plan,B2B,Healthcare,Call,Waiting for Brief,High,Warm,Олена К.,33.6,24.0,0,0,59200,,,0
+L-11000,Paul Pike,Ongoing performance marketing,SMB,Retail,Website,Waiting for Brief,High,Warm,Максим Т.,85.2,7.2,0,0,6600,,,0
+L-11001,Emma Kingston,Influencer campaign,SMB,Real estate,Call,Waiting for Brief,Critical,Warm,Ірина Д.,45.4,44.0,0,1,2900,,,0
+L-11002,Adam Ward,Q4 product launch,B2B,Retail,LinkedIn Ads,Waiting for Brief,High,Cold,Олена К.,106.2,102.0,2,0,46600,,,0
+L-11003,Ryan Fox,Email automation,Enterprise,Finance,Call,Waiting for Brief,High,Cold,Денис Р.,127.0,84.0,0,0,198400,,,0
+L-11004,Theo Kingston,Influencer campaign,B2B,Real estate,Call,Waiting for Brief,High,Warm,Ірина Д.,69.2,19.6,0,0,26600,,,0
+L-11005,Lucas Stone,Website PPC campaign,SMB,Retail,Website,Waiting for Brief,High,Warm,Ірина Д.,31.2,26.8,0,0,13800,,,0
+L-11006,Clara Nash,Q4 product launch,B2B,Real estate,Call,Waiting for Brief,Critical,Warm,Софія Л.,92.0,22.3,0,1,29600,,,0
+L-11007,Noah Nash,Full-funnel campaign,B2B,Healthcare,Referral,Waiting for Brief,High,Warm,Олена К.,18.1,2.3,0,0,58400,,,0
+L-11008,Alicia Young,Landing page A/B tests,SMB,SaaS,Meeting,Waiting for Brief,High,Warm,Ірина Д.,65.2,30.7,0,0,7100,,,0
+L-11009,Paul Hill,Brand refresh,B2B,Logistics,Email,Proposal,Normal,Cold,Максим Т.,114.4,70.5,0,0,11200,,,0
+L-11010,Noah Stone,Lead generation,B2B,Retail,LinkedIn Ads,Proposal,High,Warm,Ірина Д.,41.2,20.1,0,0,29400,,,0
+L-11011,Ethan Marsh,Social media strategy,B2B,Education,Call,Proposal,High,Warm,Андрій М.,56.5,37.2,0,0,35300,,,0
+L-11012,Ethan Lee,Email automation,SMB,SaaS,LinkedIn Ads,Proposal,High,Warm,Олена К.,96.6,59.6,0,0,14400,,,0
+L-11013,Nina Bell,Social media strategy,B2B,Finance,Meeting,Proposal,High,Warm,Максим Т.,93.0,45.7,0,0,41900,,,0
+L-11014,Paul Price,Influencer campaign,SMB,Healthcare,Email,Proposal,High,Warm,Андрій М.,121.3,91.4,0,0,2900,,,0
+L-11015,Marta Moore,Paid ads & analytics,B2B,Retail,Referral,Proposal,High,Warm,Софія Л.,52.3,35.0,0,0,24200,,,0
+L-11016,Lena Dunn,Retargeting setup,SMB,Logistics,LinkedIn Ads,Proposal,High,Warm,Андрій М.,97.5,93.7,0,0,7500,,,0
+L-11017,Zoe Dawson,Paid ads & analytics,B2B,Education,Referral,Proposal,High,Warm,Олена К.,94.3,22.9,0,0,35600,,,0
+L-11018,Nina Marsh,Full-funnel campaign,Enterprise,Healthcare,Email,Proposal,Critical,Warm,Андрій М.,56.6,2.0,0,0,94000,,,0
+L-11019,Liam Pike,Retargeting setup,B2B,Retail,Website,Proposal,Normal,Cold,Олена К.,128.0,12.2,1,0,55000,,,0
+L-11020,Paul Shaw,Lead generation,SMB,Logistics,LinkedIn Ads,Proposal,High,Warm,Максим Т.,36.3,3.4,0,0,6500,,,0
+L-11021,Marta Brooks,Retargeting setup,B2B,SaaS,Call,Won,High,Warm,Андрій М.,105.3,175.3,0,0,53300,,,0
+L-11022,Felix Shaw,Retargeting setup,SMB,Logistics,Referral,Won,High,Warm,Софія Л.,121.1,501.0,1,0,14800,,,0
+L-11023,Hugo Gray,Full-funnel campaign,B2B,Retail,Email,Won,High,Warm,Олена К.,419.7,94.7,0,0,12200,,,0
+L-11024,Ryan Cole,Retargeting setup,SMB,SaaS,LinkedIn Ads,Won,High,Warm,Максим Т.,58.3,514.4,1,0,3800,,,0
+L-11025,Clara Dawson,SEO audit,SMB,SaaS,Website,Won,High,Warm,Софія Л.,243.3,614.0,0,0,2200,,,0
+L-11026,Victor Nash,Lead generation,B2B,Real estate,Referral,Won,Normal,Cold,Олена К.,344.0,342.1,0,0,14500,,,0
+L-11027,Mia Quinn,CRM setup,B2B,Healthcare,Referral,Won,High,Cold,Софія Л.,162.2,665.4,0,0,51800,,,0
+L-11028,Adam Hill,Social media strategy,SMB,SaaS,Call,Won,Critical,Cold,Софія Л.,58.3,674.9,0,1,2500,,,0
+L-11029,Lucas Price,CRM setup,SMB,Healthcare,Referral,Won,High,Warm,Олена К.,153.3,277.2,0,0,2900,,,0
+L-11030,Theo Cole,Full-funnel campaign,B2B,Real estate,Call,Won,High,Warm,Денис Р.,346.1,374.6,0,0,37300,,,0
+L-11031,Emma Price,SEO audit,B2B,Retail,Email,Won,High,Cold,Ірина Д.,415.2,254.8,2,0,30200,,,0
+L-11032,Felix West,SEO audit,SMB,Retail,Email,Won,Critical,Warm,Андрій М.,351.6,641.9,0,1,3400,,,0
+L-11033,Ava Cole,Social media strategy,SMB,Real estate,LinkedIn Ads,Won,High,Warm,Олена К.,185.5,663.7,0,0,10600,,,0
+L-11034,Noah Hill,CRM setup,B2B,Real estate,Email,Won,Normal,Cold,Ірина Д.,163.4,367.2,0,0,44500,,,0
+L-11035,Hugo Quinn,SEO audit,SMB,Real estate,Referral,Won,High,Warm,Андрій М.,196.4,75.3,0,0,9400,,,0
+L-11036,Alicia White,Q4 product launch,B2B,Finance,Email,Won,High,Warm,Андрій М.,51.5,59.7,2,0,16800,,,0
+L-11037,Emma Cole,Ongoing performance marketing,B2B,Education,Email,Won,High,Warm,Ірина Д.,127.8,464.3,3,0,44200,,,0
+L-11038,Liam Gray,Content plan,Enterprise,Retail,Email,Won,Critical,Warm,Олена К.,397.1,278.8,1,0,169500,,,0
+L-11039,Mia Kingston,Social media strategy,B2B,Finance,Meeting,Won,High,Warm,Максим Т.,219.0,393.5,0,0,55000,,,0
+L-11040,Ethan Stone,Email automation,SMB,Healthcare,Email,Won,High,Warm,Олена К.,53.3,103.3,0,0,6700,,,0
+L-11041,Julia Lee,CRM setup,Enterprise,Education,LinkedIn Ads,Won,Critical,Warm,Ірина Д.,234.1,658.4,0,0,226700,,,0
+L-11042,Zoe White,Retargeting setup,B2B,Healthcare,Website,Won,Normal,Cold,Олена К.,370.1,332.0,0,0,13700,,,0
+L-11043,Nina Price,Lead generation,SMB,SaaS,LinkedIn Ads,Won,High,Warm,Олена К.,173.4,117.3,0,0,14800,,,0
+L-11044,Felix Quinn,Influencer campaign,Enterprise,SaaS,Email,Won,Critical,Warm,Софія Л.,67.4,549.6,0,1,89400,,,0
+L-11045,Oliver Fox,SEO audit,B2B,Real estate,LinkedIn Ads,Won,Normal,Cold,Софія Л.,240.5,606.3,0,0,23400,,,0
+L-11046,Irene Young,Paid ads & analytics,B2B,Real estate,Meeting,Won,High,Warm,Денис Р.,133.0,363.4,0,0,25400,,,0
+L-11047,Lena Fox,Email automation,Enterprise,Healthcare,LinkedIn Ads,Won,High,Cold,Олена К.,158.5,29.6,0,0,76300,,,0
+L-11048,Ryan Reed,Content plan,SMB,Education,Meeting,Won,High,Warm,Денис Р.,81.3,249.5,0,0,8500,,,0
+L-11049,Ethan Gray,Content plan,SMB,Real estate,Email,Won,Critical,Warm,Олена К.,159.7,97.0,1,1,4900,,,0
+L-11050,Oliver Webb,Social media strategy,B2B,Logistics,Email,Won,High,Warm,Олена К.,399.7,407.8,0,0,41000,,,0
+L-11051,Theo Dunn,CRM setup,SMB,Retail,Meeting,Won,High,Warm,Андрій М.,123.9,574.0,0,0,6400,,,0
+L-11052,Victor Evans,Email automation,SMB,SaaS,Website,Won,High,Warm,Ірина Д.,213.6,675.9,0,0,5400,,,0
+L-11053,Leo West,Influencer campaign,SMB,Real estate,Call,Won,Critical,Warm,Андрій М.,391.3,140.7,0,1,14100,,,0
+L-11054,Ava Cole,Influencer campaign,B2B,Logistics,LinkedIn Ads,Won,High,Warm,Андрій М.,88.6,368.2,3,0,31600,,,0
+L-11055,Marta Kingston,Full-funnel campaign,B2B,Finance,Website,Won,High,Cold,Андрій М.,266.4,691.5,3,0,54500,,,0
+L-11056,Mia Fox,Lead generation,SMB,SaaS,Website,Won,High,Warm,Андрій М.,165.8,604.0,0,0,2700,,,0
+L-11057,Ava White,Full-funnel campaign,B2B,Education,Referral,Won,High,Warm,Денис Р.,257.1,652.3,0,0,59500,,,0
+L-11058,Ava Hayes,Paid ads & analytics,B2B,Logistics,Email,Won,Normal,Cold,Андрій М.,170.3,545.9,0,0,35100,,,0
+L-11059,Alicia Hayes,Content plan,SMB,Healthcare,Call,Won,High,Warm,Ірина Д.,164.7,479.5,1,0,14700,,,0
+L-11060,Leo Dunn,Email automation,B2B,Finance,Call,Won,High,Warm,Софія Л.,184.2,493.4,0,0,48400,,,0
+L-11061,Irene Dunn,Retargeting setup,B2B,Healthcare,Referral,Won,High,Warm,Максим Т.,286.7,146.2,0,0,39400,,,0
+L-11062,Zoe White,Email automation,B2B,SaaS,Meeting,Won,Normal,Cold,Андрій М.,211.9,81.8,0,0,25400,,,0
+L-11063,Alicia Lane,Paid ads & analytics,SMB,Logistics,LinkedIn Ads,Won,High,Warm,Максим Т.,227.8,623.6,0,0,11300,,,0
+L-11064,Lucas Dawson,Brand refresh,SMB,Finance,Email,Won,High,Warm,Андрій М.,139.2,391.2,0,0,5600,,,0
+L-11065,Oliver Kingston,Influencer campaign,Enterprise,Finance,Website,Won,High,Warm,Денис Р.,235.7,549.2,0,0,54300,,,0
+L-11066,Zoe Marsh,Ongoing performance marketing,Enterprise,SaaS,Email,Won,High,Cold,Максим Т.,360.1,306.9,0,0,190000,,,0
+L-11067,Jamie Bell,Retargeting setup,Enterprise,Retail,LinkedIn Ads,Won,Critical,Warm,Андрій М.,260.9,211.3,1,0,244200,,,0
+L-11068,Hugo Brooks,Paid ads & analytics,Enterprise,Healthcare,Meeting,Won,Critical,Warm,Ірина Д.,58.8,678.4,0,0,129100,,,0
+L-11069,Irene Lane,Q4 product launch,SMB,Finance,Meeting,Won,High,Warm,Софія Л.,249.0,450.2,0,0,6600,,,0
+L-11070,Marta Ward,CRM setup,SMB,Healthcare,Call,Won,Critical,Warm,Денис Р.,376.5,561.6,0,1,14700,,,0
+L-11071,Emma Carter,Content plan,B2B,Finance,Call,Won,Normal,Cold,Андрій М.,175.4,260.2,0,0,12400,,,0
+L-11072,Nina Brooks,Ongoing performance marketing,B2B,Logistics,Email,Won,High,Warm,Олена К.,188.2,369.0,0,0,42500,,,0
+L-11073,Marta Lee,SEO audit,SMB,Education,Website,Won,Normal,Cold,Олена К.,217.0,690.3,1,0,13900,,,0
+L-11074,Mia Shaw,Social media strategy,Enterprise,Logistics,Call,Won,Critical,Warm,Ірина Д.,191.8,436.0,0,0,168800,,,0
+L-11075,Paul Carter,Website PPC campaign,B2B,Logistics,Meeting,Won,High,Warm,Олена К.,55.8,513.5,2,0,49600,,,0
+L-11076,Ryan Carter,Website PPC campaign,B2B,Retail,LinkedIn Ads,Won,High,Warm,Олена К.,94.1,70.0,0,0,41300,,,0
+L-11077,Emma Frost,Landing page A/B tests,SMB,Healthcare,Website,Won,High,Warm,Ірина Д.,84.7,70.5,0,0,10800,,,0
+L-11078,Daniel Gray,Landing page A/B tests,SMB,Logistics,Email,Won,Critical,Warm,Андрій М.,332.4,635.8,0,1,13400,,,0
+L-11079,Ryan West,Brand refresh,Enterprise,Education,LinkedIn Ads,Won,Normal,Cold,Андрій М.,198.2,122.5,0,0,89200,,,0
+L-11080,Marta Fox,Paid ads & analytics,B2B,Logistics,LinkedIn Ads,Won,High,Warm,Ірина Д.,264.0,56.6,0,0,53100,,,0
+L-11081,Lucas Lee,Retargeting setup,SMB,Logistics,Email,Won,Critical,Cold,Максим Т.,340.5,98.7,1,1,3000,,,0
+L-11082,Hugo Lane,Ongoing performance marketing,B2B,Retail,Meeting,Won,High,Warm,Софія Л.,196.6,576.5,3,0,53500,,,0
+L-11083,Ethan Reed,Lead generation,B2B,SaaS,Website,Won,High,Cold,Максим Т.,315.3,519.3,0,0,54100,,,0
+L-11084,Alice White,Website PPC campaign,SMB,SaaS,Call,Won,High,Warm,Олена К.,212.1,434.4,0,0,13800,,,0
+L-11085,Noah Moore,Website PPC campaign,Enterprise,Real estate,Email,Won,Critical,Warm,Ірина Д.,41.7,163.5,1,0,50500,,,0
+L-11086,Ryan Evans,Social media strategy,B2B,Finance,Website,Won,High,Cold,Максим Т.,336.5,42.0,0,0,37900,,,0
+L-11087,Adam Marsh,Influencer campaign,SMB,SaaS,Referral,Won,Critical,Warm,Софія Л.,402.6,627.5,1,1,7300,,,0
+L-11088,Julia Bell,Influencer campaign,SMB,Healthcare,Referral,Won,High,Warm,Максим Т.,366.0,185.9,0,0,9300,,,0
+L-11089,Ethan Marsh,CRM setup,B2B,Logistics,Call,Won,High,Warm,Андрій М.,418.8,307.6,0,0,45100,,,0
+L-11090,Ava Hart,Full-funnel campaign,SMB,SaaS,Referral,Won,Normal,Cold,Олена К.,79.3,479.6,0,0,6700,,,0
+L-11091,Alicia Price,Website PPC campaign,B2B,Retail,LinkedIn Ads,Won,High,Warm,Олена К.,62.8,70.6,0,0,23300,,,0
+L-11092,Zoe Fox,Lead generation,SMB,Logistics,LinkedIn Ads,Won,Normal,Cold,Денис Р.,89.2,303.6,0,0,3800,,,0
+L-11093,Paul West,Ongoing performance marketing,SMB,Healthcare,Website,Won,Normal,Cold,Максим Т.,391.7,102.3,1,0,5800,,,0
+L-11094,Ava Bell,Retargeting setup,B2B,SaaS,Referral,Won,High,Warm,Олена К.,95.4,516.6,0,0,24400,,,0
+L-11095,Nina Evans,Full-funnel campaign,B2B,Real estate,Website,Won,High,Warm,Олена К.,349.8,344.5,0,0,58100,,,0
+L-11096,Theo Cole,Brand refresh,SMB,Healthcare,Meeting,Won,High,Warm,Софія Л.,266.3,549.7,0,0,7200,,,0
+L-11097,Jamie Hart,Content plan,Enterprise,Finance,Referral,Won,Critical,Warm,Андрій М.,139.3,495.3,1,0,95800,,,0
+L-11098,Ryan Brooks,Website PPC campaign,SMB,Finance,Call,Won,High,Warm,Андрій М.,229.3,97.6,0,0,13400,,,0
+L-11099,Emma Moore,Social media strategy,Enterprise,SaaS,Call,Won,Critical,Warm,Андрій М.,284.1,674.2,0,0,163700,,,0
+L-11100,Ethan Gray,Q4 product launch,B2B,Healthcare,LinkedIn Ads,Won,High,Cold,Денис Р.,56.3,102.4,1,0,37300,,,0
+L-11101,Paul Evans,Website PPC campaign,B2B,Education,LinkedIn Ads,Won,High,Warm,Андрій М.,128.2,674.9,0,0,51100,,,0
+L-11102,Alicia Shaw,Content plan,B2B,Retail,Referral,Won,High,Warm,Ірина Д.,59.1,53.2,0,0,34900,,,0
+L-11103,Victor Pike,Website PPC campaign,Enterprise,Real estate,Meeting,Won,Normal,Cold,Максим Т.,406.4,101.7,0,0,142800,,,0
+L-11104,Ryan Quinn,Content plan,B2B,Real estate,Email,Won,High,Warm,Олена К.,287.1,347.6,0,0,19900,,,0
+L-11105,Alicia Ward,Paid ads & analytics,B2B,Logistics,Call,Won,High,Warm,Софія Л.,340.5,318.6,0,0,15900,,,0
+L-11106,Jamie Fox,Website PPC campaign,SMB,Education,Meeting,Won,Normal,Cold,Софія Л.,379.7,146.0,0,0,8000,,,0
+L-11107,Marta Carter,Social media strategy,SMB,Logistics,Referral,Won,High,Warm,Андрій М.,73.4,112.1,0,0,3600,,,0
+L-11108,Zoe Fox,Full-funnel campaign,SMB,Logistics,Referral,Won,High,Warm,Софія Л.,272.5,216.9,0,0,2400,,,0
+L-11109,Chloe Hayes,Paid ads & analytics,SMB,SaaS,Meeting,Won,High,Warm,Андрій М.,68.0,256.6,0,0,14000,,,0
+L-11110,Adam Hart,Ongoing performance marketing,B2B,Real estate,Website,Won,High,Warm,Ірина Д.,113.8,63.1,0,0,53500,,,0
+L-11111,Alicia Shaw,CRM setup,B2B,Logistics,Email,Won,High,Warm,Андрій М.,98.8,252.2,0,0,28200,,,0
+L-11112,Clara Pike,CRM setup,Enterprise,Healthcare,LinkedIn Ads,Won,Critical,Cold,Андрій М.,313.4,220.6,0,1,185000,,,0
+L-11113,Clara Ward,Retargeting setup,B2B,Finance,LinkedIn Ads,Won,High,Warm,Софія Л.,180.6,521.5,0,0,55700,,,0
+L-11114,Hugo Cole,Paid ads & analytics,B2B,Retail,Email,Won,High,Warm,Денис Р.,388.2,268.2,0,0,21600,,,0
+L-11115,Adam Lane,Ongoing performance marketing,SMB,Education,Referral,Won,High,Warm,Олена К.,291.7,86.5,0,0,2400,,,0
+L-11116,Marta Frost,Paid ads & analytics,B2B,Education,LinkedIn Ads,Won,High,Warm,Денис Р.,198.1,523.3,2,0,13300,,,0
+L-11117,Emma Nash,Email automation,SMB,Healthcare,Call,Won,Normal,Cold,Ірина Д.,345.4,497.4,0,0,5300,,,0
+L-11118,Adam Moore,Email automation,SMB,Education,Website,Won,High,Warm,Денис Р.,258.2,677.4,0,0,10200,,,0
+L-11119,Oliver Lane,Lead generation,Enterprise,SaaS,LinkedIn Ads,Won,High,Warm,Денис Р.,223.6,281.2,0,0,76600,,,0
+L-11120,Daniel West,Content plan,B2B,Logistics,Referral,Won,Critical,Warm,Олена К.,201.7,427.4,0,1,28200,,,0
+L-11121,Victor Lee,Email automation,B2B,Real estate,Website,Won,Critical,Warm,Олена К.,235.3,613.3,1,1,36900,,,0
+L-11122,Jamie Stone,Paid ads & analytics,SMB,SaaS,Website,Won,Critical,Warm,Андрій М.,295.4,408.7,0,1,2800,,,0
+L-11123,Leo Young,Q4 product launch,SMB,Logistics,Email,Won,Normal,Cold,Денис Р.,360.6,119.8,0,0,2100,,,0
+L-11124,Ethan Brooks,Paid ads & analytics,B2B,Healthcare,Call,Won,High,Cold,Софія Л.,265.6,415.9,0,0,41800,,,0
+L-11125,Alicia Webb,Paid ads & analytics,B2B,Real estate,Call,Won,High,Warm,Софія Л.,210.9,627.9,0,0,39200,,,0
+L-11126,Felix Reed,Q4 product launch,B2B,Retail,Referral,Won,Critical,Warm,Денис Р.,52.6,416.8,0,1,49300,,,0
+L-11127,Hugo Hayes,Brand refresh,SMB,SaaS,LinkedIn Ads,Won,High,Warm,Андрій М.,249.7,445.8,0,0,14600,,,0
+L-11128,Adam Cole,Paid ads & analytics,B2B,Healthcare,LinkedIn Ads,Won,High,Warm,Андрій М.,411.3,670.9,0,0,35200,,,0
+L-11129,Daniel Shaw,Paid ads & analytics,B2B,Real estate,LinkedIn Ads,Won,High,Warm,Денис Р.,81.1,336.6,0,0,26900,,,0
+L-11130,Hugo Moore,Brand refresh,SMB,Finance,LinkedIn Ads,Won,Critical,Cold,Максим Т.,284.6,464.9,0,1,6800,,,0
+L-11131,Jamie Cole,Paid ads & analytics,SMB,Real estate,Call,Won,Normal,Cold,Максим Т.,363.4,393.0,0,0,14700,,,0
+L-11132,Hugo Price,Brand refresh,B2B,Real estate,Email,Won,High,Warm,Максим Т.,104.1,426.3,0,0,34700,,,0
+L-11133,Alicia Marsh,Lead generation,SMB,Healthcare,LinkedIn Ads,Won,Critical,Warm,Андрій М.,97.2,522.8,0,1,3500,,,0
+L-11134,Jamie Moore,Brand refresh,Enterprise,Finance,Meeting,Won,Critical,Warm,Ірина Д.,321.8,419.2,0,0,172700,,,0
+L-11135,Jamie Quinn,Website PPC campaign,B2B,Retail,LinkedIn Ads,Won,Normal,Cold,Максим Т.,392.1,311.0,0,0,59700,,,0
+L-11136,Chloe Gray,Email automation,Enterprise,Real estate,Website,Won,Critical,Cold,Олена К.,291.1,368.9,0,1,166200,,,0
+L-11137,Irene Marsh,Influencer campaign,SMB,Logistics,Website,Won,High,Warm,Олена К.,74.1,185.3,1,0,5500,,,0
+L-11138,Adam Lee,Influencer campaign,Enterprise,Real estate,Call,Won,Critical,Warm,Денис Р.,163.8,411.4,0,0,178700,,,0
+L-11139,Nora Kingston,Landing page A/B tests,SMB,Logistics,Email,Won,High,Warm,Денис Р.,160.3,472.3,0,0,3200,,,0
+L-11140,Noah Gray,Retargeting setup,SMB,Healthcare,LinkedIn Ads,Won,High,Warm,Андрій М.,275.1,674.3,2,0,12300,,,0
