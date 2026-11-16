@@ -1,5 +1,7 @@
 # MarketerPro Lead Desk
 
+Demo link:https://annatsygichko-fe.github.io/leaddesk/
+
 Interactive prototype of a lead desk: auto-assignment instead of cherry-picking, spam review queue with return, priorities, time in status, team metrics, product metrics and an agent workspace.
 
 - One section at a time: the navigation tiles at the top show live numbers (leads in New and critical, spam to review, team progress, budget waiting) and open Pipeline, Spam review, Team or Metrics. Long sections are split into sub-tabs (for example Pipeline: Board, Quality & age, Duplicates)
