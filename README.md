@@ -2,6 +2,9 @@
 
 Interactive prototype of a lead desk: auto-assignment instead of cherry-picking, spam review queue with return, priorities, time in status, team metrics, product metrics and an agent workspace.
 
+- One section at a time: the navigation tiles at the top show live numbers (leads in New and critical, spam to review, team progress, budget waiting) and open Pipeline, Spam review, Team or Metrics. Long sections are split into sub-tabs (for example Pipeline: Board, Quality & age, Duplicates)
+- Two roles: **Manager** (team view) and **Agent** (pick who you are in the header). The agent view opens on **My day**: today's plan with tick boxes, critical leads that need action now, personal KPI against the team, and my leads by status. **My leads** opens the board filtered to that agent, **My numbers** shows the agent's own charts
+- Links such as `#v-agents` open a specific section; role and agent are remembered in the browser
 - Languages: English, Українська, Deutsch, Français
 - Light and dark theme, Montserrat font
 - Responsive from 320 px phones to 4K screens, touch-friendly controls
@@ -42,7 +45,7 @@ Data saved this way is private to one browser on one device. To share data betwe
 
 ## Use your own data (CSV)
 
-Open **Team → Import your data (CSV)**. Each file is optional, and every row is checked before anything is replaced. Templates can be downloaded from the same panel.
+Open **Team → Manage team → Import your data (CSV)** (manager role). Each file is optional, and every row is checked before anything is replaced. Templates can be downloaded from the same panel.
 
 | File | Required columns | Optional columns |
 |---|---|---|
